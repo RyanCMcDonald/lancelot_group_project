@@ -13,31 +13,24 @@ Food insecurity in the United States is a problem faced by communities from a br
 ---
 ## Executive Summary
 
-**After extensive review, EDA, and preprocessing we were able to develop a linear regression model that could account for over 93% of variability in our data. This model was the starting point for our enhanced analysis.  In addition to the production model, a time series analysis was conducted in order to forecast food insecurity rate as well as poverty rates for each of the United States.** 
+**After extensive review, EDA, and preprocessing we were able to develop a linear regression model that could account for over 93% of variability in our data. This model was the starting point for our enhanced analysis. In addition to the production model, a time series analysis was conducted in order to forecast food insecurity rate as well as poverty rates for each state in America.** 
 
-The information gained from our analysis could be used to better allocate resources to the areas that need it most. With overall trends showing food insecurity decreasing in the majority of states, areas of the deep south are still show concerns in the years to come.  
+The information gained from our analysis could be used to better allocate resources to the areas that need it most. Although overall our forecasts show food insecurity decreasing in the majority of states, areas of the deep south as well as New Mexico and Utah may face persistent problems in the years to come. 
 
+We did extensive EDA work to understand the relationship between the 60+ features in our dataset. Some of the more intuitive relevant findings are the degree to which poverty and food insecurity are correlated and the ways in which other indicators of health and nutrition are related to food insecurity. We also found less intuitive connections, like the correlation between being black and having children with a lower birth weight. 
 
-MORE MORE 
-MORE MORE
+In our modeling phase, we tested eight models in addition to our production model in an attempt to achieve a higher testing score. And, while some were very close or near identical in score, our production model provided the best mix of testing score, fit and use of computational resources. According to the model, the three predictors with the highest coefficients were the percent of the population that was disabled, percent of children in poverty and percent with fair or poor health. 
 
+Our initial univariate time series model was an Arima model developed on 10 years of state-level food insecurity data. The model basically predicted the mean for the next seven years. This was later enhanced with an Auto-Arima model and finally a Prophet model, the latter of which performed extremely well in comparison to the actual data over the period in question (2010-2019) and generated clear forecasts for the following seven years. 
 
-We tested 8 additional models in an attempt to achieve a higher testing score. And, while some were very close or near identical in score, our production model could be run with less computational resources. 
+Our multivariate time series model was a Vector Autoregressive model developed on 10 years of state-level food insecurity and 10 years of poverty data. The model performed very well in comparison to the actual data for the time period for both variables and generated predictions for the next seven years. The output of our time series models (univariate and multivariate) indicates persistent food insecurity issues in many states in the deep south as well as several states in the southwest/west including New Mexico and Utah.
+
 
 As an added bonus, the link below shows several EDA-based plots and our time series plotted results deployed on our Streamlit Web App, hosted on Heroku!
 
 [Streamlit WebApp Hosted on Herokuapp](https://food-ins-18.herokuapp.com/)
 
-
-**Summary of methodolgy, production model**
-   
-   -  various attributes of discussion for model 
-        
-        -  other models tried...
-        
-        - something else
-        
-
+**A representation of our forcasted MultiVariate Time Series Model is shown below.**
 
 ![VAR excerpt](./resources/var_excerpt.png) 
            
@@ -99,9 +92,9 @@ Our primary dataset contained 60 features (of varying data types) and 3140 entri
 | Matplotlib                   | pyplot                                                       | SKLearn - Neighbors                          | KNeighborsRegressor                |
 | Seaborn                      |                                                              | SKLearn - Decomposition                      | PCA                                |
 | Copy                         | copy, deepcopy                                               | Tensorflow - Keras - Metris                  | RootMeanSquaredError               |
-| pickle                       |                                                              | Tensorflow - Keras - Models                  | Sequential, load_model             |
+| FBProphet                    | Prophet                                                      | Tensorflow - Keras - Models                  | Sequential, load_model             |
 | nltk - tokenize              | sent-tokenizer, Regexp                                       | Tensorflow - Keras - Layers                  | Dense, Dropout, BatchNormalization |
-| nltk - sentiment             | SetimentIntensityAnalyzer                                    | Tensorflow - Keras - Regularizers            | l1, l2, l1_l2                      |
+| nltk - sentiment             | SetimentIntensityAnalyzer                                    | Tensorflow - Keras - Regularizers            | l2                      |
 | time                         |                                                              | Tensorflow - Keras - Callbacks               | EarlyStopping                      |
 | xgboost                      | XGBClassifier                                                | Tensorflow - Keras - Wrappers - Scikit_learn | KerasRegressor                     |
 | SKLearn - Model Selection    | train_test_split, GridSearchCV, corr_val_score               | Tensorflow - Keras - Utils                   | plot_model                         |
@@ -112,8 +105,7 @@ Our primary dataset contained 60 features (of varying data types) and 3140 entri
 | SKLearn - Ensemble           | RandomForestRegressor,  AdaBoostRegressor, BaggingRegressor | Statsmodels - TSA - Vector_AR - Var_Model    | VAR                                |
 | SKLearn - Tree               | DecisionTreeRegressor, plot_tree                             | PMARIMA                                      |                                    |
 | SKLearn - SVR                | SVR                                                          | PMARIMA - Model_selection                    | train-test-split                   |
-|                 |                                                     | FBProphet                                    | Prophet                            |
-                                  
+                              
 ---      
 ### Analysis
 
@@ -128,5 +120,9 @@ Our primary dataset contained 60 features (of varying data types) and 3140 entri
 
 ---
 ### Conclusions and Recommendations- TO BE UPDATED!!!
-   
+
+Food insecurity is a challenge faced by many Americans due to a wide array of contributing factors. The above analysis incorporated a variety of machine learning algorithms to best capture the influence of these factors for predicting food insecurity at the county level across the United States. Ultimately, a linear regression was the best performing model and could account for 93% of the variability in our data. This production model identified disability rates, child poverty rates, fair/poor health rates, and housing-related issues as the greatest contributing factors towards food insecurity. To reduce food insecurity, it is our recommendation that public policy be framed such that these issues be alleviated to the greatest extent possible. 
+
+Additionally, time series modeling at the state level demonstrates the extent to which food insecurity will evolve going forward based on past trends. This enables the identification of locations where communities are at greatest risk of continued or worsening food insecurity. With this information in mind, policy can be guided to best allocate resources to areas in need of assistance. Our time series modeling suggests that areas in the Deep South and several states in the West, including New Mexico and Utah, will continue to experience food insecurity challenges, which warrants further investigation to better understand contributing causes and potential solutions.
+
    
