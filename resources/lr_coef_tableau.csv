@@ -1,11 +1,11 @@
 features,coefficients
-percent_disabled,0.7670506147996043
-percent_children_in_poverty,0.5523806625169438
-percent_fair_or_poor_health,0.4705687057727579
-percent_severe_housing_cost_burden,0.334582030776265
-percent_severe_housing_problems,0.2882505142809031
-percent_below_poverty,0.19288531340696752
-percent_single_parent_households_CHR,0.17493676731901464
-num_households_CHR,0.16161921915518668
-percent_unemployed_CDC,0.1516929311292498
-percent_age_17_and_younger,0.14334833087250376
+% Disabled,0.845
+% Children in Poverty,0.564
+% Fair or Poor Health,0.368
+% Severe Housing Cost Burden,0.33
+% Below Poverty,0.23
+% Single Parent Households,0.175
+% Severe Housing Problems,0.175
+# Households,0.175
+Ave # Mentally Unhealthy Days,0.148
+% Unemployed,0.147
