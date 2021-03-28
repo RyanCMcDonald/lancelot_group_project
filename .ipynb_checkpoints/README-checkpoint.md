@@ -39,7 +39,7 @@ As an added bonus, the link below shows several EDA-based plots and our time ser
         
 
 
-![a picture](./resources/gui_pic.PNG) 
+![VAR excerpt](./resources/var_excerpt.png) 
            
 ---
 ### Data Description
