@@ -15,9 +15,12 @@ Food insecurity in the United States is a problem faced by communities from a br
 
 **After extensive review, EDA, and preprocessing we were able to develop a linear regression model that could account for over 93% of variability in our data. This model was the starting point for our enhanced analysis.  In addition to the production model, a time series analysis was conducted in order to forecast food insecurity rate as well as poverty rates for each of the United States.** 
 
-MORE MORE 
+The information gained from our analysis could be used to better allocate resources to the areas that need it most. With overall trends showing food insecurity decreasing in the majority of states, areas of the deep south are still show concerns in the years to come.  
+
+
 MORE MORE 
 MORE MORE
+
 
 We tested 8 additional models in an attempt to achieve a higher testing score. And, while some were very close or near identical in score, our production model could be run with less computational resources. 
 
@@ -112,14 +115,16 @@ Our primary dataset contained 60 features (of varying data types) and 3140 entri
 |                 |                                                     | FBProphet                                    | Prophet                            |
                                   
 ---      
-### Analysis - TO BE UPDATED!
+### Analysis
 
-1. All utilized datasets were cleaned and modified to provide the needed information to complete the problem statement.
+1. Initial exploratory data analysis was methodical.  Review of all features was conducted to better understand the data and which features contributed most to food insecurity.  Once the initial analysis was completed, modeling began. 
+    - For some models, all features were utilized and for others,  only subsets of features (those deemed most influential to food insecurity) were used.  This helped us better understand the influences our features had on our results.
+    - Our production model utilized all numerical features from our primary data set, netting our strongest results, while being the most interpretable. Quick run times also helped with out decision. 
 
- 
--
 
-2.  Additional supporting analysis is provided in the code notebook for review, as well as additional insights. Indepth and detailed processing and review are featured throughout the code notebook within markdown and code- formatted lines. 
+2. All utilized datasets were cleaned and modified to provide the needed information to complete the problem statement.
+
+3.  Additional supporting analysis is provided in the code notebook for review, as well as additional insights. Indepth and detailed processing and review are featured throughout the code notebook within markdown and code- formatted lines. 
 
 ---
 ### Conclusions and Recommendations- TO BE UPDATED!!!
