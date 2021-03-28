@@ -33,6 +33,12 @@ The link below shows several EDA-based plots and the group's time series plotd d
 
 ## Analysis
 
+Initial exploratory data analysis was methodical.  Review of all features was conducted to better understand the data and which features contributed most to food insecurity.  Once the initial analysis was completed, modeling began. 
+   
+   - For some models, all features were utilized and for others,  only subsets of features (those deemed most influential to food insecurity) were used.  This helped us better understand the influences our features had on our results.
+    
+   - Our production model utilized all numerical features from our primary data set, netting our strongest results, while being the most interpretable. Quick run times also helped with out decision. 
+
 The EDA shows that childhood food insecurity rates are much higher and that certain states in the south and west suffer from higher food insecurity than average. When investigating which indicators are the strongest predictors for food insecurity; income, employment, access to healthcare, and education are just a few of the leading features. Group One’s Tableau visualizations of Food Insecurity vs. Formal Education and Median Household Income show how education levels and income definitely correlate with food insecurity. Finally, the time series predictions show food insecurity rates generally decreasing through the USA, but certain states like Louisiana, Mississippi, Arkansas, New Mexico, and Utah will still have higher than average food insecurity in the coming years.
 
 **A representation of our forcasted MultiVariate Time Series Model is shown below.**
@@ -110,21 +116,9 @@ Our primary dataset contained 60 features (of varying data types) and 3140 entri
 | SKLearn - Ensemble           | RandomForestRegressor,  AdaBoostRegressor, BaggingRegressor | Statsmodels - TSA - Vector_AR - Var_Model    | VAR                                |
 | SKLearn - Tree               | DecisionTreeRegressor, plot_tree                             | PMARIMA                                      |                                    |
 | SKLearn - SVR                | SVR                                                          | PMARIMA - Model_selection                    | train-test-split                   |
-                              
----      
-### Analysis
-
-1. Initial exploratory data analysis was methodical.  Review of all features was conducted to better understand the data and which features contributed most to food insecurity.  Once the initial analysis was completed, modeling began. 
-    - For some models, all features were utilized and for others,  only subsets of features (those deemed most influential to food insecurity) were used.  This helped us better understand the influences our features had on our results.
-    - Our production model utilized all numerical features from our primary data set, netting our strongest results, while being the most interpretable. Quick run times also helped with out decision. 
-
-
-2. All utilized datasets were cleaned and modified to provide the needed information to complete the problem statement.
-
-3.  Additional supporting analysis is provided in the code notebook for review, as well as additional insights. Indepth and detailed processing and review are featured throughout the code notebook within markdown and code- formatted lines. 
 
 ---
-### Conclusions and Recommendations- TO BE UPDATED!!!
+### Conclusions and Recommendations
 
 Food insecurity is a challenge faced by many Americans due to a wide array of contributing factors. The above analysis incorporated a variety of machine learning algorithms to best capture the influence of these factors for predicting food insecurity at the county level across the United States. Ultimately, a linear regression was the best performing model and could account for 93% of the variability in our data. This production model identified disability rates, child poverty rates, fair/poor health rates, and housing-related issues as the greatest contributing factors towards food insecurity. To reduce food insecurity, it is our recommendation that public policy be framed such that these issues be alleviated to the greatest extent possible by targeting these areas of highest correlation and further exploring the extent of causative relationships.  
 
