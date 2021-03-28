@@ -8,7 +8,7 @@
 ### Problem Statement
 Food insecurity in the United States is a problem faced by communities from a broad spectrum of socioeconomic backgrounds across all fifty states. The present study aims to model a diverse assemblage of economic data collected at the county-level with the express purpose of predicting food insecurity based on these contributing factors. Understanding key economic indicators of food insecurity will help better identify areas in need of food assistance programs, such as food pantries and dietary education centers. Additionally, the modeling process will highlight contributing factors towards food insecurity, so that targeted action at the local level can be undertaken to alleviate the scourge of food insecurity.
 
-   1. A web-app will be developed to allow anyone to access the data
+A web-app will be developed to allow anyone to access the data
 
 ---
 ## Executive Summary
@@ -26,9 +26,14 @@ Our initial univariate time series model was an Arima model developed on 10 year
 Our multivariate time series model was a Vector Autoregressive model developed on 10 years of state-level food insecurity and 10 years of poverty data. The model performed very well in comparison to the actual data for the time period for both variables and generated predictions for the next seven years. The output of our time series models (univariate and multivariate) indicates persistent food insecurity issues in many states in the deep south as well as several states in the southwest/west including New Mexico and Utah.
 
 
-As an added bonus, the link below shows several EDA-based plots and our time series plotted results deployed on our Streamlit Web App, hosted on Heroku!
+The link below shows several EDA-based plots and the group's time series plotd deployed on a Streamlit Web App, hosted on Heroku!
 
 [Streamlit WebApp Hosted on Herokuapp](https://food-ins-18.herokuapp.com/)
+
+
+## Analysis
+
+The EDA shows that childhood food insecurity rates are much higher and that certain states in the south and west suffer from higher food insecurity than average. When investigating which indicators are the strongest predictors for food insecurity; income, employment, access to healthcare, and education are just a few of the leading features. Group One’s Tableau visualizations of Food Insecurity vs. Formal Education and Median Household Income show how education levels and income definitely correlate with food insecurity. Finally, the time series predictions show food insecurity rates generally decreasing through the USA, but certain states like Louisiana, Mississippi, Arkansas, New Mexico, and Utah will still have higher than average food insecurity in the coming years.
 
 **A representation of our forcasted MultiVariate Time Series Model is shown below.**
 
@@ -73,14 +78,14 @@ Our primary dataset contained 60 features (of varying data types) and 3140 entri
 | percent_adults_with_diabetes                  | Percent                                             | percent_of_adults_completing_some_college_or_associate_degree | Percent                          |
 | percent_limited_access_to_healthy_foods       | Percent With Limited Access to Grocery Stores       | percent_of_adults_with_bachelor_degree_or_higher              | Percent                          |
 | median_household_income                       | Number                                              | fi_rate_18                                                    | Percent                          |
-|                                               |                                                     | ch_fi_rate_18                                                 | Percent                          |
-|                                               |                                                     |                                                               |                                  |
+| ch_fi_rate_18                                 | Percent                                             | 
+
 
 **Data Sources**
-###### $_{1}$https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar20.pdf
-###### $_{1}$https://map.feedingamerica.org/
-###### $_{1}$https://www.countyhealthrankings.org/resources/2019-chr-national-statistics
-###### $_{1}$https://www.cdc.gov/data.html
+###### $_{}$https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar20.pdf
+###### $_{}$https://map.feedingamerica.org/
+###### $_{}$https://www.countyhealthrankings.org/resources/2019-chr-national-statistics
+###### $_{}$https://www.cdc.gov/data.html
 
  
 ### The following databases were utilized in analysis:
@@ -121,7 +126,7 @@ Our primary dataset contained 60 features (of varying data types) and 3140 entri
 ---
 ### Conclusions and Recommendations- TO BE UPDATED!!!
 
-Food insecurity is a challenge faced by many Americans due to a wide array of contributing factors. The above analysis incorporated a variety of machine learning algorithms to best capture the influence of these factors for predicting food insecurity at the county level across the United States. Ultimately, a linear regression was the best performing model and could account for 93% of the variability in our data. This production model identified disability rates, child poverty rates, fair/poor health rates, and housing-related issues as the greatest contributing factors towards food insecurity. To reduce food insecurity, it is our recommendation that public policy be framed such that these issues be alleviated to the greatest extent possible. 
+Food insecurity is a challenge faced by many Americans due to a wide array of contributing factors. The above analysis incorporated a variety of machine learning algorithms to best capture the influence of these factors for predicting food insecurity at the county level across the United States. Ultimately, a linear regression was the best performing model and could account for 93% of the variability in our data. This production model identified disability rates, child poverty rates, fair/poor health rates, and housing-related issues as the greatest contributing factors towards food insecurity. To reduce food insecurity, it is our recommendation that public policy be framed such that these issues be alleviated to the greatest extent possible by targeting these areas of highest correlation and further exploring the extent of causative relationships.  
 
 Additionally, time series modeling at the state level demonstrates the extent to which food insecurity will evolve going forward based on past trends. This enables the identification of locations where communities are at greatest risk of continued or worsening food insecurity. With this information in mind, policy can be guided to best allocate resources to areas in need of assistance. Our time series modeling suggests that areas in the Deep South and several states in the West, including New Mexico and Utah, will continue to experience food insecurity challenges, which warrants further investigation to better understand contributing causes and potential solutions.
 
