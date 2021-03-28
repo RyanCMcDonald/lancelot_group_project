@@ -88,10 +88,10 @@ Our primary dataset contained 60 features (of varying data types) and 3140 entri
 
 
 **Data Sources**
-###### $_{}$https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar20.pdf
-###### $_{}$https://map.feedingamerica.org/
-###### $_{}$https://www.countyhealthrankings.org/resources/2019-chr-national-statistics
-###### $_{}$https://www.cdc.gov/data.html
+###### https://www2.census.gov/programs-surveys/cps/techdocs/cpsmar20.pdf
+###### https://map.feedingamerica.org/
+###### https://www.countyhealthrankings.org/resources/2019-chr-national-statistics
+###### https://www.cdc.gov/data.html
 
  
 ### The following databases were utilized in analysis:
