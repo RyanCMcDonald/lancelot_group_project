@@ -1,0 +1,3144 @@
+FIPS,State,"County, State",2010 Food Insecurity Rate,Number of Food Insecure Persons in 2010
+1001,AL,"Autauga County, Alabama",13.4%,7140
+1003,AL,"Baldwin County, Alabama",13.4%,23570
+1005,AL,"Barbour County, Alabama",23.2%,6440
+1007,AL,"Bibb County, Alabama",15.7%,3550
+1009,AL,"Blount County, Alabama",12.6%,7160
+1011,AL,"Bullock County, Alabama",28.5%,3110
+1013,AL,"Butler County, Alabama",23.1%,4820
+1015,AL,"Calhoun County, Alabama",17.1%,20020
+1017,AL,"Chambers County, Alabama",22.5%,7770
+1019,AL,"Cherokee County, Alabama",14.6%,3750
+1021,AL,"Chilton County, Alabama",15.3%,6590
+1023,AL,"Choctaw County, Alabama",21.1%,2970
+1025,AL,"Clarke County, Alabama",26.5%,6950
+1027,AL,"Clay County, Alabama",19.4%,2720
+1029,AL,"Cleburne County, Alabama",14%,2070
+1031,AL,"Coffee County, Alabama",14.5%,7010
+1033,AL,"Colbert County, Alabama",15.8%,8620
+1035,AL,"Conecuh County, Alabama",27.7%,3710
+1037,AL,"Coosa County, Alabama",20.4%,2340
+1039,AL,"Covington County, Alabama",16%,6010
+1041,AL,"Crenshaw County, Alabama",16.3%,2270
+1043,AL,"Cullman County, Alabama",13.6%,10880
+1045,AL,"Dale County, Alabama",15%,7470
+1047,AL,"Dallas County, Alabama",31.3%,13790
+1049,AL,"DeKalb County, Alabama",16%,11210
+1051,AL,"Elmore County, Alabama",14.4%,11170
+1053,AL,"Escambia County, Alabama",20.8%,7910
+1055,AL,"Etowah County, Alabama",15.8%,16400
+1057,AL,"Fayette County, Alabama",17.3%,3030
+1059,AL,"Franklin County, Alabama",15.1%,4750
+1061,AL,"Geneva County, Alabama",14.8%,3940
+1063,AL,"Greene County, Alabama",32.2%,2980
+1065,AL,"Hale County, Alabama",24.9%,4020
+1067,AL,"Henry County, Alabama",17%,2920
+1069,AL,"Houston County, Alabama",16.3%,16100
+1071,AL,"Jackson County, Alabama",14.8%,7910
+1073,AL,"Jefferson County, Alabama",18.4%,121010
+1075,AL,"Lamar County, Alabama",18.3%,2690
+1077,AL,"Lauderdale County, Alabama",15%,13790
+1079,AL,"Lawrence County, Alabama",15.6%,5350
+1081,AL,"Lee County, Alabama",16.4%,22130
+1083,AL,"Limestone County, Alabama",13.7%,10770
+1085,AL,"Lowndes County, Alabama",29.3%,3440
+1087,AL,"Macon County, Alabama",29.1%,6320
+1089,AL,"Madison County, Alabama",13.8%,44670
+1091,AL,"Marengo County, Alabama",23.9%,5080
+1093,AL,"Marion County, Alabama",17.5%,5380
+1095,AL,"Marshall County, Alabama",13.9%,12650
+1097,AL,"Mobile County, Alabama",19.1%,78200
+1099,AL,"Monroe County, Alabama",26.2%,6120
+1101,AL,"Montgomery County, Alabama",20.6%,47030
+1103,AL,"Morgan County, Alabama",14.8%,17370
+1105,AL,"Perry County, Alabama",29.9%,3190
+1107,AL,"Pickens County, Alabama",22.9%,4560
+1109,AL,"Pike County, Alabama",20.2%,6500
+1111,AL,"Randolph County, Alabama",19.7%,4510
+1113,AL,"Russell County, Alabama",21.2%,10970
+1115,AL,"St. Clair County, Alabama",13.3%,10720
+1117,AL,"Shelby County, Alabama",10.7%,20120
+1119,AL,"Sumter County, Alabama",30.5%,4230
+1121,AL,"Talladega County, Alabama",19.6%,16130
+1123,AL,"Tallapoosa County, Alabama",19.6%,8120
+1125,AL,"Tuscaloosa County, Alabama",17.4%,32720
+1127,AL,"Walker County, Alabama",16%,10820
+1129,AL,"Washington County, Alabama",20.4%,3580
+1131,AL,"Wilcox County, Alabama",36.4%,4380
+1133,AL,"Winston County, Alabama",18.8%,4640
+2013,AK,"Aleutians East Borough, Alaska",14.5%,540
+2016,AK,"Aleutians West Census Area, Alaska",13.3%,830
+2020,AK,"Anchorage Municipality, Alaska",12.3%,35090
+2050,AK,"Bethel Census Area, Alaska",20.4%,3440
+2060,AK,"Bristol Bay Borough, Alaska",9.1%,90
+2068,AK,"Denali Borough, Alaska",13.1%,150
+2070,AK,"Dillingham Census Area, Alaska",16.8%,810
+2090,AK,"Fairbanks North Star Borough, Alaska",12.5%,11780
+2100,AK,"Haines Borough, Alaska",13.4%,220
+2105,AK,"Hoonah-Angoon Census Area, Alaska",20%,400
+2110,AK,"Juneau City and Borough, Alaska",10.8%,3340
+2122,AK,"Kenai Peninsula Borough, Alaska",14.7%,7930
+2130,AK,"Ketchikan Gateway Borough, Alaska",12.7%,1700
+2150,AK,"Kodiak Island Borough, Alaska",12.9%,1720
+2164,AK,"Lake and Peninsula Borough, Alaska",16.7%,270
+2170,AK,"Matanuska-Susitna Borough, Alaska",14.1%,11840
+2180,AK,"Nome Census Area, Alaska",20.6%,1920
+2185,AK,"North Slope Borough, Alaska",11.8%,1040
+2188,AK,"Northwest Arctic Borough, Alaska",19.6%,1460
+2195,AK,"Petersburg Census Area, Alaska",14.2%,550
+2198,AK,"Prince of Wales-Hyder Census Area, Alaska",15.4%,850
+2220,AK,"Sitka City and Borough, Alaska",11.4%,1010
+2230,AK,"Skagway Municipality, Alaska",17.2%,200
+2240,AK,"Southeast Fairbanks Census Area, Alaska",15.4%,1070
+2261,AK,"Valdez-Cordova Census Area, Alaska",13.3%,1280
+2270,AK,"Wade Hampton Census Area, Alaska",27.4%,2030
+2275,AK,"Wrangell City and Borough, Alaska",14%,330
+2282,AK,"Yakutat City and Borough, Alaska",13.6%,90
+2290,AK,"Yukon-Koyukuk Census Area, Alaska",22.2%,1250
+4001,AZ,"Apache County, Arizona",27.1%,19070
+4003,AZ,"Cochise County, Arizona",16%,20700
+4005,AZ,"Coconino County, Arizona",17.7%,23270
+4007,AZ,"Gila County, Arizona",19.1%,10150
+4009,AZ,"Graham County, Arizona",20.5%,7370
+4011,AZ,"Greenlee County, Arizona",16.1%,1340
+4012,AZ,"La Paz County, Arizona",18.5%,3800
+4013,AZ,"Maricopa County, Arizona",16.1%,605460
+4015,AZ,"Mohave County, Arizona",18.6%,37120
+4017,AZ,"Navajo County, Arizona",23.9%,25570
+4019,AZ,"Pima County, Arizona",16.4%,158630
+4021,AZ,"Pinal County, Arizona",18%,59240
+4023,AZ,"Santa Cruz County, Arizona",20.7%,9550
+4025,AZ,"Yavapai County, Arizona",17.5%,36720
+4027,AZ,"Yuma County, Arizona",27.1%,51630
+5001,AR,"Arkansas County, Arkansas",25.1%,4840
+5003,AR,"Ashley County, Arkansas",20.7%,4580
+5005,AR,"Baxter County, Arkansas",16.3%,6740
+5007,AR,"Benton County, Arkansas",12.9%,27040
+5009,AR,"Boone County, Arkansas",15.3%,5620
+5011,AR,"Bradley County, Arkansas",23.4%,2720
+5013,AR,"Calhoun County, Arkansas",17.8%,990
+5015,AR,"Carroll County, Arkansas",14.7%,3960
+5017,AR,"Chicot County, Arkansas",28.8%,3490
+5019,AR,"Clark County, Arkansas",20.4%,4710
+5021,AR,"Clay County, Arkansas",19.3%,3140
+5023,AR,"Cleburne County, Arkansas",15.7%,4040
+5025,AR,"Cleveland County, Arkansas",17.2%,1510
+5027,AR,"Columbia County, Arkansas",22.7%,5620
+5029,AR,"Conway County, Arkansas",17.4%,3670
+5031,AR,"Craighead County, Arkansas",17.3%,16190
+5033,AR,"Crawford County, Arkansas",16.1%,9780
+5035,AR,"Crittenden County, Arkansas",26.5%,13400
+5037,AR,"Cross County, Arkansas",19%,3440
+5039,AR,"Dallas County, Arkansas",23.3%,1930
+5041,AR,"Desha County, Arkansas",26.5%,3530
+5043,AR,"Drew County, Arkansas",22.9%,4240
+5045,AR,"Faulkner County, Arkansas",16.1%,17490
+5047,AR,"Franklin County, Arkansas",15.6%,2840
+5049,AR,"Fulton County, Arkansas",16.6%,2030
+5051,AR,"Garland County, Arkansas",17.1%,16250
+5053,AR,"Grant County, Arkansas",13.4%,2360
+5055,AR,"Greene County, Arkansas",17.1%,7070
+5057,AR,"Hempstead County, Arkansas",21.4%,4860
+5059,AR,"Hot Spring County, Arkansas",15.8%,5160
+5061,AR,"Howard County, Arkansas",19.5%,2690
+5063,AR,"Independence County, Arkansas",16.8%,6060
+5065,AR,"Izard County, Arkansas",17.6%,2410
+5067,AR,"Jackson County, Arkansas",22%,3960
+5069,AR,"Jefferson County, Arkansas",24.9%,19540
+5071,AR,"Johnson County, Arkansas",16%,4040
+5073,AR,"Lafayette County, Arkansas",22.5%,1750
+5075,AR,"Lawrence County, Arkansas",18.9%,3280
+5077,AR,"Lee County, Arkansas",26.5%,2830
+5079,AR,"Lincoln County, Arkansas",22.8%,3230
+5081,AR,"Little River County, Arkansas",18.6%,2440
+5083,AR,"Logan County, Arkansas",15.5%,3510
+5085,AR,"Lonoke County, Arkansas",14.5%,9570
+5087,AR,"Madison County, Arkansas",15.5%,2400
+5089,AR,"Marion County, Arkansas",17.2%,2880
+5091,AR,"Miller County, Arkansas",17.6%,7560
+5093,AR,"Mississippi County, Arkansas",24.3%,11370
+5095,AR,"Monroe County, Arkansas",22.5%,1910
+5097,AR,"Montgomery County, Arkansas",16.5%,1570
+5099,AR,"Nevada County, Arkansas",21.4%,1960
+5101,AR,"Newton County, Arkansas",17.2%,1440
+5103,AR,"Ouachita County, Arkansas",21.8%,5740
+5105,AR,"Perry County, Arkansas",15.9%,1660
+5107,AR,"Phillips County, Arkansas",28.4%,6360
+5109,AR,"Pike County, Arkansas",17.5%,1980
+5111,AR,"Poinsett County, Arkansas",19.7%,4870
+5113,AR,"Polk County, Arkansas",16.4%,3360
+5115,AR,"Pope County, Arkansas",16.2%,9800
+5117,AR,"Prairie County, Arkansas",17.6%,1550
+5119,AR,"Pulaski County, Arkansas",18.9%,71390
+5121,AR,"Randolph County, Arkansas",17.9%,3230
+5123,AR,"St. Francis County, Arkansas",26.7%,7550
+5125,AR,"Saline County, Arkansas",13.7%,13990
+5127,AR,"Scott County, Arkansas",16.6%,1870
+5129,AR,"Searcy County, Arkansas",17.9%,1470
+5131,AR,"Sebastian County, Arkansas",16%,19760
+5133,AR,"Sevier County, Arkansas",15.3%,2540
+5135,AR,"Sharp County, Arkansas",18.3%,3200
+5137,AR,"Stone County, Arkansas",18.2%,2250
+5139,AR,"Union County, Arkansas",22.6%,9530
+5141,AR,"Van Buren County, Arkansas",18.7%,3220
+5143,AR,"Washington County, Arkansas",14.7%,28990
+5145,AR,"White County, Arkansas",16.3%,12210
+5147,AR,"Woodruff County, Arkansas",23%,1720
+5149,AR,"Yell County, Arkansas",14.6%,3200
+6001,CA,"Alameda County, California",16.4%,242460
+6003,CA,"Alpine County, California",19.3%,230
+6005,CA,"Amador County, California",16.5%,6310
+6007,CA,"Butte County, California",19.4%,42420
+6009,CA,"Calaveras County, California",18%,8290
+6011,CA,"Colusa County, California",20.7%,4390
+6013,CA,"Contra Costa County, California",15.1%,155020
+6015,CA,"Del Norte County, California",20%,5700
+6017,CA,"El Dorado County, California",15.6%,27850
+6019,CA,"Fresno County, California",20.8%,189430
+6021,CA,"Glenn County, California",19.5%,5460
+6023,CA,"Humboldt County, California",17.8%,23740
+6025,CA,"Imperial County, California",27.6%,46400
+6027,CA,"Inyo County, California",14.9%,2740
+6029,CA,"Kern County, California",19.9%,162430
+6031,CA,"Kings County, California",20.1%,30400
+6033,CA,"Lake County, California",22.4%,14400
+6035,CA,"Lassen County, California",19.1%,6700
+6037,CA,"Los Angeles County, California",16.8%,1636110
+6039,CA,"Madera County, California",19%,28040
+6041,CA,"Marin County, California",12.3%,30540
+6043,CA,"Mariposa County, California",16.8%,3070
+6045,CA,"Mendocino County, California",16.9%,14820
+6047,CA,"Merced County, California",21.8%,54530
+6049,CA,"Modoc County, California",19.6%,1890
+6051,CA,"Mono County, California",14.6%,2020
+6053,CA,"Monterey County, California",15.4%,62810
+6055,CA,"Napa County, California",13.4%,17980
+6057,CA,"Nevada County, California",15.4%,15150
+6059,CA,"Orange County, California",13%,386020
+6061,CA,"Placer County, California",14.5%,48700
+6063,CA,"Plumas County, California",20%,4090
+6065,CA,"Riverside County, California",17.4%,367720
+6067,CA,"Sacramento County, California",18%,251060
+6069,CA,"San Benito County, California",17.7%,9650
+6071,CA,"San Bernardino County, California",17.6%,352840
+6073,CA,"San Diego County, California",14.8%,447780
+6075,CA,"San Francisco County, California",14.9%,117740
+6077,CA,"San Joaquin County, California",20.3%,137000
+6079,CA,"San Luis Obispo County, California",15.1%,40080
+6081,CA,"San Mateo County, California",12.2%,85990
+6083,CA,"Santa Barbara County, California",13.7%,57130
+6085,CA,"Santa Clara County, California",14%,243570
+6087,CA,"Santa Cruz County, California",15.9%,40830
+6089,CA,"Shasta County, California",20.5%,36330
+6091,CA,"Sierra County, California",18.9%,640
+6093,CA,"Siskiyou County, California",21.8%,9750
+6095,CA,"Solano County, California",16.8%,69040
+6097,CA,"Sonoma County, California",14.3%,67820
+6099,CA,"Stanislaus County, California",19.9%,101300
+6101,CA,"Sutter County, California",21.5%,20090
+6103,CA,"Tehama County, California",20.7%,12970
+6105,CA,"Trinity County, California",22.1%,3030
+6107,CA,"Tulare County, California",20.1%,86160
+6109,CA,"Tuolumne County, California",18%,10110
+6111,CA,"Ventura County, California",13.3%,107490
+6113,CA,"Yolo County, California",17.5%,34420
+6115,CA,"Yuba County, California",22.8%,16220
+8001,CO,"Adams County, Colorado",14.9%,63460
+8003,CO,"Alamosa County, Colorado",15.2%,2330
+8005,CO,"Arapahoe County, Colorado",15.2%,83790
+8007,CO,"Archuleta County, Colorado",14.3%,1740
+8009,CO,"Baca County, Colorado",12.5%,480
+8011,CO,"Bent County, Colorado",17%,1040
+8013,CO,"Boulder County, Colorado",13.4%,38920
+8014,CO,"Broomfield County, Colorado",12.1%,6410
+8015,CO,"Chaffee County, Colorado",14.3%,2510
+8017,CO,"Cheyenne County, Colorado",11.1%,240
+8019,CO,"Clear Creek County, Colorado",13.6%,1240
+8021,CO,"Conejos County, Colorado",14.3%,1180
+8023,CO,"Costilla County, Colorado",17.8%,630
+8025,CO,"Crowley County, Colorado",18.4%,1080
+8027,CO,"Custer County, Colorado",14.6%,570
+8029,CO,"Delta County, Colorado",15.6%,4750
+8031,CO,"Denver County, Colorado",17.1%,98970
+8033,CO,"Dolores County, Colorado",22%,450
+8035,CO,"Douglas County, Colorado",10.8%,29560
+8037,CO,"Eagle County, Colorado",13.2%,6690
+8039,CO,"Elbert County, Colorado",12.1%,2750
+8041,CO,"El Paso County, Colorado",15.3%,91950
+8043,CO,"Fremont County, Colorado",17.3%,8110
+8045,CO,"Garfield County, Colorado",13.8%,7540
+8047,CO,"Gilpin County, Colorado",14.1%,720
+8049,CO,"Grand County, Colorado",13.5%,1960
+8051,CO,"Gunnison County, Colorado",13.4%,2030
+8053,CO,"Hinsdale County, Colorado",9.6%,50
+8055,CO,"Huerfano County, Colorado",18.5%,1280
+8057,CO,"Jackson County, Colorado",14.1%,210
+8059,CO,"Jefferson County, Colorado",13.2%,69870
+8061,CO,"Kiowa County, Colorado",12.8%,210
+8063,CO,"Kit Carson County, Colorado",11.2%,910
+8065,CO,"Lake County, Colorado",18.3%,1290
+8067,CO,"La Plata County, Colorado",13%,6530
+8069,CO,"Larimer County, Colorado",14%,40770
+8071,CO,"Las Animas County, Colorado",15.1%,2360
+8073,CO,"Lincoln County, Colorado",12.9%,710
+8075,CO,"Logan County, Colorado",13.4%,2980
+8077,CO,"Mesa County, Colorado",15.8%,22540
+8079,CO,"Mineral County, Colorado",12.9%,130
+8081,CO,"Moffat County, Colorado",15.1%,2050
+8083,CO,"Montezuma County, Colorado",16.3%,4130
+8085,CO,"Montrose County, Colorado",15.6%,6270
+8087,CO,"Morgan County, Colorado",13.2%,3670
+8089,CO,"Otero County, Colorado",15.6%,2940
+8091,CO,"Ouray County, Colorado",13.2%,570
+8093,CO,"Park County, Colorado",13.4%,2180
+8095,CO,"Phillips County, Colorado",11.1%,490
+8097,CO,"Pitkin County, Colorado",13.2%,2160
+8099,CO,"Prowers County, Colorado",14.6%,1860
+8101,CO,"Pueblo County, Colorado",15.8%,24620
+8103,CO,"Rio Blanco County, Colorado",11.5%,750
+8105,CO,"Rio Grande County, Colorado",13.9%,1660
+8107,CO,"Routt County, Colorado",13.9%,3180
+8109,CO,"Saguache County, Colorado",16.9%,1040
+8111,CO,"San Juan County, Colorado",15.8%,120
+8113,CO,"San Miguel County, Colorado",13.2%,970
+8115,CO,"Sedgwick County, Colorado",12.9%,310
+8117,CO,"Summit County, Colorado",12.4%,3370
+8119,CO,"Teller County, Colorado",14.3%,3270
+8121,CO,"Washington County, Colorado",13.1%,630
+8123,CO,"Weld County, Colorado",15.1%,36700
+8125,CO,"Yuma County, Colorado",10.7%,1060
+9001,CT,"Fairfield County, Connecticut",11.5%,104080
+9003,CT,"Hartford County, Connecticut",13.7%,121660
+9005,CT,"Litchfield County, Connecticut",11%,20900
+9007,CT,"Middlesex County, Connecticut",10.6%,17500
+9009,CT,"New Haven County, Connecticut",14%,120060
+9011,CT,"New London County, Connecticut",11.7%,31770
+9013,CT,"Tolland County, Connecticut",10.5%,15930
+9015,CT,"Windham County, Connecticut",13.4%,15710
+10001,DE,"Kent County, Delaware",12.7%,19970
+10003,DE,"New Castle County, Delaware",12.1%,64490
+10005,DE,"Sussex County, Delaware",11.2%,21330
+11001,DC,"District of Columbia, District of Columbia",16.4595096723815%,99490
+12001,FL,"Alachua County, Florida",18.7%,45670
+12003,FL,"Baker County, Florida",18.3%,4860
+12005,FL,"Bay County, Florida",16.3%,27220
+12007,FL,"Bradford County, Florida",18.1%,5190
+12009,FL,"Brevard County, Florida",16.4%,88660
+12011,FL,"Broward County, Florida",16.9%,292930
+12013,FL,"Calhoun County, Florida",18.3%,2640
+12015,FL,"Charlotte County, Florida",16.7%,26570
+12017,FL,"Citrus County, Florida",17.8%,25070
+12019,FL,"Clay County, Florida",15.1%,28010
+12021,FL,"Collier County, Florida",15.7%,49850
+12023,FL,"Columbia County, Florida",18.3%,12280
+12027,FL,"DeSoto County, Florida",19.6%,6790
+12029,FL,"Dixie County, Florida",18.5%,2990
+12031,FL,"Duval County, Florida",19.7%,168830
+12033,FL,"Escambia County, Florida",19.1%,57030
+12035,FL,"Flagler County, Florida",19.5%,17930
+12037,FL,"Franklin County, Florida",18.7%,2140
+12039,FL,"Gadsden County, Florida",25.5%,11740
+12041,FL,"Gilchrist County, Florida",17.4%,2900
+12043,FL,"Glades County, Florida",16.8%,2120
+12045,FL,"Gulf County, Florida",19.6%,3120
+12047,FL,"Hamilton County, Florida",22.8%,3350
+12049,FL,"Hardee County, Florida",18.5%,5100
+12051,FL,"Hendry County, Florida",21.7%,8490
+12053,FL,"Hernando County, Florida",18.2%,30940
+12055,FL,"Highlands County, Florida",17.8%,17640
+12057,FL,"Hillsborough County, Florida",17.4%,209160
+12059,FL,"Holmes County, Florida",16.7%,3330
+12061,FL,"Indian River County, Florida",18.3%,24840
+12063,FL,"Jackson County, Florida",18.7%,9230
+12065,FL,"Jefferson County, Florida",20.4%,2970
+12067,FL,"Lafayette County, Florida",15.9%,1350
+12069,FL,"Lake County, Florida",16.6%,48560
+12071,FL,"Lee County, Florida",16.9%,102440
+12073,FL,"Leon County, Florida",19.6%,52890
+12075,FL,"Levy County, Florida",19.7%,7970
+12077,FL,"Liberty County, Florida",15.1%,1240
+12079,FL,"Madison County, Florida",22.8%,4400
+12081,FL,"Manatee County, Florida",17.1%,54330
+12083,FL,"Marion County, Florida",19.4%,63370
+12085,FL,"Martin County, Florida",15.8%,22840
+12086,FL,"Miami-Dade County, Florida",16.9%,412870
+12087,FL,"Monroe County, Florida",12.6%,9230
+12089,FL,"Nassau County, Florida",15.5%,10990
+12091,FL,"Okaloosa County, Florida",14.1%,25630
+12093,FL,"Okeechobee County, Florida",18.6%,7420
+12095,FL,"Orange County, Florida",17.3%,193190
+12097,FL,"Osceola County, Florida",16%,41340
+12099,FL,"Palm Beach County, Florida",17.2%,223080
+12101,FL,"Pasco County, Florida",17.2%,78350
+12103,FL,"Pinellas County, Florida",17%,156550
+12105,FL,"Polk County, Florida",18.4%,108350
+12107,FL,"Putnam County, Florida",21.2%,15860
+12109,FL,"St. Johns County, Florida",14.1%,25550
+12111,FL,"St. Lucie County, Florida",19.6%,52780
+12113,FL,"Santa Rosa County, Florida",15%,22150
+12115,FL,"Sarasota County, Florida",16.3%,61180
+12117,FL,"Seminole County, Florida",15.2%,63310
+12119,FL,"Sumter County, Florida",15.3%,13130
+12121,FL,"Suwannee County, Florida",17.7%,7190
+12123,FL,"Taylor County, Florida",20.3%,4470
+12125,FL,"Union County, Florida",18.9%,2900
+12127,FL,"Volusia County, Florida",17.5%,86810
+12129,FL,"Wakulla County, Florida",15.3%,4480
+12131,FL,"Walton County, Florida",14.9%,7950
+12133,FL,"Washington County, Florida",19.3%,4660
+13001,GA,"Appling County, Georgia",18.6%,3360
+13003,GA,"Atkinson County, Georgia",23.1%,1920
+13005,GA,"Bacon County, Georgia",16.9%,1850
+13007,GA,"Baker County, Georgia",25.3%,920
+13009,GA,"Baldwin County, Georgia",25.7%,12050
+13011,GA,"Banks County, Georgia",12.9%,2310
+13013,GA,"Barrow County, Georgia",14.9%,9890
+13015,GA,"Bartow County, Georgia",16.1%,15650
+13017,GA,"Ben Hill County, Georgia",24.4%,4300
+13019,GA,"Berrien County, Georgia",19.1%,3570
+13021,GA,"Bibb County, Georgia",22.5%,34900
+13023,GA,"Bleckley County, Georgia",20.6%,2660
+13025,GA,"Brantley County, Georgia",17.7%,3120
+13027,GA,"Brooks County, Georgia",18.2%,2970
+13029,GA,"Bryan County, Georgia",13.3%,3870
+13031,GA,"Bulloch County, Georgia",20.9%,14090
+13033,GA,"Burke County, Georgia",23.9%,5520
+13035,GA,"Butts County, Georgia",18.1%,4230
+13037,GA,"Calhoun County, Georgia",25.3%,1640
+13039,GA,"Camden County, Georgia",16.4%,8080
+13043,GA,"Candler County, Georgia",18.5%,1980
+13045,GA,"Carroll County, Georgia",17.5%,19140
+13047,GA,"Catoosa County, Georgia",12.3%,7720
+13049,GA,"Charlton County, Georgia",20.2%,2490
+13051,GA,"Chatham County, Georgia",18.7%,48010
+13053,GA,"Chattahoochee County, Georgia",20.7%,2420
+13055,GA,"Chattooga County, Georgia",18.2%,4720
+13057,GA,"Cherokee County, Georgia",11.7%,24080
+13059,GA,"Clarke County, Georgia",20.3%,23390
+13061,GA,"Clay County, Georgia",27.4%,820
+13063,GA,"Clayton County, Georgia",23.4%,60810
+13065,GA,"Clinch County, Georgia",22%,1500
+13067,GA,"Cobb County, Georgia",15.1%,101970
+13069,GA,"Coffee County, Georgia",23.5%,9800
+13071,GA,"Colquitt County, Georgia",18.4%,8210
+13073,GA,"Columbia County, Georgia",11.6%,13720
+13075,GA,"Cook County, Georgia",21.7%,3690
+13077,GA,"Coweta County, Georgia",14.6%,17740
+13079,GA,"Crawford County, Georgia",19%,2430
+13081,GA,"Crisp County, Georgia",25.3%,5860
+13083,GA,"Dade County, Georgia",13.8%,2290
+13085,GA,"Dawson County, Georgia",13.5%,2930
+13087,GA,"Decatur County, Georgia",23.9%,6680
+13089,GA,"DeKalb County, Georgia",20.8%,142590
+13091,GA,"Dodge County, Georgia",20.5%,4380
+13093,GA,"Dooly County, Georgia",24.3%,3460
+13095,GA,"Dougherty County, Georgia",26.9%,25460
+13097,GA,"Douglas County, Georgia",18.1%,23130
+13099,GA,"Early County, Georgia",23.9%,2690
+13101,GA,"Echols County, Georgia",15.6%,620
+13103,GA,"Effingham County, Georgia",13.6%,6880
+13105,GA,"Elbert County, Georgia",22.3%,4550
+13107,GA,"Emanuel County, Georgia",21.7%,4850
+13109,GA,"Evans County, Georgia",18.5%,2030
+13111,GA,"Fannin County, Georgia",15.3%,3570
+13113,GA,"Fayette County, Georgia",12.4%,13090
+13115,GA,"Floyd County, Georgia",17.1%,16370
+13117,GA,"Forsyth County, Georgia",10.2%,16740
+13119,GA,"Franklin County, Georgia",17.2%,3810
+13121,GA,"Fulton County, Georgia",19.5%,172560
+13123,GA,"Gilmer County, Georgia",15.3%,4280
+13125,GA,"Glascock County, Georgia",17.4%,520
+13127,GA,"Glynn County, Georgia",16.7%,12960
+13129,GA,"Gordon County, Georgia",16.4%,8850
+13131,GA,"Grady County, Georgia",19.7%,4870
+13133,GA,"Greene County, Georgia",22.1%,3500
+13135,GA,"Gwinnett County, Georgia",14.2%,110800
+13137,GA,"Habersham County, Georgia",15.5%,6530
+13139,GA,"Hall County, Georgia",13.2%,23120
+13141,GA,"Hancock County, Georgia",35.9%,3460
+13143,GA,"Haralson County, Georgia",17.4%,4980
+13145,GA,"Harris County, Georgia",12.8%,3940
+13147,GA,"Hart County, Georgia",19.8%,4950
+13149,GA,"Heard County, Georgia",18.5%,2170
+13151,GA,"Henry County, Georgia",16.5%,31950
+13153,GA,"Houston County, Georgia",15.1%,20320
+13155,GA,"Irwin County, Georgia",22.6%,2180
+13157,GA,"Jackson County, Georgia",15.4%,8990
+13159,GA,"Jasper County, Georgia",19.1%,2610
+13161,GA,"Jeff Davis County, Georgia",21.1%,3070
+13163,GA,"Jefferson County, Georgia",26.9%,4560
+13165,GA,"Jenkins County, Georgia",26%,2180
+13167,GA,"Johnson County, Georgia",23.6%,2350
+13169,GA,"Jones County, Georgia",16.4%,4640
+13171,GA,"Lamar County, Georgia",21.1%,3770
+13173,GA,"Lanier County, Georgia",18.1%,1710
+13175,GA,"Laurens County, Georgia",21.6%,10370
+13177,GA,"Lee County, Georgia",13.3%,3730
+13179,GA,"Liberty County, Georgia",19%,12160
+13181,GA,"Lincoln County, Georgia",21.7%,1760
+13183,GA,"Long County, Georgia",15.3%,2010
+13185,GA,"Lowndes County, Georgia",19.2%,20180
+13187,GA,"Lumpkin County, Georgia",15%,4340
+13189,GA,"McDuffie County, Georgia",20.4%,4430
+13191,GA,"McIntosh County, Georgia",20.1%,2780
+13193,GA,"Macon County, Georgia",28.6%,4160
+13195,GA,"Madison County, Georgia",14.9%,4130
+13197,GA,"Marion County, Georgia",19.9%,1670
+13199,GA,"Meriwether County, Georgia",21.7%,4880
+13201,GA,"Miller County, Georgia",17.5%,1070
+13205,GA,"Mitchell County, Georgia",22.2%,5260
+13207,GA,"Monroe County, Georgia",16%,4150
+13209,GA,"Montgomery County, Georgia",18.8%,1710
+13211,GA,"Morgan County, Georgia",17.2%,3060
+13213,GA,"Murray County, Georgia",15.8%,6310
+13215,GA,"Muscogee County, Georgia",19.8%,37220
+13217,GA,"Newton County, Georgia",19.5%,18880
+13219,GA,"Oconee County, Georgia",10.2%,3230
+13221,GA,"Oglethorpe County, Georgia",16.4%,2390
+13223,GA,"Paulding County, Georgia",14.6%,19650
+13225,GA,"Peach County, Georgia",23.4%,6290
+13227,GA,"Pickens County, Georgia",13.4%,3900
+13229,GA,"Pierce County, Georgia",15.4%,2800
+13231,GA,"Pike County, Georgia",14.7%,2560
+13233,GA,"Polk County, Georgia",16.9%,6930
+13235,GA,"Pulaski County, Georgia",16.7%,1940
+13237,GA,"Putnam County, Georgia",17.8%,3720
+13239,GA,"Quitman County, Georgia",27.4%,690
+13241,GA,"Rabun County, Georgia",16.7%,2710
+13243,GA,"Randolph County, Georgia",27%,2080
+13245,GA,"Richmond County, Georgia",22.9%,45300
+13247,GA,"Rockdale County, Georgia",19.2%,15980
+13249,GA,"Schley County, Georgia",21%,1000
+13251,GA,"Screven County, Georgia",23.8%,3520
+13253,GA,"Seminole County, Georgia",21.7%,1910
+13255,GA,"Spalding County, Georgia",21.9%,13850
+13257,GA,"Stephens County, Georgia",17.1%,4410
+13259,GA,"Stewart County, Georgia",24.6%,1430
+13261,GA,"Sumter County, Georgia",25.6%,8420
+13263,GA,"Talbot County, Georgia",22.9%,1590
+13265,GA,"Taliaferro County, Georgia",28.3%,580
+13267,GA,"Tattnall County, Georgia",18.8%,4570
+13269,GA,"Taylor County, Georgia",26%,2300
+13271,GA,"Telfair County, Georgia",27.5%,4410
+13273,GA,"Terrell County, Georgia",26.5%,2550
+13275,GA,"Thomas County, Georgia",20.3%,9010
+13277,GA,"Tift County, Georgia",20.7%,8230
+13279,GA,"Toombs County, Georgia",20%,5430
+13281,GA,"Towns County, Georgia",12.8%,1340
+13283,GA,"Treutlen County, Georgia",22.6%,1540
+13285,GA,"Troup County, Georgia",20.3%,13350
+13287,GA,"Turner County, Georgia",24.2%,2190
+13289,GA,"Twiggs County, Georgia",22.2%,2080
+13291,GA,"Union County, Georgia",13.8%,2900
+13293,GA,"Upson County, Georgia",20.6%,5620
+13295,GA,"Walker County, Georgia",14.7%,10000
+13297,GA,"Walton County, Georgia",15.6%,12720
+13299,GA,"Ware County, Georgia",20%,7190
+13301,GA,"Warren County, Georgia",29.6%,1750
+13303,GA,"Washington County, Georgia",27.4%,5790
+13305,GA,"Wayne County, Georgia",19%,5660
+13307,GA,"Webster County, Georgia",20.8%,570
+13309,GA,"Wheeler County, Georgia",22.4%,1590
+13311,GA,"White County, Georgia",15.7%,4170
+13313,GA,"Whitfield County, Georgia",15.7%,15680
+13315,GA,"Wilcox County, Georgia",23.1%,2090
+13317,GA,"Wilkes County, Georgia",23.4%,2480
+13319,GA,"Wilkinson County, Georgia",22.4%,2170
+13321,GA,"Worth County, Georgia",20.1%,4360
+15001,HI,"Hawaii County, Hawaii",15.8%,28560
+15003,HI,"Honolulu County, Hawaii",11.8%,110180
+15005,HI,"Kalawao County, Hawaii",13.6%,10
+15007,HI,"Kauai County, Hawaii",13.7%,8980
+15009,HI,"Maui County, Hawaii",13.4%,20220
+16001,ID,"Ada County, Idaho",15.1%,57320
+16003,ID,"Adams County, Idaho",21.7%,850
+16005,ID,"Bannock County, Idaho",15.9%,12790
+16007,ID,"Bear Lake County, Idaho",14.7%,890
+16009,ID,"Benewah County, Idaho",20.2%,1880
+16011,ID,"Bingham County, Idaho",14.7%,6540
+16013,ID,"Blaine County, Idaho",14.5%,3090
+16015,ID,"Boise County, Idaho",17.5%,1240
+16017,ID,"Bonner County, Idaho",19%,7740
+16019,ID,"Bonneville County, Idaho",13.8%,13860
+16021,ID,"Boundary County, Idaho",22%,2370
+16023,ID,"Butte County, Idaho",14.6%,420
+16025,ID,"Camas County, Idaho",18.8%,230
+16027,ID,"Canyon County, Idaho",17.7%,32310
+16029,ID,"Caribou County, Idaho",14.2%,980
+16031,ID,"Cassia County, Idaho",14.4%,3180
+16033,ID,"Clark County, Idaho",13.3%,110
+16035,ID,"Clearwater County, Idaho",20.2%,1770
+16037,ID,"Custer County, Idaho",15.3%,650
+16039,ID,"Elmore County, Idaho",15.7%,4190
+16041,ID,"Franklin County, Idaho",13.9%,1740
+16043,ID,"Fremont County, Idaho",15.3%,1990
+16045,ID,"Gem County, Idaho",18.1%,3030
+16047,ID,"Gooding County, Idaho",14.6%,2210
+16049,ID,"Idaho County, Idaho",19.5%,3110
+16051,ID,"Jefferson County, Idaho",14%,3440
+16053,ID,"Jerome County, Idaho",15.1%,3220
+16055,ID,"Kootenai County, Idaho",17.1%,23070
+16057,ID,"Latah County, Idaho",17.6%,6440
+16059,ID,"Lemhi County, Idaho",19%,1500
+16061,ID,"Lewis County, Idaho",15.1%,570
+16063,ID,"Lincoln County, Idaho",18.6%,930
+16065,ID,"Madison County, Idaho",19.2%,6990
+16067,ID,"Minidoka County, Idaho",13.8%,2700
+16069,ID,"Nez Perce County, Idaho",14.6%,5680
+16071,ID,"Oneida County, Idaho",13.8%,580
+16073,ID,"Owyhee County, Idaho",14.8%,1690
+16075,ID,"Payette County, Idaho",16.6%,3730
+16077,ID,"Power County, Idaho",15.1%,1150
+16079,ID,"Shoshone County, Idaho",21.4%,2770
+16081,ID,"Teton County, Idaho",13.2%,1240
+16083,ID,"Twin Falls County, Idaho",15.2%,11420
+16085,ID,"Valley County, Idaho",21.4%,2110
+16087,ID,"Washington County, Idaho",16.7%,1690
+17001,IL,"Adams County, Illinois",11.6%,7750
+17003,IL,"Alexander County, Illinois",20.4%,1730
+17005,IL,"Bond County, Illinois",12.7%,2270
+17007,IL,"Boone County, Illinois",15.5%,8290
+17009,IL,"Brown County, Illinois",11.5%,790
+17011,IL,"Bureau County, Illinois",13.3%,4660
+17013,IL,"Calhoun County, Illinois",13.4%,690
+17015,IL,"Carroll County, Illinois",13.7%,2140
+17017,IL,"Cass County, Illinois",11.2%,1530
+17019,IL,"Champaign County, Illinois",15.5%,30670
+17021,IL,"Christian County, Illinois",14.2%,4950
+17023,IL,"Clark County, Illinois",14.4%,2370
+17025,IL,"Clay County, Illinois",15.4%,2150
+17027,IL,"Clinton County, Illinois",10.9%,4060
+17029,IL,"Coles County, Illinois",15.1%,8090
+17031,IL,"Cook County, Illinois",15.6%,807690
+17033,IL,"Crawford County, Illinois",14%,2780
+17035,IL,"Cumberland County, Illinois",13.3%,1480
+17037,IL,"DeKalb County, Illinois",13.4%,13920
+17039,IL,"De Witt County, Illinois",11.2%,1870
+17041,IL,"Douglas County, Illinois",11.7%,2340
+17043,IL,"DuPage County, Illinois",9.6%,87200
+17045,IL,"Edgar County, Illinois",13.9%,2610
+17047,IL,"Edwards County, Illinois",12.5%,840
+17049,IL,"Effingham County, Illinois",11.3%,3870
+17051,IL,"Fayette County, Illinois",14.9%,3280
+17053,IL,"Ford County, Illinois",12%,1700
+17055,IL,"Franklin County, Illinois",16.8%,6640
+17057,IL,"Fulton County, Illinois",14.8%,5490
+17059,IL,"Gallatin County, Illinois",14.6%,840
+17061,IL,"Greene County, Illinois",13.4%,1880
+17063,IL,"Grundy County, Illinois",12.7%,6180
+17065,IL,"Hamilton County, Illinois",13.4%,1130
+17067,IL,"Hancock County, Illinois",14.1%,2700
+17069,IL,"Hardin County, Illinois",16.8%,740
+17071,IL,"Henderson County, Illinois",12.9%,960
+17073,IL,"Henry County, Illinois",11.8%,5970
+17075,IL,"Iroquois County, Illinois",12.2%,3670
+17077,IL,"Jackson County, Illinois",17.2%,10290
+17079,IL,"Jasper County, Illinois",11.7%,1140
+17081,IL,"Jefferson County, Illinois",14.8%,5790
+17083,IL,"Jersey County, Illinois",11.5%,2640
+17085,IL,"Jo Daviess County, Illinois",11%,2500
+17087,IL,"Johnson County, Illinois",15.5%,1960
+17089,IL,"Kane County, Illinois",11.2%,56050
+17091,IL,"Kankakee County, Illinois",17%,19010
+17093,IL,"Kendall County, Illinois",10%,10550
+17095,IL,"Knox County, Illinois",14.1%,7470
+17097,IL,"Lake County, Illinois",11.3%,78530
+17099,IL,"LaSalle County, Illinois",14.3%,16310
+17101,IL,"Lawrence County, Illinois",14.9%,2510
+17103,IL,"Lee County, Illinois",13.1%,4740
+17105,IL,"Livingston County, Illinois",13.2%,5140
+17107,IL,"Logan County, Illinois",13.1%,3970
+17109,IL,"McDonough County, Illinois",15.4%,5050
+17111,IL,"McHenry County, Illinois",10.3%,31420
+17113,IL,"McLean County, Illinois",12%,19980
+17115,IL,"Macon County, Illinois",16.7%,18530
+17117,IL,"Macoupin County, Illinois",13.2%,6350
+17119,IL,"Madison County, Illinois",13.7%,36610
+17121,IL,"Marion County, Illinois",15.7%,6250
+17123,IL,"Marshall County, Illinois",11.9%,1510
+17125,IL,"Mason County, Illinois",15.4%,2290
+17127,IL,"Massac County, Illinois",13.6%,2090
+17129,IL,"Menard County, Illinois",10.2%,1300
+17131,IL,"Mercer County, Illinois",12.6%,2090
+17133,IL,"Monroe County, Illinois",9.2%,2970
+17135,IL,"Montgomery County, Illinois",15.8%,4780
+17137,IL,"Morgan County, Illinois",14.2%,5060
+17139,IL,"Moultrie County, Illinois",11.6%,1710
+17141,IL,"Ogle County, Illinois",13.9%,7460
+17143,IL,"Peoria County, Illinois",15.8%,29280
+17145,IL,"Perry County, Illinois",15.6%,3500
+17147,IL,"Piatt County, Illinois",10.6%,1760
+17149,IL,"Pike County, Illinois",13.1%,2170
+17151,IL,"Pope County, Illinois",14%,620
+17153,IL,"Pulaski County, Illinois",20.2%,1260
+17155,IL,"Putnam County, Illinois",13.7%,820
+17157,IL,"Randolph County, Illinois",12.9%,4330
+17159,IL,"Richland County, Illinois",13.5%,2180
+17161,IL,"Rock Island County, Illinois",13.1%,19270
+17163,IL,"St. Clair County, Illinois",17.7%,47080
+17165,IL,"Saline County, Illinois",15%,3770
+17167,IL,"Sangamon County, Illinois",13%,25420
+17169,IL,"Schuyler County, Illinois",11.6%,870
+17171,IL,"Scott County, Illinois",11.9%,640
+17173,IL,"Shelby County, Illinois",12.8%,2870
+17175,IL,"Stark County, Illinois",13.1%,800
+17177,IL,"Stephenson County, Illinois",15.6%,7470
+17179,IL,"Tazewell County, Illinois",11.8%,15800
+17181,IL,"Union County, Illinois",16.5%,2960
+17183,IL,"Vermilion County, Illinois",17.3%,14190
+17185,IL,"Wabash County, Illinois",13.2%,1600
+17187,IL,"Warren County, Illinois",12.1%,2140
+17189,IL,"Washington County, Illinois",10.7%,1590
+17191,IL,"Wayne County, Illinois",13.3%,2250
+17193,IL,"White County, Illinois",12.8%,1890
+17195,IL,"Whiteside County, Illinois",12.8%,7540
+17197,IL,"Will County, Illinois",11.8%,79030
+17199,IL,"Williamson County, Illinois",14%,9180
+17201,IL,"Winnebago County, Illinois",18.2%,53390
+17203,IL,"Woodford County, Illinois",10.1%,3840
+18001,IN,"Adams County, Indiana",15.7%,5370
+18003,IN,"Allen County, Indiana",15.5%,54340
+18005,IN,"Bartholomew County, Indiana",13%,9860
+18007,IN,"Benton County, Indiana",13.7%,1210
+18009,IN,"Blackford County, Indiana",16.7%,2160
+18011,IN,"Boone County, Indiana",11.1%,6080
+18013,IN,"Brown County, Indiana",13.7%,2090
+18015,IN,"Carroll County, Indiana",12.9%,2610
+18017,IN,"Cass County, Indiana",14.7%,5740
+18019,IN,"Clark County, Indiana",14.2%,15210
+18021,IN,"Clay County, Indiana",14.6%,3930
+18023,IN,"Clinton County, Indiana",13.6%,4510
+18025,IN,"Crawford County, Indiana",17.3%,1880
+18027,IN,"Daviess County, Indiana",11.5%,3570
+18029,IN,"Dearborn County, Indiana",13.3%,6570
+18031,IN,"Decatur County, Indiana",14.8%,3790
+18033,IN,"DeKalb County, Indiana",14.5%,6100
+18035,IN,"Delaware County, Indiana",17.5%,20590
+18037,IN,"Dubois County, Indiana",11.6%,4830
+18039,IN,"Elkhart County, Indiana",16.8%,33080
+18041,IN,"Fayette County, Indiana",19%,4640
+18043,IN,"Floyd County, Indiana",13.3%,9780
+18045,IN,"Fountain County, Indiana",15.5%,2690
+18047,IN,"Franklin County, Indiana",14.5%,3370
+18049,IN,"Fulton County, Indiana",14.9%,3090
+18051,IN,"Gibson County, Indiana",12.8%,4270
+18053,IN,"Grant County, Indiana",17.1%,11990
+18055,IN,"Greene County, Indiana",14.1%,4660
+18057,IN,"Hamilton County, Indiana",9.9%,25790
+18059,IN,"Hancock County, Indiana",12.2%,8300
+18061,IN,"Harrison County, Indiana",12.9%,4980
+18063,IN,"Hendricks County, Indiana",11.3%,15820
+18065,IN,"Henry County, Indiana",16.8%,8200
+18067,IN,"Howard County, Indiana",17.4%,14530
+18069,IN,"Huntington County, Indiana",15%,5590
+18071,IN,"Jackson County, Indiana",13.6%,5710
+18073,IN,"Jasper County, Indiana",13.2%,4370
+18075,IN,"Jay County, Indiana",14.4%,3080
+18077,IN,"Jefferson County, Indiana",15.7%,5070
+18079,IN,"Jennings County, Indiana",15.7%,4480
+18081,IN,"Johnson County, Indiana",11.9%,16140
+18083,IN,"Knox County, Indiana",13.6%,5240
+18085,IN,"Kosciusko County, Indiana",13.4%,10340
+18087,IN,"LaGrange County, Indiana",16.8%,6210
+18089,IN,"Lake County, Indiana",17.8%,88190
+18091,IN,"LaPorte County, Indiana",16.8%,18670
+18093,IN,"Lawrence County, Indiana",16.4%,7580
+18095,IN,"Madison County, Indiana",16.4%,21510
+18097,IN,"Marion County, Indiana",18%,160580
+18099,IN,"Marshall County, Indiana",14.8%,6960
+18101,IN,"Martin County, Indiana",12.5%,1290
+18103,IN,"Miami County, Indiana",17.3%,6470
+18105,IN,"Monroe County, Indiana",15.9%,21400
+18107,IN,"Montgomery County, Indiana",14%,5320
+18109,IN,"Morgan County, Indiana",13.3%,9120
+18111,IN,"Newton County, Indiana",13.5%,1940
+18113,IN,"Noble County, Indiana",16.1%,7640
+18115,IN,"Ohio County, Indiana",13.8%,840
+18117,IN,"Orange County, Indiana",17.1%,3390
+18119,IN,"Owen County, Indiana",14.4%,3130
+18121,IN,"Parke County, Indiana",15.3%,2660
+18123,IN,"Perry County, Indiana",14%,2710
+18125,IN,"Pike County, Indiana",13.6%,1760
+18127,IN,"Porter County, Indiana",12.4%,20050
+18129,IN,"Posey County, Indiana",11.6%,3020
+18131,IN,"Pulaski County, Indiana",14.8%,2010
+18133,IN,"Putnam County, Indiana",14.7%,5590
+18135,IN,"Randolph County, Indiana",15.4%,4060
+18137,IN,"Ripley County, Indiana",14.2%,4070
+18139,IN,"Rush County, Indiana",14.5%,2550
+18141,IN,"St. Joseph County, Indiana",16.8%,44790
+18143,IN,"Scott County, Indiana",16.8%,4040
+18145,IN,"Shelby County, Indiana",13.4%,5910
+18147,IN,"Spencer County, Indiana",13.3%,2780
+18149,IN,"Starke County, Indiana",16.9%,3950
+18151,IN,"Steuben County, Indiana",15.3%,5210
+18153,IN,"Sullivan County, Indiana",14.9%,3200
+18155,IN,"Switzerland County, Indiana",13.2%,1370
+18157,IN,"Tippecanoe County, Indiana",15.5%,26200
+18159,IN,"Tipton County, Indiana",13.4%,2160
+18161,IN,"Union County, Indiana",14.2%,1060
+18163,IN,"Vanderburgh County, Indiana",15.1%,26840
+18165,IN,"Vermillion County, Indiana",16.6%,2720
+18167,IN,"Vigo County, Indiana",17.5%,18730
+18169,IN,"Wabash County, Indiana",14.7%,4890
+18171,IN,"Warren County, Indiana",12.8%,1100
+18173,IN,"Warrick County, Indiana",10.9%,6370
+18175,IN,"Washington County, Indiana",15.7%,4430
+18177,IN,"Wayne County, Indiana",17.2%,11910
+18179,IN,"Wells County, Indiana",12.8%,3540
+18181,IN,"White County, Indiana",13.6%,3370
+18183,IN,"Whitley County, Indiana",13%,4280
+19001,IA,"Adair County, Iowa",11.9%,920
+19003,IA,"Adams County, Iowa",12.2%,500
+19005,IA,"Allamakee County, Iowa",13.7%,1970
+19007,IA,"Appanoose County, Iowa",14.8%,1930
+19009,IA,"Audubon County, Iowa",12.4%,770
+19011,IA,"Benton County, Iowa",11.6%,3040
+19013,IA,"Black Hawk County, Iowa",14.7%,19050
+19015,IA,"Boone County, Iowa",12%,3180
+19017,IA,"Bremer County, Iowa",11%,2650
+19019,IA,"Buchanan County, Iowa",12.2%,2580
+19021,IA,"Buena Vista County, Iowa",11.2%,2240
+19023,IA,"Butler County, Iowa",12.2%,1810
+19025,IA,"Calhoun County, Iowa",12%,1180
+19027,IA,"Carroll County, Iowa",11.2%,2330
+19029,IA,"Cass County, Iowa",13.4%,1870
+19031,IA,"Cedar County, Iowa",10.8%,2000
+19033,IA,"Cerro Gordo County, Iowa",13.3%,5880
+19035,IA,"Cherokee County, Iowa",10.1%,1220
+19037,IA,"Chickasaw County, Iowa",12.9%,1610
+19039,IA,"Clarke County, Iowa",13.6%,1260
+19041,IA,"Clay County, Iowa",12.3%,2050
+19043,IA,"Clayton County, Iowa",13.5%,2460
+19045,IA,"Clinton County, Iowa",13.2%,6500
+19047,IA,"Crawford County, Iowa",10.3%,1740
+19049,IA,"Dallas County, Iowa",10.3%,6340
+19051,IA,"Davis County, Iowa",13.3%,1160
+19053,IA,"Decatur County, Iowa",14.4%,1220
+19055,IA,"Delaware County, Iowa",11.8%,2110
+19057,IA,"Des Moines County, Iowa",14.6%,5900
+19059,IA,"Dickinson County, Iowa",12.2%,2040
+19061,IA,"Dubuque County, Iowa",12%,11110
+19063,IA,"Emmet County, Iowa",13.3%,1380
+19065,IA,"Fayette County, Iowa",14.1%,2960
+19067,IA,"Floyd County, Iowa",14.2%,2330
+19069,IA,"Franklin County, Iowa",12.1%,1300
+19071,IA,"Fremont County, Iowa",12%,900
+19073,IA,"Greene County, Iowa",11.8%,1110
+19075,IA,"Grundy County, Iowa",11.3%,1400
+19077,IA,"Guthrie County, Iowa",11.9%,1320
+19079,IA,"Hamilton County, Iowa",13.2%,2090
+19081,IA,"Hancock County, Iowa",13.1%,1500
+19083,IA,"Hardin County, Iowa",12.6%,2240
+19085,IA,"Harrison County, Iowa",11.5%,1730
+19087,IA,"Henry County, Iowa",15.1%,3050
+19089,IA,"Howard County, Iowa",13%,1250
+19091,IA,"Humboldt County, Iowa",11.5%,1140
+19093,IA,"Ida County, Iowa",11.7%,840
+19095,IA,"Iowa County, Iowa",12%,1970
+19097,IA,"Jackson County, Iowa",13.1%,2600
+19099,IA,"Jasper County, Iowa",14.3%,5300
+19101,IA,"Jefferson County, Iowa",14.7%,2450
+19103,IA,"Johnson County, Iowa",13.3%,16920
+19105,IA,"Jones County, Iowa",12.2%,2530
+19107,IA,"Keokuk County, Iowa",12.8%,1350
+19109,IA,"Kossuth County, Iowa",11%,1730
+19111,IA,"Lee County, Iowa",15.7%,5670
+19113,IA,"Linn County, Iowa",12.3%,25520
+19115,IA,"Louisa County, Iowa",12.7%,1480
+19117,IA,"Lucas County, Iowa",13.5%,1230
+19119,IA,"Lyon County, Iowa",9.4%,1090
+19121,IA,"Madison County, Iowa",12.4%,1930
+19123,IA,"Mahaska County, Iowa",14%,3130
+19125,IA,"Marion County, Iowa",11.8%,3930
+19127,IA,"Marshall County, Iowa",12.8%,5150
+19129,IA,"Mills County, Iowa",10.8%,1640
+19131,IA,"Mitchell County, Iowa",10.8%,1170
+19133,IA,"Monona County, Iowa",13.9%,1300
+19135,IA,"Monroe County, Iowa",13.6%,1080
+19137,IA,"Montgomery County, Iowa",14.8%,1620
+19139,IA,"Muscatine County, Iowa",13.5%,5730
+19141,IA,"O'Brien County, Iowa",11.6%,1670
+19143,IA,"Osceola County, Iowa",11.6%,760
+19145,IA,"Page County, Iowa",13.3%,2140
+19147,IA,"Palo Alto County, Iowa",12.1%,1150
+19149,IA,"Plymouth County, Iowa",9.7%,2420
+19151,IA,"Pocahontas County, Iowa",11.7%,880
+19153,IA,"Polk County, Iowa",12.5%,52310
+19155,IA,"Pottawattamie County, Iowa",12%,11010
+19157,IA,"Poweshiek County, Iowa",12.4%,2350
+19159,IA,"Ringgold County, Iowa",12.2%,630
+19161,IA,"Sac County, Iowa",11.4%,1200
+19163,IA,"Scott County, Iowa",14%,22660
+19165,IA,"Shelby County, Iowa",10.9%,1350
+19167,IA,"Sioux County, Iowa",9.5%,3190
+19169,IA,"Story County, Iowa",13.5%,11790
+19171,IA,"Tama County, Iowa",12.7%,2270
+19173,IA,"Taylor County, Iowa",12.1%,770
+19175,IA,"Union County, Iowa",14.1%,1750
+19177,IA,"Van Buren County, Iowa",15.2%,1160
+19179,IA,"Wapello County, Iowa",14.8%,5270
+19181,IA,"Warren County, Iowa",11.2%,5070
+19183,IA,"Washington County, Iowa",11.6%,2520
+19185,IA,"Wayne County, Iowa",12.7%,810
+19187,IA,"Webster County, Iowa",14.6%,5610
+19189,IA,"Winnebago County, Iowa",12.9%,1410
+19191,IA,"Winneshiek County, Iowa",11.5%,2410
+19193,IA,"Woodbury County, Iowa",13.2%,13380
+19195,IA,"Worth County, Iowa",13.1%,1000
+19197,IA,"Wright County, Iowa",12.8%,1720
+20001,KS,"Allen County, Kansas",14.6%,1960
+20003,KS,"Anderson County, Kansas",14.6%,1180
+20005,KS,"Atchison County, Kansas",16.1%,2710
+20007,KS,"Barber County, Kansas",12.4%,610
+20009,KS,"Barton County, Kansas",12.6%,3460
+20011,KS,"Bourbon County, Kansas",15.4%,2330
+20013,KS,"Brown County, Kansas",15.2%,1520
+20015,KS,"Butler County, Kansas",13.4%,8710
+20017,KS,"Chase County, Kansas",12.6%,360
+20019,KS,"Chautauqua County, Kansas",14.6%,550
+20021,KS,"Cherokee County, Kansas",16.4%,3560
+20023,KS,"Cheyenne County, Kansas",11.9%,330
+20025,KS,"Clark County, Kansas",12%,270
+20027,KS,"Clay County, Kansas",11.7%,1000
+20029,KS,"Cloud County, Kansas",13.5%,1290
+20031,KS,"Coffey County, Kansas",13.5%,1160
+20033,KS,"Comanche County, Kansas",11.2%,210
+20035,KS,"Cowley County, Kansas",14.8%,5340
+20037,KS,"Crawford County, Kansas",16.3%,6350
+20039,KS,"Decatur County, Kansas",13.2%,400
+20041,KS,"Dickinson County, Kansas",12.9%,2540
+20043,KS,"Doniphan County, Kansas",15.9%,1260
+20045,KS,"Douglas County, Kansas",15.3%,16660
+20047,KS,"Edwards County, Kansas",13.2%,400
+20049,KS,"Elk County, Kansas",16%,470
+20051,KS,"Ellis County, Kansas",12.1%,3390
+20053,KS,"Ellsworth County, Kansas",11.4%,740
+20055,KS,"Finney County, Kansas",10.8%,3900
+20057,KS,"Ford County, Kansas",10.6%,3480
+20059,KS,"Franklin County, Kansas",14.2%,3680
+20061,KS,"Geary County, Kansas",16.2%,4950
+20063,KS,"Gove County, Kansas",10.5%,290
+20065,KS,"Graham County, Kansas",12.3%,330
+20067,KS,"Grant County, Kansas",9.6%,750
+20069,KS,"Gray County, Kansas",9.2%,540
+20071,KS,"Greeley County, Kansas",9.9%,130
+20073,KS,"Greenwood County, Kansas",15.5%,1060
+20075,KS,"Hamilton County, Kansas",9.9%,260
+20077,KS,"Harper County, Kansas",12.8%,770
+20079,KS,"Harvey County, Kansas",13%,4430
+20081,KS,"Haskell County, Kansas",10.4%,440
+20083,KS,"Hodgeman County, Kansas",10.7%,210
+20085,KS,"Jackson County, Kansas",13%,1740
+20087,KS,"Jefferson County, Kansas",13.1%,2500
+20089,KS,"Jewell County, Kansas",12.7%,400
+20091,KS,"Johnson County, Kansas",11.7%,62030
+20093,KS,"Kearny County, Kansas",11.2%,440
+20095,KS,"Kingman County, Kansas",12.6%,1010
+20097,KS,"Kiowa County, Kansas",11.3%,300
+20099,KS,"Labette County, Kansas",16.9%,3680
+20101,KS,"Lane County, Kansas",11.7%,200
+20103,KS,"Leavenworth County, Kansas",14.4%,10780
+20105,KS,"Lincoln County, Kansas",12.6%,420
+20107,KS,"Linn County, Kansas",15.8%,1550
+20109,KS,"Logan County, Kansas",11.6%,320
+20111,KS,"Lyon County, Kansas",15.4%,5370
+20113,KS,"McPherson County, Kansas",11.4%,3330
+20115,KS,"Marion County, Kansas",12.6%,1590
+20117,KS,"Marshall County, Kansas",12.2%,1240
+20119,KS,"Meade County, Kansas",11.2%,500
+20121,KS,"Miami County, Kansas",13.3%,4270
+20123,KS,"Mitchell County, Kansas",11.8%,750
+20125,KS,"Montgomery County, Kansas",17.3%,6150
+20127,KS,"Morris County, Kansas",13.7%,820
+20129,KS,"Morton County, Kansas",9.9%,320
+20131,KS,"Nemaha County, Kansas",11.3%,1160
+20133,KS,"Neosho County, Kansas",16.4%,2700
+20135,KS,"Ness County, Kansas",9.9%,310
+20137,KS,"Norton County, Kansas",12.2%,690
+20139,KS,"Osage County, Kansas",14.6%,2400
+20141,KS,"Osborne County, Kansas",13.3%,520
+20143,KS,"Ottawa County, Kansas",12.5%,760
+20145,KS,"Pawnee County, Kansas",12%,830
+20147,KS,"Phillips County, Kansas",12%,670
+20149,KS,"Pottawatomie County, Kansas",11.4%,2360
+20151,KS,"Pratt County, Kansas",12%,1160
+20153,KS,"Rawlins County, Kansas",12%,310
+20155,KS,"Reno County, Kansas",13.6%,8720
+20157,KS,"Republic County, Kansas",11.9%,600
+20159,KS,"Rice County, Kansas",12.6%,1280
+20161,KS,"Riley County, Kansas",16.2%,11150
+20163,KS,"Rooks County, Kansas",14.5%,760
+20165,KS,"Rush County, Kansas",13.2%,430
+20167,KS,"Russell County, Kansas",14%,970
+20169,KS,"Saline County, Kansas",13.4%,7350
+20171,KS,"Scott County, Kansas",9.9%,480
+20173,KS,"Sedgwick County, Kansas",15.9%,77210
+20175,KS,"Seward County, Kansas",11.2%,2530
+20177,KS,"Shawnee County, Kansas",15%,26330
+20179,KS,"Sheridan County, Kansas",11.9%,310
+20181,KS,"Sherman County, Kansas",12.9%,780
+20183,KS,"Smith County, Kansas",12.1%,480
+20185,KS,"Stafford County, Kansas",12.8%,570
+20187,KS,"Stanton County, Kansas",8.1%,180
+20189,KS,"Stevens County, Kansas",10.7%,590
+20191,KS,"Sumner County, Kansas",14.7%,3570
+20193,KS,"Thomas County, Kansas",11%,850
+20195,KS,"Trego County, Kansas",11%,330
+20197,KS,"Wabaunsee County, Kansas",12.6%,880
+20199,KS,"Wallace County, Kansas",13.4%,190
+20201,KS,"Washington County, Kansas",12%,700
+20203,KS,"Wichita County, Kansas",10.2%,230
+20205,KS,"Wilson County, Kansas",17%,1630
+20207,KS,"Woodson County, Kansas",17%,570
+20209,KS,"Wyandotte County, Kansas",20.3%,31610
+21001,KY,"Adair County, Kentucky",17.2%,3180
+21003,KY,"Allen County, Kentucky",17.9%,3520
+21005,KY,"Anderson County, Kentucky",14.2%,2990
+21007,KY,"Ballard County, Kentucky",14.7%,1210
+21009,KY,"Barren County, Kentucky",17.4%,7270
+21011,KY,"Bath County, Kentucky",21.5%,2490
+21013,KY,"Bell County, Kentucky",21.2%,6120
+21015,KY,"Boone County, Kentucky",12.3%,14120
+21017,KY,"Bourbon County, Kentucky",15.5%,3090
+21019,KY,"Boyd County, Kentucky",15.1%,7460
+21021,KY,"Boyle County, Kentucky",17.8%,5010
+21023,KY,"Bracken County, Kentucky",16.8%,1420
+21025,KY,"Breathitt County, Kentucky",20.7%,2930
+21027,KY,"Breckinridge County, Kentucky",17%,3370
+21029,KY,"Bullitt County, Kentucky",13.8%,9980
+21031,KY,"Butler County, Kentucky",17.3%,2210
+21033,KY,"Caldwell County, Kentucky",15.8%,2040
+21035,KY,"Calloway County, Kentucky",14.7%,5400
+21037,KY,"Campbell County, Kentucky",14.3%,12750
+21039,KY,"Carlisle County, Kentucky",14.2%,730
+21041,KY,"Carroll County, Kentucky",18.6%,1990
+21043,KY,"Carter County, Kentucky",17.9%,4980
+21045,KY,"Casey County, Kentucky",18.8%,3000
+21047,KY,"Christian County, Kentucky",19.2%,13980
+21049,KY,"Clark County, Kentucky",15.9%,5620
+21051,KY,"Clay County, Kentucky",22.9%,5090
+21053,KY,"Clinton County, Kentucky",18.2%,1850
+21055,KY,"Crittenden County, Kentucky",15.5%,1450
+21057,KY,"Cumberland County, Kentucky",19.7%,1370
+21059,KY,"Daviess County, Kentucky",14.5%,13850
+21061,KY,"Edmonson County, Kentucky",18.1%,2190
+21063,KY,"Elliott County, Kentucky",22.8%,1710
+21065,KY,"Estill County, Kentucky",19%,2800
+21067,KY,"Fayette County, Kentucky",15.3%,44060
+21069,KY,"Fleming County, Kentucky",17.5%,2510
+21071,KY,"Floyd County, Kentucky",19.9%,7970
+21073,KY,"Franklin County, Kentucky",14.7%,7230
+21075,KY,"Fulton County, Kentucky",22.8%,1570
+21077,KY,"Gallatin County, Kentucky",17.8%,1500
+21079,KY,"Garrard County, Kentucky",16.8%,2820
+21081,KY,"Grant County, Kentucky",16.3%,4020
+21083,KY,"Graves County, Kentucky",16.3%,6040
+21085,KY,"Grayson County, Kentucky",19%,4850
+21087,KY,"Green County, Kentucky",17.1%,1950
+21089,KY,"Greenup County, Kentucky",14.7%,5420
+21091,KY,"Hancock County, Kentucky",14.6%,1250
+21093,KY,"Hardin County, Kentucky",14.9%,15070
+21095,KY,"Harlan County, Kentucky",20.1%,5970
+21097,KY,"Harrison County, Kentucky",16.9%,3170
+21099,KY,"Hart County, Kentucky",17.9%,3260
+21101,KY,"Henderson County, Kentucky",15.5%,7120
+21103,KY,"Henry County, Kentucky",15.8%,2440
+21105,KY,"Hickman County, Kentucky",15.7%,780
+21107,KY,"Hopkins County, Kentucky",15.8%,7390
+21109,KY,"Jackson County, Kentucky",24.2%,3280
+21111,KY,"Jefferson County, Kentucky",17.4%,126810
+21113,KY,"Jessamine County, Kentucky",14.3%,6750
+21115,KY,"Johnson County, Kentucky",17.7%,4130
+21117,KY,"Kenton County, Kentucky",14.4%,22800
+21119,KY,"Knott County, Kentucky",19.4%,3220
+21121,KY,"Knox County, Kentucky",21.7%,6910
+21123,KY,"Larue County, Kentucky",14.9%,2100
+21125,KY,"Laurel County, Kentucky",16.8%,9780
+21127,KY,"Lawrence County, Kentucky",19.1%,3020
+21129,KY,"Lee County, Kentucky",20.9%,1640
+21131,KY,"Leslie County, Kentucky",19.3%,2220
+21133,KY,"Letcher County, Kentucky",18.7%,4580
+21135,KY,"Lewis County, Kentucky",21.4%,2990
+21137,KY,"Lincoln County, Kentucky",19%,4720
+21139,KY,"Livingston County, Kentucky",14.4%,1370
+21141,KY,"Logan County, Kentucky",16.2%,4340
+21143,KY,"Lyon County, Kentucky",16.2%,1350
+21145,KY,"McCracken County, Kentucky",15.3%,9960
+21147,KY,"McCreary County, Kentucky",23.3%,4220
+21149,KY,"McLean County, Kentucky",15.2%,1470
+21151,KY,"Madison County, Kentucky",15.1%,12330
+21153,KY,"Magoffin County, Kentucky",25.1%,3340
+21155,KY,"Marion County, Kentucky",17.6%,3440
+21157,KY,"Marshall County, Kentucky",14.6%,4580
+21159,KY,"Martin County, Kentucky",20.8%,2730
+21161,KY,"Mason County, Kentucky",17.4%,3010
+21163,KY,"Meade County, Kentucky",16.8%,4850
+21165,KY,"Menifee County, Kentucky",21.3%,1370
+21167,KY,"Mercer County, Kentucky",15.4%,3280
+21169,KY,"Metcalfe County, Kentucky",18.6%,1880
+21171,KY,"Monroe County, Kentucky",19%,2110
+21173,KY,"Montgomery County, Kentucky",17.9%,4630
+21175,KY,"Morgan County, Kentucky",20.2%,2840
+21177,KY,"Muhlenberg County, Kentucky",17.3%,5450
+21179,KY,"Nelson County, Kentucky",16.1%,6840
+21181,KY,"Nicholas County, Kentucky",16.7%,1190
+21183,KY,"Ohio County, Kentucky",15.2%,3620
+21185,KY,"Oldham County, Kentucky",11.7%,6850
+21187,KY,"Owen County, Kentucky",13.7%,1500
+21189,KY,"Owsley County, Kentucky",22.5%,1070
+21191,KY,"Pendleton County, Kentucky",17.5%,2600
+21193,KY,"Perry County, Kentucky",19.1%,5480
+21195,KY,"Pike County, Kentucky",16.7%,10870
+21197,KY,"Powell County, Kentucky",21.1%,2700
+21199,KY,"Pulaski County, Kentucky",16.8%,10450
+21201,KY,"Robertson County, Kentucky",17.1%,390
+21203,KY,"Rockcastle County, Kentucky",19.1%,3260
+21205,KY,"Rowan County, Kentucky",18%,4150
+21207,KY,"Russell County, Kentucky",17.8%,3110
+21209,KY,"Scott County, Kentucky",14.2%,6390
+21211,KY,"Shelby County, Kentucky",13.5%,5520
+21213,KY,"Simpson County, Kentucky",17.5%,3010
+21215,KY,"Spencer County, Kentucky",13.1%,2170
+21217,KY,"Taylor County, Kentucky",17.8%,4310
+21219,KY,"Todd County, Kentucky",17.6%,2170
+21221,KY,"Trigg County, Kentucky",16.6%,2350
+21223,KY,"Trimble County, Kentucky",17%,1510
+21225,KY,"Union County, Kentucky",16.5%,2490
+21227,KY,"Warren County, Kentucky",15.8%,17290
+21229,KY,"Washington County, Kentucky",15.9%,1840
+21231,KY,"Wayne County, Kentucky",20%,4150
+21233,KY,"Webster County, Kentucky",14.9%,2050
+21235,KY,"Whitley County, Kentucky",19.5%,7020
+21237,KY,"Wolfe County, Kentucky",24.7%,1800
+21239,KY,"Woodford County, Kentucky",12.6%,3100
+22001,LA,"Acadia Parish, Louisiana",13.4%,8190
+22003,LA,"Allen Parish, Louisiana",15.8%,4080
+22005,LA,"Ascension Parish, Louisiana",11.6%,11840
+22007,LA,"Assumption Parish, Louisiana",16.6%,3900
+22009,LA,"Avoyelles Parish, Louisiana",16.6%,6980
+22011,LA,"Beauregard Parish, Louisiana",11.5%,4010
+22013,LA,"Bienville Parish, Louisiana",19.4%,2830
+22015,LA,"Bossier Parish, Louisiana",11.2%,12710
+22017,LA,"Caddo Parish, Louisiana",17.3%,43700
+22019,LA,"Calcasieu Parish, Louisiana",13.3%,25150
+22021,LA,"Caldwell Parish, Louisiana",15.8%,1610
+22023,LA,"Cameron Parish, Louisiana",8.7%,630
+22025,LA,"Catahoula Parish, Louisiana",18.1%,1890
+22027,LA,"Claiborne Parish, Louisiana",20.6%,3530
+22029,LA,"Concordia Parish, Louisiana",21.6%,4430
+22031,LA,"De Soto Parish, Louisiana",16.8%,4440
+22033,LA,"East Baton Rouge Parish, Louisiana",16.2%,70800
+22035,LA,"East Carroll Parish, Louisiana",30.7%,2440
+22037,LA,"East Feliciana Parish, Louisiana",18.2%,3710
+22039,LA,"Evangeline Parish, Louisiana",16.4%,5640
+22041,LA,"Franklin Parish, Louisiana",20.4%,4240
+22043,LA,"Grant Parish, Louisiana",12.7%,2750
+22045,LA,"Iberia Parish, Louisiana",15.9%,11650
+22047,LA,"Iberville Parish, Louisiana",18.9%,6340
+22049,LA,"Jackson Parish, Louisiana",14.1%,2270
+22051,LA,"Jefferson Parish, Louisiana",12.4%,53370
+22053,LA,"Jefferson Davis Parish, Louisiana",11.8%,3730
+22055,LA,"Lafayette Parish, Louisiana",12.5%,26920
+22057,LA,"Lafourche Parish, Louisiana",10.5%,10010
+22059,LA,"La Salle Parish, Louisiana",10.5%,1540
+22061,LA,"Lincoln Parish, Louisiana",18.6%,8510
+22063,LA,"Livingston Parish, Louisiana",9.8%,11990
+22065,LA,"Madison Parish, Louisiana",24.5%,3010
+22067,LA,"Morehouse Parish, Louisiana",23.7%,6730
+22069,LA,"Natchitoches Parish, Louisiana",19.2%,7540
+22071,LA,"Orleans Parish, Louisiana",20.6%,60730
+22073,LA,"Ouachita Parish, Louisiana",16.4%,24890
+22075,LA,"Plaquemines Parish, Louisiana",11.3%,2560
+22077,LA,"Pointe Coupee Parish, Louisiana",16.8%,3840
+22079,LA,"Rapides Parish, Louisiana",14.6%,19140
+22081,LA,"Red River Parish, Louisiana",17.9%,1640
+22083,LA,"Richland Parish, Louisiana",17.9%,3710
+22085,LA,"Sabine Parish, Louisiana",13.4%,3240
+22087,LA,"St. Bernard Parish, Louisiana",11.8%,3260
+22089,LA,"St. Charles Parish, Louisiana",12.4%,6510
+22091,LA,"St. Helena Parish, Louisiana",22.7%,2530
+22093,LA,"St. James Parish, Louisiana",18.6%,4110
+22095,LA,"St. John the Baptist Parish, Louisiana",18.2%,8520
+22097,LA,"St. Landry Parish, Louisiana",19.3%,16290
+22099,LA,"St. Martin Parish, Louisiana",14.5%,7480
+22101,LA,"St. Mary Parish, Louisiana",16.8%,9140
+22103,LA,"St. Tammany Parish, Louisiana",8.9%,20350
+22105,LA,"Tangipahoa Parish, Louisiana",16.7%,19780
+22107,LA,"Tensas Parish, Louisiana",26.8%,1460
+22109,LA,"Terrebonne Parish, Louisiana",11.8%,13080
+22111,LA,"Union Parish, Louisiana",16.1%,3660
+22113,LA,"Vermilion Parish, Louisiana",12.4%,7100
+22115,LA,"Vernon Parish, Louisiana",11.5%,5810
+22117,LA,"Washington Parish, Louisiana",18.7%,8690
+22119,LA,"Webster Parish, Louisiana",16.4%,6770
+22121,LA,"West Baton Rouge Parish, Louisiana",15.3%,3570
+22123,LA,"West Carroll Parish, Louisiana",19.9%,2320
+22125,LA,"West Feliciana Parish, Louisiana",15.9%,2500
+22127,LA,"Winn Parish, Louisiana",16.8%,2610
+23001,ME,"Androscoggin County, Maine",15.2%,16370
+23003,ME,"Aroostook County, Maine",16.5%,11970
+23005,ME,"Cumberland County, Maine",13%,36280
+23007,ME,"Franklin County, Maine",16.5%,5070
+23009,ME,"Hancock County, Maine",14.8%,8020
+23011,ME,"Kennebec County, Maine",14.1%,17240
+23013,ME,"Knox County, Maine",14.1%,5670
+23015,ME,"Lincoln County, Maine",13.5%,4700
+23017,ME,"Oxford County, Maine",16.3%,9420
+23019,ME,"Penobscot County, Maine",15.6%,23840
+23021,ME,"Piscataquis County, Maine",17.8%,3120
+23023,ME,"Sagadahoc County, Maine",12.7%,4530
+23025,ME,"Somerset County, Maine",18%,9400
+23027,ME,"Waldo County, Maine",15.7%,6090
+23029,ME,"Washington County, Maine",18.6%,6150
+23031,ME,"York County, Maine",13.2%,25980
+24001,MD,"Allegany County, Maryland",12.4%,9250
+24003,MD,"Anne Arundel County, Maryland",8.5%,44960
+24005,MD,"Baltimore County, Maryland",11.6%,92940
+24009,MD,"Calvert County, Maryland",7.8%,6870
+24011,MD,"Caroline County, Maryland",12%,3940
+24013,MD,"Carroll County, Maryland",7.3%,12220
+24015,MD,"Cecil County, Maryland",10.9%,10890
+24017,MD,"Charles County, Maryland",10.9%,15730
+24019,MD,"Dorchester County, Maryland",15.3%,4950
+24021,MD,"Frederick County, Maryland",7.5%,17100
+24023,MD,"Garrett County, Maryland",10.3%,3100
+24025,MD,"Harford County, Maryland",9%,21840
+24027,MD,"Howard County, Maryland",7.3%,20460
+24029,MD,"Kent County, Maryland",11.9%,2380
+24031,MD,"Montgomery County, Maryland",7.4%,70510
+24033,MD,"Prince George's County, Maryland",15.1%,129060
+24035,MD,"Queen Anne's County, Maryland",8%,3760
+24037,MD,"St. Mary's County, Maryland",8.7%,8870
+24039,MD,"Somerset County, Maryland",17.9%,4740
+24041,MD,"Talbot County, Maryland",9.6%,3600
+24043,MD,"Washington County, Maryland",12.1%,17700
+24045,MD,"Wicomico County, Maryland",13.7%,13270
+24047,MD,"Worcester County, Maryland",13.7%,7020
+24510,MD,"Baltimore city, Maryland",21.7%,134880
+25001,MA,"Barnstable County, Massachusetts",10.4%,22720
+25003,MA,"Berkshire County, Massachusetts",11.1%,14550
+25005,MA,"Bristol County, Massachusetts",12.9%,70250
+25007,MA,"Dukes County, Massachusetts",10%,1620
+25009,MA,"Essex County, Massachusetts",10.4%,76230
+25011,MA,"Franklin County, Massachusetts",10.6%,7610
+25013,MA,"Hampden County, Massachusetts",13.6%,62990
+25015,MA,"Hampshire County, Massachusetts",9.9%,15640
+25017,MA,"Middlesex County, Massachusetts",8.9%,131630
+25019,MA,"Nantucket County, Massachusetts",9.5%,960
+25021,MA,"Norfolk County, Massachusetts",9.2%,60780
+25023,MA,"Plymouth County, Massachusetts",10.8%,53000
+25025,MA,"Suffolk County, Massachusetts",14.6%,102990
+25027,MA,"Worcester County, Massachusetts",10.9%,86220
+26001,MI,"Alcona County, Michigan",18.9%,2130
+26003,MI,"Alger County, Michigan",16.1%,1540
+26005,MI,"Allegan County, Michigan",13.8%,15410
+26007,MI,"Alpena County, Michigan",16%,4780
+26009,MI,"Antrim County, Michigan",17.3%,4150
+26011,MI,"Arenac County, Michigan",18.3%,3020
+26013,MI,"Baraga County, Michigan",22.6%,2000
+26015,MI,"Barry County, Michigan",11.8%,7030
+26017,MI,"Bay County, Michigan",14.2%,15400
+26019,MI,"Benzie County, Michigan",15.8%,2800
+26021,MI,"Berrien County, Michigan",17.1%,26880
+26023,MI,"Branch County, Michigan",15.7%,7240
+26025,MI,"Calhoun County, Michigan",15.7%,21500
+26027,MI,"Cass County, Michigan",14.4%,7540
+26029,MI,"Charlevoix County, Michigan",15.6%,4080
+26031,MI,"Cheboygan County, Michigan",15.7%,4200
+26033,MI,"Chippewa County, Michigan",16.9%,6590
+26035,MI,"Clare County, Michigan",19.2%,5970
+26037,MI,"Clinton County, Michigan",10.9%,8070
+26039,MI,"Crawford County, Michigan",16.7%,2390
+26041,MI,"Delta County, Michigan",14.3%,5360
+26043,MI,"Dickinson County, Michigan",13.2%,3500
+26045,MI,"Eaton County, Michigan",11.8%,12720
+26047,MI,"Emmet County, Michigan",15.1%,4960
+26049,MI,"Genesee County, Michigan",19.1%,82570
+26051,MI,"Gladwin County, Michigan",18.6%,4840
+26053,MI,"Gogebic County, Michigan",16.6%,2730
+26055,MI,"Grand Traverse County, Michigan",13.4%,11500
+26057,MI,"Gratiot County, Michigan",15.9%,6790
+26059,MI,"Hillsdale County, Michigan",16.6%,7790
+26061,MI,"Houghton County, Michigan",16.2%,5860
+26063,MI,"Huron County, Michigan",15.2%,5110
+26065,MI,"Ingham County, Michigan",16%,45070
+26067,MI,"Ionia County, Michigan",15.7%,10150
+26069,MI,"Iosco County, Michigan",18.3%,4830
+26071,MI,"Iron County, Michigan",14.4%,1740
+26073,MI,"Isabella County, Michigan",16.6%,11560
+26075,MI,"Jackson County, Michigan",16.1%,25980
+26077,MI,"Kalamazoo County, Michigan",15.6%,38670
+26079,MI,"Kalkaska County, Michigan",16.6%,2880
+26081,MI,"Kent County, Michigan",14.1%,84670
+26083,MI,"Keweenaw County, Michigan",17.4%,370
+26085,MI,"Lake County, Michigan",19.6%,2280
+26087,MI,"Lapeer County, Michigan",15.9%,14340
+26089,MI,"Leelanau County, Michigan",11.7%,2540
+26091,MI,"Lenawee County, Michigan",15.8%,15940
+26093,MI,"Livingston County, Michigan",11.7%,21250
+26095,MI,"Luce County, Michigan",17.8%,1190
+26097,MI,"Mackinac County, Michigan",16.2%,1820
+26099,MI,"Macomb County, Michigan",15.4%,129220
+26101,MI,"Manistee County, Michigan",15.2%,3800
+26103,MI,"Marquette County, Michigan",13.1%,8730
+26105,MI,"Mason County, Michigan",15.1%,4340
+26107,MI,"Mecosta County, Michigan",16.7%,7150
+26109,MI,"Menominee County, Michigan",13%,3150
+26111,MI,"Midland County, Michigan",12.1%,10140
+26113,MI,"Missaukee County, Michigan",16.6%,2490
+26115,MI,"Monroe County, Michigan",13.6%,20850
+26117,MI,"Montcalm County, Michigan",18.3%,11610
+26119,MI,"Montmorency County, Michigan",20.9%,2080
+26121,MI,"Muskegon County, Michigan",18.1%,31340
+26123,MI,"Newaygo County, Michigan",15.9%,7770
+26125,MI,"Oakland County, Michigan",14.5%,173700
+26127,MI,"Oceana County, Michigan",17.5%,4720
+26129,MI,"Ogemaw County, Michigan",16.5%,3620
+26131,MI,"Ontonagon County, Michigan",17.9%,1250
+26133,MI,"Osceola County, Michigan",17.4%,4120
+26135,MI,"Oscoda County, Michigan",21.3%,1890
+26137,MI,"Otsego County, Michigan",16%,3920
+26139,MI,"Ottawa County, Michigan",12.3%,32080
+26141,MI,"Presque Isle County, Michigan",18%,2470
+26143,MI,"Roscommon County, Michigan",18.7%,4670
+26145,MI,"Saginaw County, Michigan",17.5%,35410
+26147,MI,"St. Clair County, Michigan",16.3%,27040
+26149,MI,"St. Joseph County, Michigan",15.2%,9390
+26151,MI,"Sanilac County, Michigan",16.8%,7410
+26153,MI,"Schoolcraft County, Michigan",17.1%,1480
+26155,MI,"Shiawassee County, Michigan",15.3%,10930
+26157,MI,"Tuscola County, Michigan",16.6%,9410
+26159,MI,"Van Buren County, Michigan",15.5%,11900
+26161,MI,"Washtenaw County, Michigan",13%,44850
+26163,MI,"Wayne County, Michigan",22.7%,425490
+26165,MI,"Wexford County, Michigan",18%,5880
+27001,MN,"Aitkin County, Minnesota",12.9%,2110
+27003,MN,"Anoka County, Minnesota",9.6%,31350
+27005,MN,"Becker County, Minnesota",10.8%,3490
+27007,MN,"Beltrami County, Minnesota",13.4%,5850
+27009,MN,"Benton County, Minnesota",11.1%,4240
+27011,MN,"Big Stone County, Minnesota",9.2%,490
+27013,MN,"Blue Earth County, Minnesota",11.8%,7400
+27015,MN,"Brown County, Minnesota",9.7%,2530
+27017,MN,"Carlton County, Minnesota",11.2%,3920
+27019,MN,"Carver County, Minnesota",8%,7130
+27021,MN,"Cass County, Minnesota",13.4%,3830
+27023,MN,"Chippewa County, Minnesota",9.8%,1210
+27025,MN,"Chisago County, Minnesota",10.7%,5650
+27027,MN,"Clay County, Minnesota",8.9%,5090
+27029,MN,"Clearwater County, Minnesota",16%,1370
+27031,MN,"Cook County, Minnesota",9.5%,500
+27033,MN,"Cottonwood County, Minnesota",9.2%,1080
+27035,MN,"Crow Wing County, Minnesota",11.8%,7270
+27037,MN,"Dakota County, Minnesota",8.7%,34390
+27039,MN,"Dodge County, Minnesota",8.5%,1690
+27041,MN,"Douglas County, Minnesota",9.9%,3560
+27043,MN,"Faribault County, Minnesota",10.7%,1580
+27045,MN,"Fillmore County, Minnesota",10.8%,2270
+27047,MN,"Freeborn County, Minnesota",10.2%,3210
+27049,MN,"Goodhue County, Minnesota",9.5%,4380
+27051,MN,"Grant County, Minnesota",11.3%,690
+27053,MN,"Hennepin County, Minnesota",11.2%,127590
+27055,MN,"Houston County, Minnesota",10.3%,1970
+27057,MN,"Hubbard County, Minnesota",12.3%,2490
+27059,MN,"Isanti County, Minnesota",11%,4150
+27061,MN,"Itasca County, Minnesota",12.2%,5490
+27063,MN,"Jackson County, Minnesota",8.4%,870
+27065,MN,"Kanabec County, Minnesota",14%,2300
+27067,MN,"Kandiyohi County, Minnesota",9.7%,4040
+27069,MN,"Kittson County, Minnesota",9.2%,430
+27071,MN,"Koochiching County, Minnesota",11.8%,1590
+27073,MN,"Lac qui Parle County, Minnesota",9.1%,670
+27075,MN,"Lake County, Minnesota",10.7%,1170
+27077,MN,"Lake of the Woods County, Minnesota",10.6%,440
+27079,MN,"Le Sueur County, Minnesota",11%,3040
+27081,MN,"Lincoln County, Minnesota",8.5%,510
+27083,MN,"Lyon County, Minnesota",9.4%,2410
+27085,MN,"McLeod County, Minnesota",10.1%,3730
+27087,MN,"Mahnomen County, Minnesota",14.1%,760
+27089,MN,"Marshall County, Minnesota",10.9%,1040
+27091,MN,"Martin County, Minnesota",9.7%,2030
+27093,MN,"Meeker County, Minnesota",10.7%,2500
+27095,MN,"Mille Lacs County, Minnesota",13.9%,3630
+27097,MN,"Morrison County, Minnesota",12.4%,4100
+27099,MN,"Mower County, Minnesota",10.1%,3910
+27101,MN,"Murray County, Minnesota",8.7%,760
+27103,MN,"Nicollet County, Minnesota",9.6%,3090
+27105,MN,"Nobles County, Minnesota",10.1%,2120
+27107,MN,"Norman County, Minnesota",9.9%,680
+27109,MN,"Olmsted County, Minnesota",8.9%,12590
+27111,MN,"Otter Tail County, Minnesota",10.8%,6240
+27113,MN,"Pennington County, Minnesota",11.2%,1550
+27115,MN,"Pine County, Minnesota",13.3%,3910
+27117,MN,"Pipestone County, Minnesota",9.3%,890
+27119,MN,"Polk County, Minnesota",9.7%,3030
+27121,MN,"Pope County, Minnesota",9.2%,1020
+27123,MN,"Ramsey County, Minnesota",12.4%,62300
+27125,MN,"Red Lake County, Minnesota",11.5%,470
+27127,MN,"Redwood County, Minnesota",9.8%,1580
+27129,MN,"Renville County, Minnesota",10.3%,1650
+27131,MN,"Rice County, Minnesota",10.6%,6670
+27133,MN,"Rock County, Minnesota",8.7%,830
+27135,MN,"Roseau County, Minnesota",9.5%,1500
+27137,MN,"St. Louis County, Minnesota",12%,23870
+27139,MN,"Scott County, Minnesota",8.2%,10380
+27141,MN,"Sherburne County, Minnesota",10%,8730
+27143,MN,"Sibley County, Minnesota",9.6%,1470
+27145,MN,"Stearns County, Minnesota",10.9%,16160
+27147,MN,"Steele County, Minnesota",9.7%,3540
+27149,MN,"Stevens County, Minnesota",9.9%,960
+27151,MN,"Swift County, Minnesota",10.7%,1060
+27153,MN,"Todd County, Minnesota",11.6%,2890
+27155,MN,"Traverse County, Minnesota",9.3%,340
+27157,MN,"Wabasha County, Minnesota",9%,1960
+27159,MN,"Wadena County, Minnesota",13.8%,1910
+27161,MN,"Waseca County, Minnesota",9.6%,1840
+27163,MN,"Washington County, Minnesota",8.4%,19610
+27165,MN,"Watonwan County, Minnesota",10.1%,1130
+27167,MN,"Wilkin County, Minnesota",8%,530
+27169,MN,"Winona County, Minnesota",11.3%,5780
+27171,MN,"Wright County, Minnesota",9.4%,11310
+27173,MN,"Yellow Medicine County, Minnesota",9.9%,1040
+28001,MS,"Adams County, Mississippi",25.3%,8280
+28003,MS,"Alcorn County, Mississippi",17.6%,6450
+28005,MS,"Amite County, Mississippi",23.8%,3170
+28007,MS,"Attala County, Mississippi",24.2%,4740
+28009,MS,"Benton County, Mississippi",23.8%,2060
+28011,MS,"Bolivar County, Mississippi",28.1%,9840
+28013,MS,"Calhoun County, Mississippi",19.6%,2920
+28015,MS,"Carroll County, Mississippi",21%,2230
+28017,MS,"Chickasaw County, Mississippi",23.5%,4150
+28019,MS,"Choctaw County, Mississippi",21.6%,1880
+28021,MS,"Claiborne County, Mississippi",33.4%,3310
+28023,MS,"Clarke County, Mississippi",22%,3700
+28025,MS,"Clay County, Mississippi",29.9%,6250
+28027,MS,"Coahoma County, Mississippi",30.6%,8170
+28029,MS,"Copiah County, Mississippi",22.6%,6670
+28031,MS,"Covington County, Mississippi",20.6%,4020
+28033,MS,"DeSoto County, Mississippi",13.1%,20260
+28035,MS,"Forrest County, Mississippi",20.3%,15110
+28037,MS,"Franklin County, Mississippi",21.8%,1770
+28039,MS,"George County, Mississippi",14.8%,3270
+28041,MS,"Greene County, Mississippi",19.4%,2720
+28043,MS,"Grenada County, Mississippi",22.8%,5060
+28045,MS,"Hancock County, Mississippi",14%,5950
+28047,MS,"Harrison County, Mississippi",15.7%,28490
+28049,MS,"Hinds County, Mississippi",23.5%,57770
+28051,MS,"Holmes County, Mississippi",37.4%,7320
+28053,MS,"Humphreys County, Mississippi",32.9%,3160
+28055,MS,"Issaquena County, Mississippi",29.1%,550
+28057,MS,"Itawamba County, Mississippi",15.5%,3610
+28059,MS,"Jackson County, Mississippi",15.9%,21760
+28061,MS,"Jasper County, Mississippi",22.4%,3900
+28063,MS,"Jefferson County, Mississippi",34.9%,2780
+28065,MS,"Jefferson Davis County, Mississippi",25.6%,3240
+28067,MS,"Jones County, Mississippi",18.1%,12150
+28069,MS,"Kemper County, Mississippi",26.8%,2800
+28071,MS,"Lafayette County, Mississippi",18.1%,8300
+28073,MS,"Lamar County, Mississippi",14.4%,7590
+28075,MS,"Lauderdale County, Mississippi",21.7%,17230
+28077,MS,"Lawrence County, Mississippi",20.6%,2680
+28079,MS,"Leake County, Mississippi",21.2%,5000
+28081,MS,"Lee County, Mississippi",18.4%,15010
+28083,MS,"Leflore County, Mississippi",31.2%,10310
+28085,MS,"Lincoln County, Mississippi",18.8%,6510
+28087,MS,"Lowndes County, Mississippi",22.4%,13320
+28089,MS,"Madison County, Mississippi",16%,14760
+28091,MS,"Marion County, Mississippi",21.5%,5760
+28093,MS,"Marshall County, Mississippi",23.2%,8600
+28095,MS,"Monroe County, Mississippi",21.4%,7980
+28097,MS,"Montgomery County, Mississippi",24.5%,2730
+28099,MS,"Neshoba County, Mississippi",17.2%,5070
+28101,MS,"Newton County, Mississippi",18.4%,4010
+28103,MS,"Noxubee County, Mississippi",33.4%,3920
+28105,MS,"Oktibbeha County, Mississippi",23%,10720
+28107,MS,"Panola County, Mississippi",25.2%,8750
+28109,MS,"Pearl River County, Mississippi",17.1%,9550
+28111,MS,"Perry County, Mississippi",18.9%,2320
+28113,MS,"Pike County, Mississippi",23.7%,9550
+28115,MS,"Pontotoc County, Mississippi",16.3%,4820
+28117,MS,"Prentiss County, Mississippi",19.2%,4890
+28119,MS,"Quitman County, Mississippi",29.8%,2550
+28121,MS,"Rankin County, Mississippi",12.8%,17760
+28123,MS,"Scott County, Mississippi",18.6%,5240
+28125,MS,"Sharkey County, Mississippi",29.6%,1420
+28127,MS,"Simpson County, Mississippi",19.5%,5380
+28129,MS,"Smith County, Mississippi",18.1%,2980
+28131,MS,"Stone County, Mississippi",16.1%,2720
+28133,MS,"Sunflower County, Mississippi",31%,9450
+28135,MS,"Tallahatchie County, Mississippi",26.2%,4000
+28137,MS,"Tate County, Mississippi",19.1%,5400
+28139,MS,"Tippah County, Mississippi",21%,4620
+28141,MS,"Tishomingo County, Mississippi",17.7%,3460
+28143,MS,"Tunica County, Mississippi",30.3%,3270
+28145,MS,"Union County, Mississippi",17.8%,4790
+28147,MS,"Walthall County, Mississippi",23.3%,3620
+28149,MS,"Warren County, Mississippi",21.7%,10620
+28151,MS,"Washington County, Mississippi",30.7%,16110
+28153,MS,"Wayne County, Mississippi",22.4%,4690
+28155,MS,"Webster County, Mississippi",21.8%,2210
+28157,MS,"Wilkinson County, Mississippi",27.3%,2750
+28159,MS,"Winston County, Mississippi",27.6%,5350
+28161,MS,"Yalobusha County, Mississippi",23.5%,3020
+28163,MS,"Yazoo County, Mississippi",27%,7660
+29001,MO,"Adair County, Missouri",17.1%,4320
+29003,MO,"Andrew County, Missouri",12.8%,2170
+29005,MO,"Atchison County, Missouri",14.3%,830
+29007,MO,"Audrain County, Missouri",16.5%,4230
+29009,MO,"Barry County, Missouri",15.3%,5470
+29011,MO,"Barton County, Missouri",17%,2140
+29013,MO,"Bates County, Missouri",17.7%,3030
+29015,MO,"Benton County, Missouri",17.2%,3270
+29017,MO,"Bollinger County, Missouri",17.1%,2130
+29019,MO,"Boone County, Missouri",15.2%,23980
+29021,MO,"Buchanan County, Missouri",15.2%,13440
+29023,MO,"Butler County, Missouri",16.8%,7120
+29025,MO,"Caldwell County, Missouri",16.2%,1520
+29027,MO,"Callaway County, Missouri",14.1%,6160
+29029,MO,"Camden County, Missouri",15.7%,6760
+29031,MO,"Cape Girardeau County, Missouri",14.8%,10970
+29033,MO,"Carroll County, Missouri",16.3%,1550
+29035,MO,"Carter County, Missouri",16.8%,1030
+29037,MO,"Cass County, Missouri",14%,13670
+29039,MO,"Cedar County, Missouri",15.8%,2220
+29041,MO,"Chariton County, Missouri",15.3%,1200
+29043,MO,"Christian County, Missouri",13.3%,9890
+29045,MO,"Clark County, Missouri",16.2%,1160
+29047,MO,"Clay County, Missouri",13.2%,28480
+29049,MO,"Clinton County, Missouri",14.7%,3050
+29051,MO,"Cole County, Missouri",13.5%,10100
+29053,MO,"Cooper County, Missouri",15.9%,2790
+29055,MO,"Crawford County, Missouri",16.9%,4170
+29057,MO,"Dade County, Missouri",16.6%,1320
+29059,MO,"Dallas County, Missouri",17.4%,2930
+29061,MO,"Daviess County, Missouri",15.5%,1300
+29063,MO,"DeKalb County, Missouri",15.4%,1980
+29065,MO,"Dent County, Missouri",16.5%,2560
+29067,MO,"Douglas County, Missouri",18.1%,2480
+29069,MO,"Dunklin County, Missouri",19.8%,6350
+29071,MO,"Franklin County, Missouri",15.6%,15740
+29073,MO,"Gasconade County, Missouri",15.2%,2340
+29075,MO,"Gentry County, Missouri",14%,950
+29077,MO,"Greene County, Missouri",15.4%,41490
+29079,MO,"Grundy County, Missouri",14.1%,1440
+29081,MO,"Harrison County, Missouri",15.1%,1350
+29083,MO,"Henry County, Missouri",16.4%,3670
+29085,MO,"Hickory County, Missouri",17.9%,1720
+29087,MO,"Holt County, Missouri",14.2%,700
+29089,MO,"Howard County, Missouri",15.3%,1550
+29091,MO,"Howell County, Missouri",16.6%,6600
+29093,MO,"Iron County, Missouri",19%,2020
+29095,MO,"Jackson County, Missouri",19.1%,127490
+29097,MO,"Jasper County, Missouri",15.8%,18130
+29099,MO,"Jefferson County, Missouri",14.6%,31560
+29101,MO,"Johnson County, Missouri",15.9%,8260
+29103,MO,"Knox County, Missouri",15.2%,630
+29105,MO,"Laclede County, Missouri",17.5%,6180
+29107,MO,"Lafayette County, Missouri",15.5%,5170
+29109,MO,"Lawrence County, Missouri",15.2%,5850
+29111,MO,"Lewis County, Missouri",15.6%,1600
+29113,MO,"Lincoln County, Missouri",15.9%,8160
+29115,MO,"Linn County, Missouri",16.7%,2150
+29117,MO,"Livingston County, Missouri",16.3%,2440
+29119,MO,"McDonald County, Missouri",15%,3460
+29121,MO,"Macon County, Missouri",15.1%,2350
+29123,MO,"Madison County, Missouri",17.3%,2130
+29125,MO,"Maries County, Missouri",14.4%,1320
+29127,MO,"Marion County, Missouri",16%,4570
+29129,MO,"Mercer County, Missouri",14.8%,550
+29131,MO,"Miller County, Missouri",18.1%,4490
+29133,MO,"Mississippi County, Missouri",21.4%,3030
+29135,MO,"Moniteau County, Missouri",14%,2160
+29137,MO,"Monroe County, Missouri",17.8%,1610
+29139,MO,"Montgomery County, Missouri",16.5%,2030
+29141,MO,"Morgan County, Missouri",18.3%,3780
+29143,MO,"New Madrid County, Missouri",18.6%,3510
+29145,MO,"Newton County, Missouri",15.5%,8910
+29147,MO,"Nodaway County, Missouri",15.7%,3630
+29149,MO,"Oregon County, Missouri",18%,1930
+29151,MO,"Osage County, Missouri",12.8%,1770
+29153,MO,"Ozark County, Missouri",15.9%,1540
+29155,MO,"Pemiscot County, Missouri",23.8%,4420
+29157,MO,"Perry County, Missouri",12.5%,2360
+29159,MO,"Pettis County, Missouri",15.5%,6460
+29161,MO,"Phelps County, Missouri",15.3%,6810
+29163,MO,"Pike County, Missouri",15.8%,2930
+29165,MO,"Platte County, Missouri",12.7%,11060
+29167,MO,"Polk County, Missouri",17.5%,5390
+29169,MO,"Pulaski County, Missouri",15.3%,7500
+29171,MO,"Putnam County, Missouri",15%,760
+29173,MO,"Ralls County, Missouri",13.3%,1350
+29175,MO,"Randolph County, Missouri",17.4%,4440
+29177,MO,"Ray County, Missouri",15.3%,3630
+29179,MO,"Reynolds County, Missouri",20.1%,1350
+29181,MO,"Ripley County, Missouri",18.2%,2560
+29183,MO,"St. Charles County, Missouri",12.5%,43970
+29185,MO,"St. Clair County, Missouri",17.1%,1670
+29186,MO,"Ste. Genevieve County, Missouri",14.6%,2660
+29187,MO,"St. Francois County, Missouri",17.5%,11220
+29189,MO,"St. Louis County, Missouri",16.5%,165200
+29195,MO,"Saline County, Missouri",16.1%,3730
+29197,MO,"Schuyler County, Missouri",16.8%,730
+29199,MO,"Scotland County, Missouri",15.5%,750
+29201,MO,"Scott County, Missouri",17.5%,6900
+29203,MO,"Shannon County, Missouri",20.7%,1740
+29205,MO,"Shelby County, Missouri",14.4%,930
+29207,MO,"Stoddard County, Missouri",16.2%,4890
+29209,MO,"Stone County, Missouri",17.7%,5670
+29211,MO,"Sullivan County, Missouri",14.9%,1000
+29213,MO,"Taney County, Missouri",17.5%,8630
+29215,MO,"Texas County, Missouri",17.7%,4540
+29217,MO,"Vernon County, Missouri",16.1%,3370
+29219,MO,"Warren County, Missouri",15.9%,5030
+29221,MO,"Washington County, Missouri",20.4%,5090
+29223,MO,"Wayne County, Missouri",16.9%,2270
+29225,MO,"Webster County, Missouri",16.4%,5870
+29227,MO,"Worth County, Missouri",14.3%,310
+29229,MO,"Wright County, Missouri",18.9%,3540
+29510,MO,"St. Louis city, Missouri",26%,82730
+30001,MT,"Beaverhead County, Montana",13.4%,1230
+30003,MT,"Big Horn County, Montana",19.4%,2450
+30005,MT,"Blaine County, Montana",17.2%,1110
+30007,MT,"Broadwater County, Montana",13.5%,720
+30009,MT,"Carbon County, Montana",13%,1300
+30011,MT,"Carter County, Montana",12.3%,160
+30013,MT,"Cascade County, Montana",13.4%,10800
+30015,MT,"Chouteau County, Montana",14.1%,810
+30017,MT,"Custer County, Montana",13.1%,1520
+30019,MT,"Daniels County, Montana",12.6%,210
+30021,MT,"Dawson County, Montana",11.1%,990
+30023,MT,"Deer Lodge County, Montana",16.5%,1530
+30025,MT,"Fallon County, Montana",9.8%,280
+30027,MT,"Fergus County, Montana",14%,1610
+30029,MT,"Flathead County, Montana",16.7%,14870
+30031,MT,"Gallatin County, Montana",13.9%,12180
+30033,MT,"Garfield County, Montana",11.5%,140
+30035,MT,"Glacier County, Montana",19%,2520
+30037,MT,"Golden Valley County, Montana",12.8%,100
+30039,MT,"Granite County, Montana",16%,490
+30041,MT,"Hill County, Montana",14.1%,2260
+30043,MT,"Jefferson County, Montana",12.8%,1430
+30045,MT,"Judith Basin County, Montana",12.3%,240
+30047,MT,"Lake County, Montana",18%,5130
+30049,MT,"Lewis and Clark County, Montana",11.9%,7330
+30051,MT,"Liberty County, Montana",14.3%,320
+30053,MT,"Lincoln County, Montana",21.1%,4120
+30055,MT,"McCone County, Montana",10.1%,170
+30057,MT,"Madison County, Montana",13.8%,1050
+30059,MT,"Meagher County, Montana",16.6%,340
+30061,MT,"Mineral County, Montana",18.5%,780
+30063,MT,"Missoula County, Montana",15.1%,16170
+30065,MT,"Musselshell County, Montana",14.8%,640
+30067,MT,"Park County, Montana",14.8%,2320
+30069,MT,"Petroleum County, Montana",15.3%,90
+30071,MT,"Phillips County, Montana",13.5%,570
+30073,MT,"Pondera County, Montana",15.8%,970
+30075,MT,"Powder River County, Montana",12.2%,200
+30077,MT,"Powell County, Montana",16.2%,1150
+30079,MT,"Prairie County, Montana",13.5%,150
+30081,MT,"Ravalli County, Montana",16.1%,6420
+30083,MT,"Richland County, Montana",11.5%,1100
+30085,MT,"Roosevelt County, Montana",16.3%,1680
+30087,MT,"Rosebud County, Montana",15.5%,1420
+30089,MT,"Sanders County, Montana",21.2%,2400
+30091,MT,"Sheridan County, Montana",12.3%,430
+30093,MT,"Silver Bow County, Montana",14.4%,4880
+30095,MT,"Stillwater County, Montana",12.3%,1100
+30097,MT,"Sweet Grass County, Montana",11.6%,430
+30099,MT,"Teton County, Montana",13.1%,800
+30101,MT,"Toole County, Montana",13%,670
+30103,MT,"Treasure County, Montana",10.7%,90
+30105,MT,"Valley County, Montana",12%,880
+30107,MT,"Wheatland County, Montana",13.2%,280
+30109,MT,"Wibaux County, Montana",11.5%,120
+30111,MT,"Yellowstone County, Montana",12.2%,17590
+31001,NE,"Adams County, Nebraska",11.9%,3710
+31003,NE,"Antelope County, Nebraska",10.8%,730
+31005,NE,"Arthur County, Nebraska",12.7%,50
+31007,NE,"Banner County, Nebraska",12.7%,90
+31009,NE,"Blaine County, Nebraska",12.2%,70
+31011,NE,"Boone County, Nebraska",9.5%,520
+31013,NE,"Box Butte County, Nebraska",12.4%,1410
+31015,NE,"Boyd County, Nebraska",10.3%,220
+31017,NE,"Brown County, Nebraska",13.1%,420
+31019,NE,"Buffalo County, Nebraska",11.2%,5110
+31021,NE,"Burt County, Nebraska",11.8%,830
+31023,NE,"Butler County, Nebraska",10.4%,870
+31025,NE,"Cass County, Nebraska",10.4%,2620
+31027,NE,"Cedar County, Nebraska",10.6%,940
+31029,NE,"Chase County, Nebraska",10.8%,430
+31031,NE,"Cherry County, Nebraska",9.5%,550
+31033,NE,"Cheyenne County, Nebraska",10.5%,1060
+31035,NE,"Clay County, Nebraska",10.6%,700
+31037,NE,"Colfax County, Nebraska",9.2%,930
+31039,NE,"Cuming County, Nebraska",10.9%,1010
+31041,NE,"Custer County, Nebraska",10.5%,1160
+31043,NE,"Dakota County, Nebraska",13.5%,2790
+31045,NE,"Dawes County, Nebraska",14.6%,1330
+31047,NE,"Dawson County, Nebraska",11.4%,2770
+31049,NE,"Deuel County, Nebraska",11.7%,230
+31051,NE,"Dixon County, Nebraska",11.2%,670
+31053,NE,"Dodge County, Nebraska",12%,4380
+31055,NE,"Douglas County, Nebraska",13.2%,66690
+31057,NE,"Dundy County, Nebraska",10.7%,210
+31059,NE,"Fillmore County, Nebraska",11.4%,680
+31061,NE,"Franklin County, Nebraska",12.3%,400
+31063,NE,"Frontier County, Nebraska",11%,310
+31065,NE,"Furnas County, Nebraska",11.6%,570
+31067,NE,"Gage County, Nebraska",12.5%,2820
+31069,NE,"Garden County, Nebraska",12%,250
+31071,NE,"Garfield County, Nebraska",11%,230
+31073,NE,"Gosper County, Nebraska",11%,230
+31075,NE,"Grant County, Nebraska",12.7%,80
+31077,NE,"Greeley County, Nebraska",11.1%,280
+31079,NE,"Hall County, Nebraska",10.6%,6000
+31081,NE,"Hamilton County, Nebraska",9.9%,910
+31083,NE,"Harlan County, Nebraska",10.4%,360
+31085,NE,"Hayes County, Nebraska",10.9%,110
+31087,NE,"Hitchcock County, Nebraska",12.2%,360
+31089,NE,"Holt County, Nebraska",9.8%,1020
+31091,NE,"Hooker County, Nebraska",11%,80
+31093,NE,"Howard County, Nebraska",10.8%,680
+31095,NE,"Jefferson County, Nebraska",11.9%,910
+31097,NE,"Johnson County, Nebraska",12.4%,640
+31099,NE,"Kearney County, Nebraska",10.1%,660
+31101,NE,"Keith County, Nebraska",10.5%,880
+31103,NE,"Keya Paha County, Nebraska",14.8%,110
+31105,NE,"Kimball County, Nebraska",11.5%,440
+31107,NE,"Knox County, Nebraska",11.9%,1050
+31109,NE,"Lancaster County, Nebraska",12%,33480
+31111,NE,"Lincoln County, Nebraska",10.6%,3830
+31113,NE,"Logan County, Nebraska",10.1%,70
+31115,NE,"Loup County, Nebraska",14.3%,90
+31117,NE,"McPherson County, Nebraska",10.1%,50
+31119,NE,"Madison County, Nebraska",11%,3810
+31121,NE,"Merrick County, Nebraska",11.2%,870
+31123,NE,"Morrill County, Nebraska",11.4%,580
+31125,NE,"Nance County, Nebraska",10.5%,390
+31127,NE,"Nemaha County, Nebraska",13.1%,950
+31129,NE,"Nuckolls County, Nebraska",13.3%,610
+31131,NE,"Otoe County, Nebraska",11.6%,1830
+31133,NE,"Pawnee County, Nebraska",11.5%,320
+31135,NE,"Perkins County, Nebraska",9.2%,280
+31137,NE,"Phelps County, Nebraska",10.5%,970
+31139,NE,"Pierce County, Nebraska",10.4%,760
+31141,NE,"Platte County, Nebraska",9.7%,3080
+31143,NE,"Polk County, Nebraska",9.8%,530
+31145,NE,"Red Willow County, Nebraska",10.7%,1180
+31147,NE,"Richardson County, Nebraska",13.6%,1150
+31149,NE,"Rock County, Nebraska",10.1%,170
+31151,NE,"Saline County, Nebraska",10.5%,1480
+31153,NE,"Sarpy County, Nebraska",10.1%,15430
+31155,NE,"Saunders County, Nebraska",10.6%,2180
+31157,NE,"Scotts Bluff County, Nebraska",12.2%,4460
+31159,NE,"Seward County, Nebraska",10%,1670
+31161,NE,"Sheridan County, Nebraska",12%,660
+31163,NE,"Sherman County, Nebraska",11.7%,370
+31165,NE,"Sioux County, Nebraska",10.9%,150
+31167,NE,"Stanton County, Nebraska",11%,680
+31169,NE,"Thayer County, Nebraska",11.2%,590
+31171,NE,"Thomas County, Nebraska",11.6%,90
+31173,NE,"Thurston County, Nebraska",19.1%,1320
+31175,NE,"Valley County, Nebraska",12.2%,520
+31177,NE,"Washington County, Nebraska",9.8%,1970
+31179,NE,"Wayne County, Nebraska",12.1%,1160
+31181,NE,"Webster County, Nebraska",12.5%,480
+31183,NE,"Wheeler County, Nebraska",11.8%,90
+31185,NE,"York County, Nebraska",10.6%,1470
+32001,NV,"Churchill County, Nevada",14.3%,3570
+32003,NV,"Clark County, Nevada",17.5%,331920
+32005,NV,"Douglas County, Nevada",16.8%,7880
+32007,NV,"Elko County, Nevada",10.8%,5150
+32009,NV,"Esmeralda County, Nevada",12.6%,110
+32011,NV,"Eureka County, Nevada",14.5%,250
+32013,NV,"Humboldt County, Nevada",13%,2080
+32015,NV,"Lander County, Nevada",11.5%,640
+32017,NV,"Lincoln County, Nevada",16.7%,840
+32019,NV,"Lyon County, Nevada",20.6%,10590
+32021,NV,"Mineral County, Nevada",20.3%,980
+32023,NV,"Nye County, Nevada",21.2%,9320
+32027,NV,"Pershing County, Nevada",15.7%,1050
+32029,NV,"Storey County, Nevada",15.4%,620
+32031,NV,"Washoe County, Nevada",16.4%,67880
+32033,NV,"White Pine County, Nevada",14.4%,1410
+32510,NV,"Carson City, Nevada",16.8%,9300
+33001,NH,"Belknap County, New Hampshire",10.3%,6200
+33003,NH,"Carroll County, New Hampshire",10%,4800
+33005,NH,"Cheshire County, New Hampshire",10%,7770
+33007,NH,"Coos County, New Hampshire",12.2%,4070
+33009,NH,"Grafton County, New Hampshire",9.4%,8330
+33011,NH,"Hillsborough County, New Hampshire",9.4%,37690
+33013,NH,"Merrimack County, New Hampshire",9.3%,13630
+33015,NH,"Rockingham County, New Hampshire",8.7%,25750
+33017,NH,"Strafford County, New Hampshire",10.3%,12610
+33019,NH,"Sullivan County, New Hampshire",10%,4370
+34001,NJ,"Atlantic County, New Jersey",15.6%,42510
+34003,NJ,"Bergen County, New Jersey",9.6%,86160
+34005,NJ,"Burlington County, New Jersey",11.9%,53440
+34007,NJ,"Camden County, New Jersey",14.6%,74770
+34009,NJ,"Cape May County, New Jersey",13.8%,13510
+34011,NJ,"Cumberland County, New Jersey",17.1%,26570
+34013,NJ,"Essex County, New Jersey",18%,140770
+34015,NJ,"Gloucester County, New Jersey",12.4%,35290
+34017,NJ,"Hudson County, New Jersey",13.6%,84700
+34019,NJ,"Hunterdon County, New Jersey",8.3%,10690
+34021,NJ,"Mercer County, New Jersey",12.4%,45090
+34023,NJ,"Middlesex County, New Jersey",10.8%,86080
+34025,NJ,"Monmouth County, New Jersey",10.6%,66630
+34027,NJ,"Morris County, New Jersey",8.3%,40880
+34029,NJ,"Ocean County, New Jersey",12.2%,69300
+34031,NJ,"Passaic County, New Jersey",14.2%,70210
+34033,NJ,"Salem County, New Jersey",14.6%,9640
+34035,NJ,"Somerset County, New Jersey",8.9%,28320
+34037,NJ,"Sussex County, New Jersey",10.2%,15280
+34039,NJ,"Union County, New Jersey",12.9%,68480
+34041,NJ,"Warren County, New Jersey",10.9%,11870
+35001,NM,"Bernalillo County, New Mexico",16.6%,107340
+35003,NM,"Catron County, New Mexico",18.6%,680
+35005,NM,"Chaves County, New Mexico",17.4%,11160
+35006,NM,"Cibola County, New Mexico",18.6%,5060
+35007,NM,"Colfax County, New Mexico",16.9%,2340
+35009,NM,"Curry County, New Mexico",16.7%,7860
+35011,NM,"De Baca County, New Mexico",16.9%,300
+35013,NM,"Do¤a Ana County, New Mexico",17.6%,35570
+35015,NM,"Eddy County, New Mexico",14.5%,7610
+35017,NM,"Grant County, New Mexico",17.9%,5310
+35019,NM,"Guadalupe County, New Mexico",19.7%,930
+35021,NM,"Harding County, New Mexico",15.7%,150
+35023,NM,"Hidalgo County, New Mexico",17.4%,860
+35025,NM,"Lea County, New Mexico",16.7%,10450
+35027,NM,"Lincoln County, New Mexico",15.5%,3170
+35028,NM,"Los Alamos County, New Mexico",10.7%,1940
+35029,NM,"Luna County, New Mexico",27%,6820
+35031,NM,"McKinley County, New Mexico",23.4%,16560
+35033,NM,"Mora County, New Mexico",18.4%,910
+35035,NM,"Otero County, New Mexico",17.9%,11210
+35037,NM,"Quay County, New Mexico",18.4%,1660
+35039,NM,"Rio Arriba County, New Mexico",16.3%,6540
+35041,NM,"Roosevelt County, New Mexico",17%,3300
+35043,NM,"Sandoval County, New Mexico",16.6%,20570
+35045,NM,"San Juan County, New Mexico",19.9%,25310
+35047,NM,"San Miguel County, New Mexico",17.3%,5080
+35049,NM,"Santa Fe County, New Mexico",14.9%,21100
+35051,NM,"Sierra County, New Mexico",18.3%,2180
+35053,NM,"Socorro County, New Mexico",17.6%,3170
+35055,NM,"Taos County, New Mexico",17.4%,5660
+35057,NM,"Torrance County, New Mexico",19.1%,3140
+35059,NM,"Union County, New Mexico",14.7%,640
+35061,NM,"Valencia County, New Mexico",18%,13390
+36001,NY,"Albany County, New York",12.1%,36750
+36003,NY,"Allegany County, New York",13.6%,6680
+36005,NY,"Bronx County, New York",20.1%,275030
+36007,NY,"Broome County, New York",13.2%,26550
+36009,NY,"Cattaraugus County, New York",13.3%,10730
+36011,NY,"Cayuga County, New York",12%,9660
+36013,NY,"Chautauqua County, New York",13.3%,17980
+36015,NY,"Chemung County, New York",13.2%,11680
+36017,NY,"Chenango County, New York",12.6%,6430
+36019,NY,"Clinton County, New York",13.5%,11140
+36021,NY,"Columbia County, New York",10.8%,6820
+36023,NY,"Cortland County, New York",12.8%,6310
+36025,NY,"Delaware County, New York",12.3%,5930
+36027,NY,"Dutchess County, New York",10.8%,31910
+36029,NY,"Erie County, New York",13.4%,123450
+36031,NY,"Essex County, New York",12.7%,5020
+36033,NY,"Franklin County, New York",13.4%,6920
+36035,NY,"Fulton County, New York",14.3%,7930
+36037,NY,"Genesee County, New York",11.2%,6720
+36039,NY,"Greene County, New York",12.6%,6220
+36041,NY,"Hamilton County, New York",11.1%,540
+36043,NY,"Herkimer County, New York",12%,7710
+36045,NY,"Jefferson County, New York",13.4%,15470
+36047,NY,"Kings County, New York",18.4%,454190
+36049,NY,"Lewis County, New York",13%,3510
+36051,NY,"Livingston County, New York",12%,7840
+36053,NY,"Madison County, New York",11.2%,8160
+36055,NY,"Monroe County, New York",13.2%,97690
+36057,NY,"Montgomery County, New York",13.1%,6520
+36059,NY,"Nassau County, New York",9%,119350
+36061,NY,"New York County, New York",13.1%,206770
+36063,NY,"Niagara County, New York",13.1%,28280
+36065,NY,"Oneida County, New York",12.5%,29220
+36067,NY,"Onondaga County, New York",12.8%,59460
+36069,NY,"Ontario County, New York",10.3%,10920
+36071,NY,"Orange County, New York",11.3%,41910
+36073,NY,"Orleans County, New York",13.2%,5700
+36075,NY,"Oswego County, New York",14%,17050
+36077,NY,"Otsego County, New York",12%,7540
+36079,NY,"Putnam County, New York",8.5%,8490
+36081,NY,"Queens County, New York",12.7%,279670
+36083,NY,"Rensselaer County, New York",11.5%,18290
+36085,NY,"Richmond County, New York",11.4%,53060
+36087,NY,"Rockland County, New York",10.8%,32970
+36089,NY,"St. Lawrence County, New York",14.7%,16410
+36091,NY,"Saratoga County, New York",9%,19660
+36093,NY,"Schenectady County, New York",11.7%,17990
+36095,NY,"Schoharie County, New York",12.2%,4000
+36097,NY,"Schuyler County, New York",10.9%,2030
+36099,NY,"Seneca County, New York",12.2%,4320
+36101,NY,"Steuben County, New York",13.3%,13090
+36103,NY,"Suffolk County, New York",9.1%,135200
+36105,NY,"Sullivan County, New York",13.7%,10630
+36107,NY,"Tioga County, New York",10.8%,5570
+36109,NY,"Tompkins County, New York",12%,12110
+36111,NY,"Ulster County, New York",11.5%,21030
+36113,NY,"Warren County, New York",11.2%,7380
+36115,NY,"Washington County, New York",11.4%,7200
+36117,NY,"Wayne County, New York",11.9%,11160
+36119,NY,"Westchester County, New York",10.1%,94500
+36121,NY,"Wyoming County, New York",12.5%,5310
+36123,NY,"Yates County, New York",11.3%,2850
+37001,NC,"Alamance County, North Carolina",17.9%,26290
+37003,NC,"Alexander County, North Carolina",17.5%,6440
+37005,NC,"Alleghany County, North Carolina",18.6%,2060
+37007,NC,"Anson County, North Carolina",25.1%,6730
+37009,NC,"Ashe County, North Carolina",17.2%,4610
+37011,NC,"Avery County, North Carolina",16.7%,2990
+37013,NC,"Beaufort County, North Carolina",19.3%,9110
+37015,NC,"Bertie County, North Carolina",25.5%,5340
+37017,NC,"Bladen County, North Carolina",22.7%,7860
+37019,NC,"Brunswick County, North Carolina",16.5%,16860
+37021,NC,"Buncombe County, North Carolina",14.4%,33560
+37023,NC,"Burke County, North Carolina",18.5%,16790
+37025,NC,"Cabarrus County, North Carolina",16.1%,27380
+37027,NC,"Caldwell County, North Carolina",18.7%,15380
+37029,NC,"Camden County, North Carolina",13.9%,1350
+37031,NC,"Carteret County, North Carolina",14%,9140
+37033,NC,"Caswell County, North Carolina",21.9%,5220
+37035,NC,"Catawba County, North Carolina",17.1%,26150
+37037,NC,"Chatham County, North Carolina",13.4%,8240
+37039,NC,"Cherokee County, North Carolina",17.5%,4780
+37041,NC,"Chowan County, North Carolina",20.3%,3010
+37043,NC,"Clay County, North Carolina",17.7%,1840
+37045,NC,"Cleveland County, North Carolina",20.9%,20460
+37047,NC,"Columbus County, North Carolina",21.9%,12460
+37049,NC,"Craven County, North Carolina",17.9%,17940
+37051,NC,"Cumberland County, North Carolina",18.7%,58610
+37053,NC,"Currituck County, North Carolina",11.7%,2730
+37055,NC,"Dare County, North Carolina",14.4%,4850
+37057,NC,"Davidson County, North Carolina",17.3%,27860
+37059,NC,"Davie County, North Carolina",15.3%,6190
+37061,NC,"Duplin County, North Carolina",18.7%,10570
+37063,NC,"Durham County, North Carolina",17.6%,45520
+37065,NC,"Edgecombe County, North Carolina",27.3%,15340
+37067,NC,"Forsyth County, North Carolina",17.5%,59970
+37069,NC,"Franklin County, North Carolina",18%,10510
+37071,NC,"Gaston County, North Carolina",18.4%,37240
+37073,NC,"Gates County, North Carolina",18.7%,2250
+37075,NC,"Graham County, North Carolina",19.9%,1730
+37077,NC,"Granville County, North Carolina",18.2%,10540
+37079,NC,"Greene County, North Carolina",19.8%,4180
+37081,NC,"Guilford County, North Carolina",19.2%,91560
+37083,NC,"Halifax County, North Carolina",25.4%,14060
+37085,NC,"Harnett County, North Carolina",18.2%,19790
+37087,NC,"Haywood County, North Carolina",14.2%,8310
+37089,NC,"Henderson County, North Carolina",13.3%,13800
+37091,NC,"Hertford County, North Carolina",24.2%,5890
+37093,NC,"Hoke County, North Carolina",19.2%,8470
+37095,NC,"Hyde County, North Carolina",19.3%,1100
+37097,NC,"Iredell County, North Carolina",17%,26320
+37099,NC,"Jackson County, North Carolina",15.8%,6180
+37101,NC,"Johnston County, North Carolina",16%,25750
+37103,NC,"Jones County, North Carolina",19.8%,1990
+37105,NC,"Lee County, North Carolina",18.5%,10290
+37107,NC,"Lenoir County, North Carolina",22.4%,13270
+37109,NC,"Lincoln County, North Carolina",16.8%,12710
+37111,NC,"McDowell County, North Carolina",18.2%,8120
+37113,NC,"Macon County, North Carolina",16.1%,5390
+37115,NC,"Madison County, North Carolina",15.3%,3150
+37117,NC,"Martin County, North Carolina",22.9%,5600
+37119,NC,"Mecklenburg County, North Carolina",17.8%,157220
+37121,NC,"Mitchell County, North Carolina",16.7%,2620
+37123,NC,"Montgomery County, North Carolina",20.5%,5660
+37125,NC,"Moore County, North Carolina",15.6%,13420
+37127,NC,"Nash County, North Carolina",20.4%,19210
+37129,NC,"New Hanover County, North Carolina",16.4%,32350
+37131,NC,"Northampton County, North Carolina",24.8%,5510
+37133,NC,"Onslow County, North Carolina",15.2%,25650
+37135,NC,"Orange County, North Carolina",13.9%,18030
+37137,NC,"Pamlico County, North Carolina",16.3%,2130
+37139,NC,"Pasquotank County, North Carolina",20%,8040
+37141,NC,"Pender County, North Carolina",17.5%,8770
+37143,NC,"Perquimans County, North Carolina",18.7%,2440
+37145,NC,"Person County, North Carolina",19%,7380
+37147,NC,"Pitt County, North Carolina",21.1%,34010
+37149,NC,"Polk County, North Carolina",14.1%,2850
+37151,NC,"Randolph County, North Carolina",16.3%,22880
+37153,NC,"Richmond County, North Carolina",23.4%,10890
+37155,NC,"Robeson County, North Carolina",23.2%,30500
+37157,NC,"Rockingham County, North Carolina",19.2%,17900
+37159,NC,"Rowan County, North Carolina",18.8%,25690
+37161,NC,"Rutherford County, North Carolina",21.6%,14490
+37163,NC,"Sampson County, North Carolina",18%,11340
+37165,NC,"Scotland County, North Carolina",27.8%,10110
+37167,NC,"Stanly County, North Carolina",17.2%,10320
+37169,NC,"Stokes County, North Carolina",15.3%,7210
+37171,NC,"Surry County, North Carolina",16.9%,12360
+37173,NC,"Swain County, North Carolina",18.9%,2620
+37175,NC,"Transylvania County, North Carolina",15%,4870
+37177,NC,"Tyrrell County, North Carolina",21.4%,940
+37179,NC,"Union County, North Carolina",14%,26560
+37181,NC,"Vance County, North Carolina",25.8%,11620
+37183,NC,"Wake County, North Carolina",14.3%,121650
+37185,NC,"Warren County, North Carolina",26.1%,5430
+37187,NC,"Washington County, North Carolina",24.4%,3230
+37189,NC,"Watauga County, North Carolina",16.3%,8080
+37191,NC,"Wayne County, North Carolina",18.5%,22180
+37193,NC,"Wilkes County, North Carolina",18.8%,12990
+37195,NC,"Wilson County, North Carolina",22.5%,17890
+37197,NC,"Yadkin County, North Carolina",15.2%,5800
+37199,NC,"Yancey County, North Carolina",17.1%,3060
+38001,ND,"Adams County, North Dakota",6.5%,150
+38003,ND,"Barnes County, North Dakota",7.8%,860
+38005,ND,"Benson County, North Dakota",14.4%,960
+38007,ND,"Billings County, North Dakota",5.5%,50
+38009,ND,"Bottineau County, North Dakota",7.8%,500
+38011,ND,"Bowman County, North Dakota",5.2%,160
+38013,ND,"Burke County, North Dakota",5.2%,100
+38015,ND,"Burleigh County, North Dakota",6.5%,5100
+38017,ND,"Cass County, North Dakota",7.8%,11200
+38019,ND,"Cavalier County, North Dakota",6.1%,250
+38021,ND,"Dickey County, North Dakota",7.1%,380
+38023,ND,"Divide County, North Dakota",7.4%,150
+38025,ND,"Dunn County, North Dakota",6.1%,210
+38027,ND,"Eddy County, North Dakota",9.1%,220
+38029,ND,"Emmons County, North Dakota",11.2%,400
+38031,ND,"Foster County, North Dakota",6%,210
+38033,ND,"Golden Valley County, North Dakota",7.3%,110
+38035,ND,"Grand Forks County, North Dakota",8.9%,5950
+38037,ND,"Grant County, North Dakota",8.1%,200
+38039,ND,"Griggs County, North Dakota",6.8%,160
+38041,ND,"Hettinger County, North Dakota",7.3%,180
+38043,ND,"Kidder County, North Dakota",10.4%,260
+38045,ND,"LaMoure County, North Dakota",6.6%,280
+38047,ND,"Logan County, North Dakota",7.1%,140
+38049,ND,"McHenry County, North Dakota",8.3%,450
+38051,ND,"McIntosh County, North Dakota",8.5%,250
+38053,ND,"McKenzie County, North Dakota",5.7%,340
+38055,ND,"McLean County, North Dakota",7.4%,650
+38057,ND,"Mercer County, North Dakota",6.7%,560
+38059,ND,"Morton County, North Dakota",6.9%,1850
+38061,ND,"Mountrail County, North Dakota",7.7%,550
+38063,ND,"Nelson County, North Dakota",7.1%,230
+38065,ND,"Oliver County, North Dakota",6.4%,120
+38067,ND,"Pembina County, North Dakota",8.2%,620
+38069,ND,"Pierce County, North Dakota",8.9%,390
+38071,ND,"Ramsey County, North Dakota",7.5%,850
+38073,ND,"Ransom County, North Dakota",7.4%,410
+38075,ND,"Renville County, North Dakota",5.3%,130
+38077,ND,"Richland County, North Dakota",7.4%,1220
+38079,ND,"Rolette County, North Dakota",17.6%,2420
+38081,ND,"Sargent County, North Dakota",6.8%,270
+38083,ND,"Sheridan County, North Dakota",9.9%,130
+38085,ND,"Sioux County, North Dakota",17.2%,710
+38087,ND,"Slope County, North Dakota",5.5%,40
+38089,ND,"Stark County, North Dakota",6%,1410
+38091,ND,"Steele County, North Dakota",4.5%,90
+38093,ND,"Stutsman County, North Dakota",7.5%,1580
+38095,ND,"Towner County, North Dakota",6.7%,150
+38097,ND,"Traill County, North Dakota",6.9%,560
+38099,ND,"Walsh County, North Dakota",7.8%,880
+38101,ND,"Ward County, North Dakota",6.7%,3970
+38103,ND,"Wells County, North Dakota",7.6%,320
+38105,ND,"Williams County, North Dakota",4.9%,1050
+39001,OH,"Adams County, Ohio",20.5%,5850
+39003,OH,"Allen County, Ohio",17.6%,18790
+39005,OH,"Ashland County, Ohio",16.8%,8950
+39007,OH,"Ashtabula County, Ohio",17.8%,18140
+39009,OH,"Athens County, Ohio",19.3%,12450
+39011,OH,"Auglaize County, Ohio",13.1%,6020
+39013,OH,"Belmont County, Ohio",16%,11230
+39015,OH,"Brown County, Ohio",16.3%,7270
+39017,OH,"Butler County, Ohio",15.3%,55610
+39019,OH,"Carroll County, Ohio",16.9%,4890
+39021,OH,"Champaign County, Ohio",16%,6420
+39023,OH,"Clark County, Ohio",17%,23700
+39025,OH,"Clermont County, Ohio",14%,27380
+39027,OH,"Clinton County, Ohio",19.8%,8400
+39029,OH,"Columbiana County, Ohio",17.7%,19180
+39031,OH,"Coshocton County, Ohio",17.8%,6590
+39033,OH,"Crawford County, Ohio",16.8%,7450
+39035,OH,"Cuyahoga County, Ohio",18.8%,243830
+39037,OH,"Darke County, Ohio",14.9%,7890
+39039,OH,"Defiance County, Ohio",16%,6250
+39041,OH,"Delaware County, Ohio",10.8%,17890
+39043,OH,"Erie County, Ohio",16%,12430
+39045,OH,"Fairfield County, Ohio",14.1%,20260
+39047,OH,"Fayette County, Ohio",17.5%,5050
+39049,OH,"Franklin County, Ohio",17.3%,196870
+39051,OH,"Fulton County, Ohio",15.3%,6560
+39053,OH,"Gallia County, Ohio",17.9%,5550
+39055,OH,"Geauga County, Ohio",11.9%,11180
+39057,OH,"Greene County, Ohio",15.2%,24350
+39059,OH,"Guernsey County, Ohio",17.7%,7140
+39061,OH,"Hamilton County, Ohio",18.1%,145110
+39063,OH,"Hancock County, Ohio",13.9%,10370
+39065,OH,"Hardin County, Ohio",16.8%,5380
+39067,OH,"Harrison County, Ohio",18.2%,2880
+39069,OH,"Henry County, Ohio",15.6%,4440
+39071,OH,"Highland County, Ohio",20.2%,8820
+39073,OH,"Hocking County, Ohio",16.5%,4850
+39075,OH,"Holmes County, Ohio",13.5%,5660
+39077,OH,"Huron County, Ohio",17.6%,10540
+39079,OH,"Jackson County, Ohio",18.8%,6220
+39081,OH,"Jefferson County, Ohio",19.2%,13440
+39083,OH,"Knox County, Ohio",14.9%,8950
+39085,OH,"Lake County, Ohio",12.9%,29560
+39087,OH,"Lawrence County, Ohio",16%,10050
+39089,OH,"Licking County, Ohio",14.5%,23720
+39091,OH,"Logan County, Ohio",16.5%,7580
+39093,OH,"Lorain County, Ohio",15.4%,46170
+39095,OH,"Lucas County, Ohio",19.2%,85090
+39097,OH,"Madison County, Ohio",15%,6420
+39099,OH,"Mahoning County, Ohio",18.6%,44910
+39101,OH,"Marion County, Ohio",17.2%,11420
+39103,OH,"Medina County, Ohio",12%,20460
+39105,OH,"Meigs County, Ohio",20.5%,4840
+39107,OH,"Mercer County, Ohio",12.1%,4970
+39109,OH,"Miami County, Ohio",14.7%,15050
+39111,OH,"Monroe County, Ohio",18.8%,2770
+39113,OH,"Montgomery County, Ohio",18.9%,101570
+39115,OH,"Morgan County, Ohio",20.1%,3040
+39117,OH,"Morrow County, Ohio",14.7%,5120
+39119,OH,"Muskingum County, Ohio",18.7%,16030
+39121,OH,"Noble County, Ohio",19.6%,2880
+39123,OH,"Ottawa County, Ohio",16.6%,6900
+39125,OH,"Paulding County, Ohio",15.5%,3050
+39127,OH,"Perry County, Ohio",18.4%,6590
+39129,OH,"Pickaway County, Ohio",15.9%,8780
+39131,OH,"Pike County, Ohio",21.2%,6080
+39133,OH,"Portage County, Ohio",15.4%,24670
+39135,OH,"Preble County, Ohio",14.8%,6280
+39137,OH,"Putnam County, Ohio",13%,4520
+39139,OH,"Richland County, Ohio",17.2%,21700
+39141,OH,"Ross County, Ohio",17.7%,13760
+39143,OH,"Sandusky County, Ohio",14.7%,8980
+39145,OH,"Scioto County, Ohio",19.3%,15280
+39147,OH,"Seneca County, Ohio",16%,9140
+39149,OH,"Shelby County, Ohio",16.2%,7980
+39151,OH,"Stark County, Ohio",16.7%,62860
+39153,OH,"Summit County, Ohio",16.8%,91280
+39155,OH,"Trumbull County, Ohio",17.9%,38020
+39157,OH,"Tuscarawas County, Ohio",15.5%,14320
+39159,OH,"Union County, Ohio",12.2%,6210
+39161,OH,"Van Wert County, Ohio",15.5%,4490
+39163,OH,"Vinton County, Ohio",18.9%,2550
+39165,OH,"Warren County, Ohio",12.5%,26020
+39167,OH,"Washington County, Ohio",15.2%,9400
+39169,OH,"Wayne County, Ohio",14%,16010
+39171,OH,"Williams County, Ohio",16.7%,6370
+39173,OH,"Wood County, Ohio",14.9%,18650
+39175,OH,"Wyandot County, Ohio",15%,3410
+40001,OK,"Adair County, Oklahoma",19.8%,4430
+40003,OK,"Alfalfa County, Oklahoma",14.3%,810
+40005,OK,"Atoka County, Oklahoma",20%,2830
+40007,OK,"Beaver County, Oklahoma",12.1%,670
+40009,OK,"Beckham County, Oklahoma",14.8%,3230
+40011,OK,"Blaine County, Oklahoma",16.4%,1970
+40013,OK,"Bryan County, Oklahoma",16%,6600
+40015,OK,"Caddo County, Oklahoma",17.2%,4990
+40017,OK,"Canadian County, Oklahoma",13.2%,14510
+40019,OK,"Carter County, Oklahoma",16%,7540
+40021,OK,"Cherokee County, Oklahoma",18.2%,8400
+40023,OK,"Choctaw County, Oklahoma",20.1%,3060
+40025,OK,"Cimarron County, Oklahoma",14.9%,370
+40027,OK,"Cleveland County, Oklahoma",14.6%,36050
+40029,OK,"Coal County, Oklahoma",18.5%,1070
+40031,OK,"Comanche County, Oklahoma",17.7%,21190
+40033,OK,"Cotton County, Oklahoma",14.5%,900
+40035,OK,"Craig County, Oklahoma",16.3%,2440
+40037,OK,"Creek County, Oklahoma",17.4%,11990
+40039,OK,"Custer County, Oklahoma",14.8%,3980
+40041,OK,"Delaware County, Oklahoma",17.7%,7250
+40043,OK,"Dewey County, Oklahoma",13.8%,650
+40045,OK,"Ellis County, Oklahoma",13.8%,560
+40047,OK,"Garfield County, Oklahoma",15%,8840
+40049,OK,"Garvin County, Oklahoma",15.9%,4370
+40051,OK,"Grady County, Oklahoma",15.9%,8210
+40053,OK,"Grant County, Oklahoma",12.9%,590
+40055,OK,"Greer County, Oklahoma",17.9%,1110
+40057,OK,"Harmon County, Oklahoma",18%,520
+40059,OK,"Harper County, Oklahoma",12.8%,460
+40061,OK,"Haskell County, Oklahoma",16%,2010
+40063,OK,"Hughes County, Oklahoma",20.8%,2840
+40065,OK,"Jackson County, Oklahoma",15.7%,4140
+40067,OK,"Jefferson County, Oklahoma",17.1%,1100
+40069,OK,"Johnston County, Oklahoma",18%,1940
+40071,OK,"Kay County, Oklahoma",17.8%,8280
+40073,OK,"Kingfisher County, Oklahoma",13.3%,1960
+40075,OK,"Kiowa County, Oklahoma",17.1%,1630
+40077,OK,"Latimer County, Oklahoma",18.1%,1990
+40079,OK,"Le Flore County, Oklahoma",19.4%,9680
+40081,OK,"Lincoln County, Oklahoma",16.2%,5480
+40083,OK,"Logan County, Oklahoma",16.3%,6490
+40085,OK,"Love County, Oklahoma",14.3%,1330
+40087,OK,"McClain County, Oklahoma",13.7%,4520
+40089,OK,"McCurtain County, Oklahoma",22.9%,7580
+40091,OK,"McIntosh County, Oklahoma",19.9%,3970
+40093,OK,"Major County, Oklahoma",12.9%,970
+40095,OK,"Marshall County, Oklahoma",15.5%,2400
+40097,OK,"Mayes County, Oklahoma",17.7%,7240
+40099,OK,"Murray County, Oklahoma",14.4%,1900
+40101,OK,"Muskogee County, Oklahoma",19.1%,13420
+40103,OK,"Noble County, Oklahoma",15.3%,1760
+40105,OK,"Nowata County, Oklahoma",18.4%,1960
+40107,OK,"Okfuskee County, Oklahoma",20.8%,2500
+40109,OK,"Oklahoma County, Oklahoma",17.4%,122450
+40111,OK,"Okmulgee County, Oklahoma",20.6%,8180
+40113,OK,"Osage County, Oklahoma",17.6%,8310
+40115,OK,"Ottawa County, Oklahoma",16.4%,5300
+40117,OK,"Pawnee County, Oklahoma",18.6%,3090
+40119,OK,"Payne County, Oklahoma",17.9%,13560
+40121,OK,"Pittsburg County, Oklahoma",16.5%,7510
+40123,OK,"Pontotoc County, Oklahoma",16.5%,6050
+40125,OK,"Pottawatomie County, Oklahoma",16.5%,11380
+40127,OK,"Pushmataha County, Oklahoma",20.3%,2330
+40129,OK,"Roger Mills County, Oklahoma",13.1%,460
+40131,OK,"Rogers County, Oklahoma",14.7%,12540
+40133,OK,"Seminole County, Oklahoma",19.8%,4990
+40135,OK,"Sequoyah County, Oklahoma",19.9%,8350
+40137,OK,"Stephens County, Oklahoma",15.3%,6800
+40139,OK,"Texas County, Oklahoma",13.4%,2670
+40141,OK,"Tillman County, Oklahoma",17.1%,1390
+40143,OK,"Tulsa County, Oklahoma",17.1%,100860
+40145,OK,"Wagoner County, Oklahoma",15.5%,10890
+40147,OK,"Washington County, Oklahoma",14.9%,7500
+40149,OK,"Washita County, Oklahoma",15.2%,1760
+40151,OK,"Woods County, Oklahoma",13.6%,1180
+40153,OK,"Woodward County, Oklahoma",14.2%,2840
+41001,OR,"Baker County, Oregon",17.2%,2770
+41003,OR,"Benton County, Oregon",14.8%,12480
+41005,OR,"Clackamas County, Oregon",13.9%,51650
+41007,OR,"Clatsop County, Oregon",14.7%,5410
+41009,OR,"Columbia County, Oregon",16%,7820
+41011,OR,"Coos County, Oregon",17.9%,11310
+41013,OR,"Crook County, Oregon",20.3%,4370
+41015,OR,"Curry County, Oregon",17.3%,3870
+41017,OR,"Deschutes County, Oregon",17.3%,26720
+41019,OR,"Douglas County, Oregon",19%,20380
+41021,OR,"Gilliam County, Oregon",12.1%,210
+41023,OR,"Grant County, Oregon",18%,1330
+41025,OR,"Harney County, Oregon",20.4%,1500
+41027,OR,"Hood River County, Oregon",11.8%,2570
+41029,OR,"Jackson County, Oregon",16.9%,33990
+41031,OR,"Jefferson County, Oregon",19%,4110
+41033,OR,"Josephine County, Oregon",19.2%,15790
+41035,OR,"Klamath County, Oregon",18.1%,12050
+41037,OR,"Lake County, Oregon",18.5%,1450
+41039,OR,"Lane County, Oregon",16.8%,58400
+41041,OR,"Lincoln County, Oregon",16.4%,7540
+41043,OR,"Linn County, Oregon",17.9%,20480
+41045,OR,"Malheur County, Oregon",17%,5340
+41047,OR,"Marion County, Oregon",15.8%,49060
+41049,OR,"Morrow County, Oregon",13.7%,1520
+41051,OR,"Multnomah County, Oregon",16.3%,115720
+41053,OR,"Polk County, Oregon",14.3%,10520
+41055,OR,"Sherman County, Oregon",16.9%,310
+41057,OR,"Tillamook County, Oregon",15.9%,4000
+41059,OR,"Umatilla County, Oregon",14.9%,11140
+41061,OR,"Union County, Oregon",16.3%,4140
+41063,OR,"Wallowa County, Oregon",16.7%,1150
+41065,OR,"Wasco County, Oregon",14.9%,3680
+41067,OR,"Washington County, Oregon",13.1%,67610
+41069,OR,"Wheeler County, Oregon",15.7%,230
+41071,OR,"Yamhill County, Oregon",15.1%,14630
+42001,PA,"Adams County, Pennsylvania",10.7%,10840
+42003,PA,"Allegheny County, Pennsylvania",13.5%,164540
+42005,PA,"Armstrong County, Pennsylvania",13.1%,9130
+42007,PA,"Beaver County, Pennsylvania",12.6%,21700
+42009,PA,"Bedford County, Pennsylvania",14.4%,7200
+42011,PA,"Berks County, Pennsylvania",12.7%,51720
+42013,PA,"Blair County, Pennsylvania",12.4%,15740
+42015,PA,"Bradford County, Pennsylvania",11.9%,7430
+42017,PA,"Bucks County, Pennsylvania",10.1%,63180
+42019,PA,"Butler County, Pennsylvania",10.8%,19640
+42021,PA,"Cambria County, Pennsylvania",14%,20210
+42023,PA,"Cameron County, Pennsylvania",16.4%,850
+42025,PA,"Carbon County, Pennsylvania",13.7%,8870
+42027,PA,"Centre County, Pennsylvania",12.8%,19310
+42029,PA,"Chester County, Pennsylvania",9.7%,47560
+42031,PA,"Clarion County, Pennsylvania",14.7%,5920
+42033,PA,"Clearfield County, Pennsylvania",14.5%,11910
+42035,PA,"Clinton County, Pennsylvania",13.9%,5420
+42037,PA,"Columbia County, Pennsylvania",13.4%,8910
+42039,PA,"Crawford County, Pennsylvania",14.4%,12800
+42041,PA,"Cumberland County, Pennsylvania",10.2%,23640
+42043,PA,"Dauphin County, Pennsylvania",14%,36960
+42045,PA,"Delaware County, Pennsylvania",13.7%,76320
+42047,PA,"Elk County, Pennsylvania",13.1%,4260
+42049,PA,"Erie County, Pennsylvania",14.7%,40920
+42051,PA,"Fayette County, Pennsylvania",15.9%,22110
+42053,PA,"Forest County, Pennsylvania",15.5%,1180
+42055,PA,"Franklin County, Pennsylvania",11.4%,16700
+42057,PA,"Fulton County, Pennsylvania",15.2%,2250
+42059,PA,"Greene County, Pennsylvania",13.6%,5310
+42061,PA,"Huntingdon County, Pennsylvania",14.2%,6520
+42063,PA,"Indiana County, Pennsylvania",14.2%,12640
+42065,PA,"Jefferson County, Pennsylvania",13.8%,6260
+42067,PA,"Juniata County, Pennsylvania",11%,2690
+42069,PA,"Lackawanna County, Pennsylvania",13.4%,28700
+42071,PA,"Lancaster County, Pennsylvania",11.1%,56910
+42073,PA,"Lawrence County, Pennsylvania",13.8%,12610
+42075,PA,"Lebanon County, Pennsylvania",10.6%,13860
+42077,PA,"Lehigh County, Pennsylvania",12.7%,43840
+42079,PA,"Luzerne County, Pennsylvania",14.1%,44940
+42081,PA,"Lycoming County, Pennsylvania",13.9%,16190
+42083,PA,"McKean County, Pennsylvania",14.3%,6270
+42085,PA,"Mercer County, Pennsylvania",15%,17630
+42087,PA,"Mifflin County, Pennsylvania",14%,6510
+42089,PA,"Monroe County, Pennsylvania",13.7%,23100
+42091,PA,"Montgomery County, Pennsylvania",10.5%,83040
+42093,PA,"Montour County, Pennsylvania",11.2%,2030
+42095,PA,"Northampton County, Pennsylvania",12%,35210
+42097,PA,"Northumberland County, Pennsylvania",14.3%,13470
+42099,PA,"Perry County, Pennsylvania",11.7%,5340
+42101,PA,"Philadelphia County, Pennsylvania",22%,331050
+42103,PA,"Pike County, Pennsylvania",12.7%,7230
+42105,PA,"Potter County, Pennsylvania",14.7%,2590
+42107,PA,"Schuylkill County, Pennsylvania",14.1%,20840
+42109,PA,"Snyder County, Pennsylvania",12.7%,5020
+42111,PA,"Somerset County, Pennsylvania",13.7%,10720
+42113,PA,"Sullivan County, Pennsylvania",13.4%,860
+42115,PA,"Susquehanna County, Pennsylvania",12.3%,5350
+42117,PA,"Tioga County, Pennsylvania",13.4%,5580
+42119,PA,"Union County, Pennsylvania",13.7%,6130
+42121,PA,"Venango County, Pennsylvania",13.7%,7580
+42123,PA,"Warren County, Pennsylvania",12.4%,5170
+42125,PA,"Washington County, Pennsylvania",12.2%,25210
+42127,PA,"Wayne County, Pennsylvania",11.8%,6190
+42129,PA,"Westmoreland County, Pennsylvania",12%,43920
+42131,PA,"Wyoming County, Pennsylvania",12.7%,3590
+42133,PA,"York County, Pennsylvania",12.1%,51960
+44001,RI,"Bristol County, Rhode Island",12.6%,6370
+44003,RI,"Kent County, Rhode Island",14%,23340
+44005,RI,"Newport County, Rhode Island",13.5%,11250
+44007,RI,"Providence County, Rhode Island",16.8%,105420
+44009,RI,"Washington County, Rhode Island",12.7%,16100
+45001,SC,"Abbeville County, South Carolina",20.1%,5140
+45003,SC,"Aiken County, South Carolina",15.1%,23620
+45005,SC,"Allendale County, South Carolina",34.7%,3710
+45007,SC,"Anderson County, South Carolina",15.9%,29130
+45009,SC,"Bamberg County, South Carolina",27.9%,4510
+45011,SC,"Barnwell County, South Carolina",26%,5910
+45013,SC,"Beaufort County, South Carolina",12.7%,19720
+45015,SC,"Berkeley County, South Carolina",15%,25460
+45017,SC,"Calhoun County, South Carolina",19.4%,2960
+45019,SC,"Charleston County, South Carolina",16%,54890
+45021,SC,"Cherokee County, South Carolina",19.6%,10720
+45023,SC,"Chester County, South Carolina",24.8%,8250
+45025,SC,"Chesterfield County, South Carolina",22.5%,10370
+45027,SC,"Clarendon County, South Carolina",24.2%,8390
+45029,SC,"Colleton County, South Carolina",21.4%,8310
+45031,SC,"Darlington County, South Carolina",20.8%,14290
+45033,SC,"Dillon County, South Carolina",26.3%,8330
+45035,SC,"Dorchester County, South Carolina",14.2%,18420
+45037,SC,"Edgefield County, South Carolina",18.6%,4970
+45039,SC,"Fairfield County, South Carolina",24.3%,5840
+45041,SC,"Florence County, South Carolina",19.3%,26060
+45043,SC,"Georgetown County, South Carolina",19.5%,11770
+45045,SC,"Greenville County, South Carolina",14%,61280
+45047,SC,"Greenwood County, South Carolina",18.5%,12740
+45049,SC,"Hampton County, South Carolina",23.5%,4980
+45051,SC,"Horry County, South Carolina",15.9%,41040
+45053,SC,"Jasper County, South Carolina",19.5%,4600
+45055,SC,"Kershaw County, South Carolina",16.2%,9730
+45057,SC,"Lancaster County, South Carolina",21.3%,15400
+45059,SC,"Laurens County, South Carolina",17.9%,12000
+45061,SC,"Lee County, South Carolina",27%,5300
+45063,SC,"Lexington County, South Carolina",12.1%,30500
+45065,SC,"McCormick County, South Carolina",23.6%,2410
+45067,SC,"Marion County, South Carolina",29.3%,9850
+45069,SC,"Marlboro County, South Carolina",28.8%,8380
+45071,SC,"Newberry County, South Carolina",17.2%,6400
+45073,SC,"Oconee County, South Carolina",15.3%,11210
+45075,SC,"Orangeburg County, South Carolina",26.6%,24560
+45077,SC,"Pickens County, South Carolina",14%,16540
+45079,SC,"Richland County, South Carolina",17.7%,65820
+45081,SC,"Saluda County, South Carolina",15.1%,2960
+45083,SC,"Spartanburg County, South Carolina",16%,44640
+45085,SC,"Sumter County, South Carolina",20.8%,22130
+45087,SC,"Union County, South Carolina",23.7%,6900
+45089,SC,"Williamsburg County, South Carolina",28.4%,9950
+45091,SC,"York County, South Carolina",17.9%,38470
+46003,SD,"Aurora County, South Dakota",9.6%,260
+46005,SD,"Beadle County, South Dakota",10.7%,1810
+46007,SD,"Bennett County, South Dakota",16.8%,580
+46009,SD,"Bon Homme County, South Dakota",11.4%,810
+46011,SD,"Brookings County, South Dakota",12.4%,3870
+46013,SD,"Brown County, South Dakota",9.9%,3550
+46015,SD,"Brule County, South Dakota",9.4%,480
+46017,SD,"Buffalo County, South Dakota",26.5%,510
+46019,SD,"Butte County, South Dakota",11.9%,1180
+46021,SD,"Campbell County, South Dakota",10.5%,150
+46023,SD,"Charles Mix County, South Dakota",14%,1270
+46025,SD,"Clark County, South Dakota",11.5%,430
+46027,SD,"Clay County, South Dakota",13.7%,1890
+46029,SD,"Codington County, South Dakota",11.2%,3040
+46031,SD,"Corson County, South Dakota",18.4%,750
+46033,SD,"Custer County, South Dakota",10.3%,830
+46035,SD,"Davison County, South Dakota",11.2%,2160
+46037,SD,"Day County, South Dakota",12.7%,720
+46039,SD,"Deuel County, South Dakota",10.4%,450
+46041,SD,"Dewey County, South Dakota",20.4%,1090
+46043,SD,"Douglas County, South Dakota",10.2%,310
+46045,SD,"Edmunds County, South Dakota",10%,410
+46047,SD,"Fall River County, South Dakota",12.8%,900
+46049,SD,"Faulk County, South Dakota",11.9%,280
+46051,SD,"Grant County, South Dakota",11%,820
+46053,SD,"Gregory County, South Dakota",11.5%,490
+46055,SD,"Haakon County, South Dakota",10%,190
+46057,SD,"Hamlin County, South Dakota",10.1%,580
+46059,SD,"Hand County, South Dakota",10.3%,350
+46061,SD,"Hanson County, South Dakota",11.7%,400
+46063,SD,"Harding County, South Dakota",11%,140
+46065,SD,"Hughes County, South Dakota",9.3%,1570
+46067,SD,"Hutchinson County, South Dakota",10.1%,750
+46069,SD,"Hyde County, South Dakota",10.3%,160
+46071,SD,"Jackson County, South Dakota",16.6%,500
+46073,SD,"Jerauld County, South Dakota",9.6%,200
+46075,SD,"Jones County, South Dakota",8.9%,100
+46077,SD,"Kingsbury County, South Dakota",10.6%,550
+46079,SD,"Lake County, South Dakota",11.6%,1270
+46081,SD,"Lawrence County, South Dakota",11.6%,2750
+46083,SD,"Lincoln County, South Dakota",8.6%,3560
+46085,SD,"Lyman County, South Dakota",13.7%,510
+46087,SD,"McCook County, South Dakota",10.6%,600
+46089,SD,"McPherson County, South Dakota",12.5%,310
+46091,SD,"Marshall County, South Dakota",12.9%,590
+46093,SD,"Meade County, South Dakota",11.1%,2800
+46095,SD,"Mellette County, South Dakota",15.6%,320
+46097,SD,"Miner County, South Dakota",10.8%,260
+46099,SD,"Minnehaha County, South Dakota",10.9%,18000
+46101,SD,"Moody County, South Dakota",11.2%,730
+46103,SD,"Pennington County, South Dakota",11.6%,11360
+46105,SD,"Perkins County, South Dakota",12.3%,370
+46107,SD,"Potter County, South Dakota",10.3%,250
+46109,SD,"Roberts County, South Dakota",13.8%,1380
+46111,SD,"Sanborn County, South Dakota",10.6%,250
+46113,SD,"Shannon County, South Dakota",26.3%,3530
+46115,SD,"Spink County, South Dakota",11.8%,770
+46117,SD,"Stanley County, South Dakota",10.1%,290
+46119,SD,"Sully County, South Dakota",8.8%,120
+46121,SD,"Todd County, South Dakota",21.8%,2080
+46123,SD,"Tripp County, South Dakota",11.7%,670
+46125,SD,"Turner County, South Dakota",10%,840
+46127,SD,"Union County, South Dakota",9.5%,1320
+46129,SD,"Walworth County, South Dakota",12.4%,670
+46135,SD,"Yankton County, South Dakota",10.9%,2430
+46137,SD,"Ziebach County, South Dakota",20.8%,580
+47001,TN,"Anderson County, Tennessee",14.4%,10670
+47003,TN,"Bedford County, Tennessee",17.5%,7720
+47005,TN,"Benton County, Tennessee",17%,2790
+47007,TN,"Bledsoe County, Tennessee",18.7%,2420
+47009,TN,"Blount County, Tennessee",12.6%,15230
+47011,TN,"Bradley County, Tennessee",14.2%,13810
+47013,TN,"Campbell County, Tennessee",17.9%,7280
+47015,TN,"Cannon County, Tennessee",13.8%,1880
+47017,TN,"Carroll County, Tennessee",19.8%,5670
+47019,TN,"Carter County, Tennessee",16.6%,9560
+47021,TN,"Cheatham County, Tennessee",12.2%,4720
+47023,TN,"Chester County, Tennessee",15.5%,2600
+47025,TN,"Claiborne County, Tennessee",16.3%,5210
+47027,TN,"Clay County, Tennessee",17%,1340
+47029,TN,"Cocke County, Tennessee",19.6%,6940
+47031,TN,"Coffee County, Tennessee",15.2%,7940
+47033,TN,"Crockett County, Tennessee",18.5%,2680
+47035,TN,"Cumberland County, Tennessee",15%,8250
+47037,TN,"Davidson County, Tennessee",16.8%,103100
+47039,TN,"Decatur County, Tennessee",17.5%,2050
+47041,TN,"DeKalb County, Tennessee",15.2%,2810
+47043,TN,"Dickson County, Tennessee",14.3%,6970
+47045,TN,"Dyer County, Tennessee",19%,7250
+47047,TN,"Fayette County, Tennessee",17.3%,6490
+47049,TN,"Fentress County, Tennessee",18.1%,3210
+47051,TN,"Franklin County, Tennessee",14.3%,5870
+47053,TN,"Gibson County, Tennessee",19.8%,9690
+47055,TN,"Giles County, Tennessee",18%,5310
+47057,TN,"Grainger County, Tennessee",17.2%,3860
+47059,TN,"Greene County, Tennessee",17.8%,12150
+47061,TN,"Grundy County, Tennessee",20%,2790
+47063,TN,"Hamblen County, Tennessee",15.5%,9600
+47065,TN,"Hamilton County, Tennessee",15.3%,50370
+47067,TN,"Hancock County, Tennessee",22%,1490
+47069,TN,"Hardeman County, Tennessee",22.6%,6260
+47071,TN,"Hardin County, Tennessee",17.2%,4460
+47073,TN,"Hawkins County, Tennessee",14.8%,8400
+47075,TN,"Haywood County, Tennessee",26.5%,5050
+47077,TN,"Henderson County, Tennessee",19.4%,5330
+47079,TN,"Henry County, Tennessee",17.2%,5500
+47081,TN,"Hickman County, Tennessee",16.2%,3960
+47083,TN,"Houston County, Tennessee",15.9%,1320
+47085,TN,"Humphreys County, Tennessee",14.6%,2690
+47087,TN,"Jackson County, Tennessee",17%,1960
+47089,TN,"Jefferson County, Tennessee",16.6%,8420
+47091,TN,"Johnson County, Tennessee",19.1%,3470
+47093,TN,"Knox County, Tennessee",13.2%,56020
+47095,TN,"Lake County, Tennessee",21.6%,1690
+47097,TN,"Lauderdale County, Tennessee",24.5%,6800
+47099,TN,"Lawrence County, Tennessee",18.1%,7470
+47101,TN,"Lewis County, Tennessee",18.4%,2210
+47103,TN,"Lincoln County, Tennessee",12.8%,4200
+47105,TN,"Loudon County, Tennessee",12.6%,5940
+47107,TN,"McMinn County, Tennessee",16.9%,8810
+47109,TN,"McNairy County, Tennessee",18%,4640
+47111,TN,"Macon County, Tennessee",16.6%,3640
+47113,TN,"Madison County, Tennessee",19.2%,18730
+47115,TN,"Marion County, Tennessee",15.8%,4430
+47117,TN,"Marshall County, Tennessee",19.6%,5850
+47119,TN,"Maury County, Tennessee",18.1%,14290
+47121,TN,"Meigs County, Tennessee",18.8%,2180
+47123,TN,"Monroe County, Tennessee",18%,7920
+47125,TN,"Montgomery County, Tennessee",15.4%,25170
+47127,TN,"Moore County, Tennessee",14%,880
+47129,TN,"Morgan County, Tennessee",16.2%,3510
+47131,TN,"Obion County, Tennessee",15.2%,4850
+47133,TN,"Overton County, Tennessee",15.9%,3470
+47135,TN,"Perry County, Tennessee",20.9%,1630
+47137,TN,"Pickett County, Tennessee",17.8%,900
+47139,TN,"Polk County, Tennessee",16.3%,2720
+47141,TN,"Putnam County, Tennessee",15.6%,10990
+47143,TN,"Rhea County, Tennessee",17.2%,5380
+47145,TN,"Roane County, Tennessee",12.8%,6940
+47147,TN,"Robertson County, Tennessee",13.2%,8470
+47149,TN,"Rutherford County, Tennessee",13.8%,34620
+47151,TN,"Scott County, Tennessee",22.8%,5050
+47153,TN,"Sequatchie County, Tennessee",16.3%,2250
+47155,TN,"Sevier County, Tennessee",14%,12280
+47157,TN,"Shelby County, Tennessee",21.2%,195510
+47159,TN,"Smith County, Tennessee",15.4%,2930
+47161,TN,"Stewart County, Tennessee",16.2%,2120
+47163,TN,"Sullivan County, Tennessee",13.7%,21280
+47165,TN,"Sumner County, Tennessee",12.7%,19700
+47167,TN,"Tipton County, Tennessee",17.3%,10350
+47169,TN,"Trousdale County, Tennessee",14.1%,1090
+47171,TN,"Unicoi County, Tennessee",15.6%,2840
+47173,TN,"Union County, Tennessee",15.7%,2990
+47175,TN,"Van Buren County, Tennessee",19.3%,1060
+47177,TN,"Warren County, Tennessee",16.9%,6670
+47179,TN,"Washington County, Tennessee",14%,16750
+47181,TN,"Wayne County, Tennessee",16.9%,2880
+47183,TN,"Weakley County, Tennessee",18%,6210
+47185,TN,"White County, Tennessee",16.8%,4280
+47187,TN,"Williamson County, Tennessee",9.6%,16690
+47189,TN,"Wilson County, Tennessee",11.7%,12820
+48001,TX,"Anderson County, Texas",21%,12210
+48003,TX,"Andrews County, Texas",14.7%,2060
+48005,TX,"Angelina County, Texas",19.4%,16570
+48007,TX,"Aransas County, Texas",17.4%,4050
+48009,TX,"Archer County, Texas",14.9%,1350
+48011,TX,"Armstrong County, Texas",14%,270
+48013,TX,"Atascosa County, Texas",15.7%,6900
+48015,TX,"Austin County, Texas",16.2%,4510
+48017,TX,"Bailey County, Texas",16.3%,1140
+48019,TX,"Bandera County, Texas",17.3%,3510
+48021,TX,"Bastrop County, Texas",17.2%,12420
+48023,TX,"Baylor County, Texas",17.1%,650
+48025,TX,"Bee County, Texas",17.8%,5690
+48027,TX,"Bell County, Texas",18.6%,54850
+48029,TX,"Bexar County, Texas",15.7%,259380
+48031,TX,"Blanco County, Texas",15%,1520
+48033,TX,"Borden County, Texas",12%,70
+48035,TX,"Bosque County, Texas",18%,3260
+48037,TX,"Bowie County, Texas",21%,19150
+48039,TX,"Brazoria County, Texas",17.1%,51450
+48041,TX,"Brazos County, Texas",20.4%,37860
+48043,TX,"Brewster County, Texas",14.6%,1310
+48045,TX,"Briscoe County, Texas",16.7%,290
+48047,TX,"Brooks County, Texas",19.3%,1420
+48049,TX,"Brown County, Texas",17.3%,6600
+48051,TX,"Burleson County, Texas",17.3%,2950
+48053,TX,"Burnet County, Texas",15.7%,6640
+48055,TX,"Caldwell County, Texas",17.9%,6690
+48057,TX,"Calhoun County, Texas",16.8%,3550
+48059,TX,"Callahan County, Texas",15.9%,2140
+48061,TX,"Cameron County, Texas",20.5%,80790
+48063,TX,"Camp County, Texas",20.9%,2570
+48065,TX,"Carson County, Texas",13.2%,830
+48067,TX,"Cass County, Texas",22.9%,6940
+48069,TX,"Castro County, Texas",15.8%,1240
+48071,TX,"Chambers County, Texas",17.8%,5760
+48073,TX,"Cherokee County, Texas",21.4%,10700
+48075,TX,"Childress County, Texas",17.8%,1270
+48077,TX,"Clay County, Texas",15.9%,1740
+48079,TX,"Cochran County, Texas",18.6%,590
+48081,TX,"Coke County, Texas",17.1%,560
+48083,TX,"Coleman County, Texas",20.4%,1800
+48085,TX,"Collin County, Texas",15.2%,112360
+48087,TX,"Collingsworth County, Texas",16.6%,500
+48089,TX,"Colorado County, Texas",18%,3730
+48091,TX,"Comal County, Texas",14.3%,14710
+48093,TX,"Comanche County, Texas",17.7%,2460
+48095,TX,"Concho County, Texas",16.9%,680
+48097,TX,"Cooke County, Texas",16.1%,6170
+48099,TX,"Coryell County, Texas",19.1%,14180
+48101,TX,"Cottle County, Texas",16.5%,270
+48103,TX,"Crane County, Texas",16.2%,670
+48105,TX,"Crockett County, Texas",14.2%,530
+48107,TX,"Crosby County, Texas",17.9%,1110
+48109,TX,"Culberson County, Texas",15.2%,380
+48111,TX,"Dallam County, Texas",13.7%,880
+48113,TX,"Dallas County, Texas",19.6%,455340
+48115,TX,"Dawson County, Texas",17.4%,2410
+48117,TX,"Deaf Smith County, Texas",13.7%,2620
+48119,TX,"Delta County, Texas",19.2%,1010
+48121,TX,"Denton County, Texas",15.4%,96930
+48123,TX,"DeWitt County, Texas",17.8%,3570
+48125,TX,"Dickens County, Texas",20.8%,510
+48127,TX,"Dimmit County, Texas",20.1%,1990
+48129,TX,"Donley County, Texas",15.8%,580
+48131,TX,"Duval County, Texas",17.8%,2140
+48133,TX,"Eastland County, Texas",19.1%,3540
+48135,TX,"Ector County, Texas",16%,21240
+48137,TX,"Edwards County, Texas",17%,340
+48139,TX,"Ellis County, Texas",16.9%,24250
+48141,TX,"El Paso County, Texas",17.7%,136400
+48143,TX,"Erath County, Texas",17.3%,6420
+48145,TX,"Falls County, Texas",23%,4100
+48147,TX,"Fannin County, Texas",19.1%,6440
+48149,TX,"Fayette County, Texas",15.3%,3710
+48151,TX,"Fisher County, Texas",15.9%,640
+48153,TX,"Floyd County, Texas",18.1%,1190
+48155,TX,"Foard County, Texas",18.3%,250
+48157,TX,"Fort Bend County, Texas",16.9%,91740
+48159,TX,"Franklin County, Texas",17.6%,1870
+48161,TX,"Freestone County, Texas",18.6%,3610
+48163,TX,"Frio County, Texas",15.8%,2680
+48165,TX,"Gaines County, Texas",15.7%,2610
+48167,TX,"Galveston County, Texas",18.4%,52810
+48169,TX,"Garza County, Texas",15.3%,950
+48171,TX,"Gillespie County, Texas",12.9%,3130
+48173,TX,"Glasscock County, Texas",14.1%,190
+48175,TX,"Goliad County, Texas",15.3%,1100
+48177,TX,"Gonzales County, Texas",16.7%,3280
+48179,TX,"Gray County, Texas",17%,3830
+48181,TX,"Grayson County, Texas",17.8%,21250
+48183,TX,"Gregg County, Texas",19.3%,23040
+48185,TX,"Grimes County, Texas",19.6%,5140
+48187,TX,"Guadalupe County, Texas",14.4%,17730
+48189,TX,"Hale County, Texas",16.1%,5800
+48191,TX,"Hall County, Texas",21.3%,730
+48193,TX,"Hamilton County, Texas",15.3%,1300
+48195,TX,"Hansford County, Texas",13.2%,720
+48197,TX,"Hardeman County, Texas",18.5%,780
+48199,TX,"Hardin County, Texas",18.4%,9770
+48201,TX,"Harris County, Texas",18.7%,738820
+48203,TX,"Harrison County, Texas",20.6%,13250
+48205,TX,"Hartley County, Texas",13.7%,820
+48207,TX,"Haskell County, Texas",16.4%,960
+48209,TX,"Hays County, Texas",16.1%,23550
+48211,TX,"Hemphill County, Texas",13.7%,500
+48213,TX,"Henderson County, Texas",19%,14890
+48215,TX,"Hidalgo County, Texas",20.7%,152650
+48217,TX,"Hill County, Texas",18%,6290
+48219,TX,"Hockley County, Texas",15.4%,3530
+48221,TX,"Hood County, Texas",15.9%,7940
+48223,TX,"Hopkins County, Texas",17.5%,6050
+48225,TX,"Houston County, Texas",23.9%,5660
+48227,TX,"Howard County, Texas",16.7%,5730
+48229,TX,"Hudspeth County, Texas",20.3%,700
+48231,TX,"Hunt County, Texas",19.8%,16800
+48233,TX,"Hutchinson County, Texas",16.8%,3710
+48235,TX,"Irion County, Texas",11.7%,200
+48237,TX,"Jack County, Texas",17.1%,1550
+48239,TX,"Jackson County, Texas",16.1%,2250
+48241,TX,"Jasper County, Texas",22.9%,8060
+48243,TX,"Jeff Davis County, Texas",14.2%,330
+48245,TX,"Jefferson County, Texas",23.9%,59670
+48247,TX,"Jim Hogg County, Texas",12.3%,640
+48249,TX,"Jim Wells County, Texas",16.1%,6540
+48251,TX,"Johnson County, Texas",16.2%,23980
+48253,TX,"Jones County, Texas",17.4%,3510
+48255,TX,"Karnes County, Texas",18.5%,2760
+48257,TX,"Kaufman County, Texas",17.8%,17530
+48259,TX,"Kendall County, Texas",13.4%,4210
+48261,TX,"Kenedy County, Texas",13.1%,30
+48263,TX,"Kent County, Texas",13.5%,100
+48265,TX,"Kerr County, Texas",15.5%,7560
+48267,TX,"Kimble County, Texas",15.6%,710
+48269,TX,"King County, Texas",16.4%,40
+48271,TX,"Kinney County, Texas",20.6%,730
+48273,TX,"Kleberg County, Texas",16.6%,5240
+48275,TX,"Knox County, Texas",16.4%,610
+48277,TX,"Lamar County, Texas",20.3%,10040
+48279,TX,"Lamb County, Texas",16.1%,2270
+48281,TX,"Lampasas County, Texas",16.1%,3170
+48283,TX,"La Salle County, Texas",15.9%,1060
+48285,TX,"Lavaca County, Texas",16%,3070
+48287,TX,"Lee County, Texas",16.1%,2660
+48289,TX,"Leon County, Texas",18.6%,3100
+48291,TX,"Liberty County, Texas",20.4%,15320
+48293,TX,"Limestone County, Texas",19.3%,4480
+48295,TX,"Lipscomb County, Texas",14.6%,470
+48297,TX,"Live Oak County, Texas",15.1%,1740
+48299,TX,"Llano County, Texas",16.7%,3170
+48301,TX,"Loving County, Texas",17.4%,10
+48303,TX,"Lubbock County, Texas",16.9%,45490
+48305,TX,"Lynn County, Texas",15.6%,930
+48307,TX,"McCulloch County, Texas",18.2%,1490
+48309,TX,"McLennan County, Texas",19.4%,44600
+48311,TX,"McMullen County, Texas",12.9%,120
+48313,TX,"Madison County, Texas",20.8%,2800
+48315,TX,"Marion County, Texas",24.2%,2610
+48317,TX,"Martin County, Texas",12.5%,580
+48319,TX,"Mason County, Texas",15.5%,610
+48321,TX,"Matagorda County, Texas",21.1%,7750
+48323,TX,"Maverick County, Texas",22.5%,11830
+48325,TX,"Medina County, Texas",15.4%,6940
+48327,TX,"Menard County, Texas",16.6%,370
+48329,TX,"Midland County, Texas",14.2%,18710
+48331,TX,"Milam County, Texas",20.1%,5020
+48333,TX,"Mills County, Texas",15.9%,780
+48335,TX,"Mitchell County, Texas",18.1%,1690
+48337,TX,"Montague County, Texas",16.5%,3260
+48339,TX,"Montgomery County, Texas",15.8%,67430
+48341,TX,"Moore County, Texas",12.8%,2710
+48343,TX,"Morris County, Texas",24.1%,3150
+48345,TX,"Motley County, Texas",17.8%,200
+48347,TX,"Nacogdoches County, Texas",20.9%,13210
+48349,TX,"Navarro County, Texas",20.5%,9720
+48351,TX,"Newton County, Texas",24%,3450
+48353,TX,"Nolan County, Texas",17.2%,2580
+48355,TX,"Nueces County, Texas",16%,53450
+48357,TX,"Ochiltree County, Texas",14.2%,1420
+48359,TX,"Oldham County, Texas",15.9%,320
+48361,TX,"Orange County, Texas",20.1%,16520
+48363,TX,"Palo Pinto County, Texas",17%,4740
+48365,TX,"Panola County, Texas",18.4%,4330
+48367,TX,"Parker County, Texas",16%,17930
+48369,TX,"Parmer County, Texas",13.7%,1380
+48371,TX,"Pecos County, Texas",15.5%,2380
+48373,TX,"Polk County, Texas",21.7%,9880
+48375,TX,"Potter County, Texas",18.3%,21940
+48377,TX,"Presidio County, Texas",22.3%,1720
+48379,TX,"Rains County, Texas",17.8%,1940
+48381,TX,"Randall County, Texas",13.8%,16090
+48383,TX,"Reagan County, Texas",11.6%,380
+48385,TX,"Real County, Texas",18.3%,600
+48387,TX,"Red River County, Texas",22.3%,2890
+48389,TX,"Reeves County, Texas",19.3%,2570
+48391,TX,"Refugio County, Texas",15.8%,1180
+48393,TX,"Roberts County, Texas",15.3%,130
+48395,TX,"Robertson County, Texas",21.6%,3580
+48397,TX,"Rockwall County, Texas",14.6%,10730
+48399,TX,"Runnels County, Texas",18.9%,1980
+48401,TX,"Rusk County, Texas",18.4%,9570
+48403,TX,"Sabine County, Texas",25.2%,2690
+48405,TX,"San Augustine County, Texas",25.7%,2310
+48407,TX,"San Jacinto County, Texas",20.9%,5420
+48409,TX,"San Patricio County, Texas",17.3%,11410
+48411,TX,"San Saba County, Texas",19%,1150
+48413,TX,"Schleicher County, Texas",14.9%,500
+48415,TX,"Scurry County, Texas",16.3%,2700
+48417,TX,"Shackelford County, Texas",14.9%,470
+48419,TX,"Shelby County, Texas",21.9%,5570
+48421,TX,"Sherman County, Texas",13.3%,400
+48423,TX,"Smith County, Texas",19.2%,38980
+48425,TX,"Somervell County, Texas",15.9%,1300
+48427,TX,"Starr County, Texas",25.3%,15190
+48429,TX,"Stephens County, Texas",17.9%,1710
+48431,TX,"Sterling County, Texas",15.7%,180
+48433,TX,"Stonewall County, Texas",15.3%,220
+48435,TX,"Sutton County, Texas",13.3%,560
+48437,TX,"Swisher County, Texas",15.6%,1220
+48439,TX,"Tarrant County, Texas",17.9%,311630
+48441,TX,"Taylor County, Texas",17%,21950
+48443,TX,"Terrell County, Texas",16.3%,140
+48445,TX,"Terry County, Texas",16.2%,2020
+48447,TX,"Throckmorton County, Texas",15%,270
+48449,TX,"Titus County, Texas",17.7%,5470
+48451,TX,"Tom Green County, Texas",15.9%,17190
+48453,TX,"Travis County, Texas",16.6%,162440
+48455,TX,"Trinity County, Texas",19.8%,2860
+48457,TX,"Tyler County, Texas",22%,4720
+48459,TX,"Upshur County, Texas",18%,6950
+48461,TX,"Upton County, Texas",13.8%,450
+48463,TX,"Uvalde County, Texas",18.2%,4780
+48465,TX,"Val Verde County, Texas",17%,8160
+48467,TX,"Van Zandt County, Texas",17.4%,9100
+48469,TX,"Victoria County, Texas",16.1%,13860
+48471,TX,"Walker County, Texas",21.7%,14400
+48473,TX,"Waller County, Texas",21.4%,8740
+48475,TX,"Ward County, Texas",16.7%,1750
+48477,TX,"Washington County, Texas",18.5%,6100
+48479,TX,"Webb County, Texas",17.1%,41060
+48481,TX,"Wharton County, Texas",18.7%,7660
+48483,TX,"Wheeler County, Texas",14.8%,780
+48485,TX,"Wichita County, Texas",18.4%,24080
+48487,TX,"Wilbarger County, Texas",18.5%,2520
+48489,TX,"Willacy County, Texas",23.8%,5190
+48491,TX,"Williamson County, Texas",14.6%,57030
+48493,TX,"Wilson County, Texas",14%,5770
+48495,TX,"Winkler County, Texas",15.6%,1080
+48497,TX,"Wise County, Texas",15.9%,9210
+48499,TX,"Wood County, Texas",18.2%,7580
+48501,TX,"Yoakum County, Texas",16.5%,1270
+48503,TX,"Young County, Texas",16.7%,3050
+48505,TX,"Zapata County, Texas",20.9%,2850
+48507,TX,"Zavala County, Texas",25.4%,2960
+49001,UT,"Beaver County, Utah",18.6%,1190
+49003,UT,"Box Elder County, Utah",15.8%,7640
+49005,UT,"Cache County, Utah",15.3%,16340
+49007,UT,"Carbon County, Utah",16.3%,3390
+49009,UT,"Daggett County, Utah",14.8%,120
+49011,UT,"Davis County, Utah",14%,41220
+49013,UT,"Duchesne County, Utah",15.9%,2760
+49015,UT,"Emery County, Utah",15.6%,1670
+49017,UT,"Garfield County, Utah",17.4%,860
+49019,UT,"Grand County, Utah",18.2%,1640
+49021,UT,"Iron County, Utah",19.5%,8660
+49023,UT,"Juab County, Utah",17.6%,1740
+49025,UT,"Kane County, Utah",16%,1100
+49027,UT,"Millard County, Utah",15.2%,1850
+49029,UT,"Morgan County, Utah",13%,1170
+49031,UT,"Piute County, Utah",16.6%,280
+49033,UT,"Rich County, Utah",13.6%,300
+49035,UT,"Salt Lake County, Utah",14.9%,148630
+49037,UT,"San Juan County, Utah",23.4%,3340
+49039,UT,"Sanpete County, Utah",18.6%,4960
+49041,UT,"Sevier County, Utah",16.4%,3360
+49043,UT,"Summit County, Utah",14%,4920
+49045,UT,"Tooele County, Utah",14.5%,8060
+49047,UT,"Uintah County, Utah",15.4%,4770
+49049,UT,"Utah County, Utah",15.9%,77220
+49051,UT,"Wasatch County, Utah",15.1%,3340
+49053,UT,"Washington County, Utah",17.3%,23180
+49055,UT,"Wayne County, Utah",17.1%,460
+49057,UT,"Weber County, Utah",16%,35710
+50001,VT,"Addison County, Vermont",12.2%,4480
+50003,VT,"Bennington County, Vermont",12.9%,4790
+50005,VT,"Caledonia County, Vermont",13.7%,4290
+50007,VT,"Chittenden County, Vermont",11.5%,17740
+50009,VT,"Essex County, Vermont",16%,1020
+50011,VT,"Franklin County, Vermont",12.1%,5760
+50013,VT,"Grand Isle County, Vermont",11.7%,830
+50015,VT,"Lamoille County, Vermont",13.3%,3200
+50017,VT,"Orange County, Vermont",12%,3490
+50019,VT,"Orleans County, Vermont",15.2%,4150
+50021,VT,"Rutland County, Vermont",13.3%,8310
+50023,VT,"Washington County, Vermont",12%,7140
+50025,VT,"Windham County, Vermont",12.4%,5500
+50027,VT,"Windsor County, Vermont",11.8%,6720
+51001,VA,"Accomack County, Virginia",14.3%,4870
+51003,VA,"Albemarle County, Virginia",8.9%,8570
+51005,VA,"Alleghany County, Virginia",12.1%,1980
+51007,VA,"Amelia County, Virginia",12.8%,1610
+51009,VA,"Amherst County, Virginia",13.7%,4430
+51011,VA,"Appomattox County, Virginia",14.5%,2130
+51013,VA,"Arlington County, Virginia",6.7%,13160
+51015,VA,"Augusta County, Virginia",9.7%,7090
+51017,VA,"Bath County, Virginia",9.7%,460
+51019,VA,"Bedford County, Virginia",9.8%,6630
+51021,VA,"Bland County, Virginia",10.4%,710
+51023,VA,"Botetourt County, Virginia",8.3%,2740
+51025,VA,"Brunswick County, Virginia",22.6%,4010
+51027,VA,"Buchanan County, Virginia",14%,3420
+51029,VA,"Buckingham County, Virginia",18.1%,3050
+51031,VA,"Campbell County, Virginia",12.1%,6570
+51033,VA,"Caroline County, Virginia",13.7%,3810
+51035,VA,"Carroll County, Virginia",14.1%,4230
+51036,VA,"Charles City County, Virginia",17.1%,1230
+51037,VA,"Charlotte County, Virginia",16.6%,2090
+51041,VA,"Chesterfield County, Virginia",10.5%,32420
+51043,VA,"Clarke County, Virginia",8.3%,1160
+51045,VA,"Craig County, Virginia",9.7%,500
+51047,VA,"Culpeper County, Virginia",10.7%,4920
+51049,VA,"Cumberland County, Virginia",15.7%,1540
+51051,VA,"Dickenson County, Virginia",13.3%,2120
+51053,VA,"Dinwiddie County, Virginia",14.3%,3930
+51057,VA,"Essex County, Virginia",15%,1630
+51059,VA,"Fairfax County, Virginia",6.6%,69140
+51061,VA,"Fauquier County, Virginia",7.8%,5050
+51063,VA,"Floyd County, Virginia",11.4%,1710
+51065,VA,"Fluvanna County, Virginia",9.7%,2470
+51067,VA,"Franklin County, Virginia",12.1%,6660
+51069,VA,"Frederick County, Virginia",9.2%,6970
+51071,VA,"Giles County, Virginia",12.6%,2180
+51073,VA,"Gloucester County, Virginia",10%,3650
+51075,VA,"Goochland County, Virginia",11.3%,2400
+51077,VA,"Grayson County, Virginia",14.5%,2300
+51079,VA,"Greene County, Virginia",9.1%,1650
+51081,VA,"Greensville County, Virginia",20%,2440
+51083,VA,"Halifax County, Virginia",19.8%,7200
+51085,VA,"Hanover County, Virginia",8.6%,8490
+51087,VA,"Henrico County, Virginia",12.5%,37610
+51089,VA,"Henry County, Virginia",18.3%,10040
+51091,VA,"Highland County, Virginia",10.1%,240
+51093,VA,"Isle of Wight County, Virginia",12%,4180
+51095,VA,"James City County, Virginia",9.1%,5830
+51097,VA,"King and Queen County, Virginia",15.3%,1060
+51099,VA,"King George County, Virginia",11.2%,2550
+51101,VA,"King William County, Virginia",11.1%,1720
+51103,VA,"Lancaster County, Virginia",14.8%,1690
+51105,VA,"Lee County, Virginia",13.7%,3490
+51107,VA,"Loudoun County, Virginia",5.8%,17030
+51109,VA,"Louisa County, Virginia",12.4%,4000
+51111,VA,"Lunenburg County, Virginia",17.6%,2280
+51113,VA,"Madison County, Virginia",11%,1470
+51115,VA,"Mathews County, Virginia",9.8%,880
+51117,VA,"Mecklenburg County, Virginia",19.4%,6340
+51119,VA,"Middlesex County, Virginia",12.2%,1320
+51121,VA,"Montgomery County, Virginia",13.5%,12500
+51125,VA,"Nelson County, Virginia",11.2%,1670
+51127,VA,"New Kent County, Virginia",10.2%,1800
+51131,VA,"Northampton County, Virginia",17%,2140
+51133,VA,"Northumberland County, Virginia",14.2%,1770
+51135,VA,"Nottoway County, Virginia",17%,2690
+51137,VA,"Orange County, Virginia",11.4%,3730
+51139,VA,"Page County, Virginia",13.8%,3320
+51141,VA,"Patrick County, Virginia",14.5%,2700
+51143,VA,"Pittsylvania County, Virginia",16%,10070
+51145,VA,"Powhatan County, Virginia",10%,2770
+51147,VA,"Prince Edward County, Virginia",17.6%,3990
+51149,VA,"Prince George County, Virginia",12.4%,4370
+51153,VA,"Prince William County, Virginia",8.4%,31940
+51155,VA,"Pulaski County, Virginia",13.1%,4590
+51157,VA,"Rappahannock County, Virginia",9.3%,690
+51159,VA,"Richmond County, Virginia",14.3%,1330
+51161,VA,"Roanoke County, Virginia",8.3%,7630
+51163,VA,"Rockbridge County, Virginia",10.6%,2360
+51165,VA,"Rockingham County, Virginia",9.1%,6840
+51167,VA,"Russell County, Virginia",14%,4030
+51169,VA,"Scott County, Virginia",13.7%,3190
+51171,VA,"Shenandoah County, Virginia",10.2%,4240
+51173,VA,"Smyth County, Virginia",14.7%,4750
+51175,VA,"Southampton County, Virginia",17.4%,3220
+51177,VA,"Spotsylvania County, Virginia",9.3%,11220
+51179,VA,"Stafford County, Virginia",8.3%,10380
+51181,VA,"Surry County, Virginia",15%,1060
+51183,VA,"Sussex County, Virginia",21.6%,2630
+51185,VA,"Tazewell County, Virginia",11.8%,5290
+51187,VA,"Warren County, Virginia",9.8%,3650
+51191,VA,"Washington County, Virginia",12.3%,6680
+51193,VA,"Westmoreland County, Virginia",13.3%,2290
+51195,VA,"Wise County, Virginia",13.1%,5450
+51197,VA,"Wythe County, Virginia",13.4%,3890
+51199,VA,"York County, Virginia",8.3%,5350
+51510,VA,"Alexandria city, Virginia",9%,12090
+51515,VA,"Bedford city, Virginia",15.8%,970
+51520,VA,"Bristol city, Virginia",15.7%,2790
+51530,VA,"Buena Vista city, Virginia",14.7%,980
+51540,VA,"Charlottesville city, Virginia",16.1%,6790
+51550,VA,"Chesapeake city, Virginia",11.9%,26100
+51570,VA,"Colonial Heights city, Virginia",11%,1910
+51580,VA,"Covington city, Virginia",15.9%,950
+51590,VA,"Danville city, Virginia",23.3%,10220
+51595,VA,"Emporia city, Virginia",25.3%,1470
+51600,VA,"Fairfax city, Virginia",6.7%,1480
+51610,VA,"Falls Church city, Virginia",7.1%,820
+51620,VA,"Franklin city, Virginia",22.8%,1950
+51630,VA,"Fredericksburg city, Virginia",15.6%,3650
+51640,VA,"Galax city, Virginia",17.5%,1220
+51650,VA,"Hampton city, Virginia",16.9%,23440
+51660,VA,"Harrisonburg city, Virginia",15.9%,7550
+51670,VA,"Hopewell city, Virginia",19.1%,4290
+51678,VA,"Lexington city, Virginia",18.6%,1300
+51680,VA,"Lynchburg city, Virginia",17.3%,12760
+51683,VA,"Manassas city, Virginia",10.5%,3770
+51685,VA,"Manassas Park city, Virginia",7.9%,1050
+51690,VA,"Martinsville city, Virginia",26.4%,3700
+51700,VA,"Newport News city, Virginia",15.5%,28160
+51710,VA,"Norfolk city, Virginia",17.7%,42870
+51720,VA,"Norton city, Virginia",13.8%,530
+51730,VA,"Petersburg city, Virginia",25.4%,8200
+51735,VA,"Poquoson city, Virginia",7.3%,880
+51740,VA,"Portsmouth city, Virginia",18.4%,17820
+51750,VA,"Radford city, Virginia",17.6%,2870
+51760,VA,"Richmond city, Virginia",21.4%,43220
+51770,VA,"Roanoke city, Virginia",16.9%,16170
+51775,VA,"Salem city, Virginia",10.1%,2480
+51790,VA,"Staunton city, Virginia",12.8%,3040
+51800,VA,"Suffolk city, Virginia",15%,12410
+51810,VA,"Virginia Beach city, Virginia",10.2%,44680
+51820,VA,"Waynesboro city, Virginia",14.1%,2950
+51830,VA,"Williamsburg city, Virginia",18.1%,2420
+51840,VA,"Winchester city, Virginia",12.3%,3180
+53001,WA,"Adams County, Washington",15.3%,2730
+53003,WA,"Asotin County, Washington",14.8%,3170
+53005,WA,"Benton County, Washington",12.7%,21140
+53007,WA,"Chelan County, Washington",12.9%,9190
+53009,WA,"Clallam County, Washington",16%,11300
+53011,WA,"Clark County, Washington",17.2%,71210
+53013,WA,"Columbia County, Washington",17%,670
+53015,WA,"Cowlitz County, Washington",18%,18270
+53017,WA,"Douglas County, Washington",13.3%,4930
+53019,WA,"Ferry County, Washington",20.5%,1540
+53021,WA,"Franklin County, Washington",13.7%,9760
+53023,WA,"Garfield County, Washington",14.5%,320
+53025,WA,"Grant County, Washington",15.9%,13580
+53027,WA,"Grays Harbor County, Washington",18.3%,13160
+53029,WA,"Island County, Washington",13.7%,10750
+53031,WA,"Jefferson County, Washington",15.4%,4550
+53033,WA,"King County, Washington",14%,262640
+53035,WA,"Kitsap County, Washington",13.1%,32290
+53037,WA,"Kittitas County, Washington",16.8%,6690
+53039,WA,"Klickitat County, Washington",17.3%,3470
+53041,WA,"Lewis County, Washington",17.6%,13150
+53043,WA,"Lincoln County, Washington",14.3%,1510
+53045,WA,"Mason County, Washington",16.6%,9870
+53047,WA,"Okanogan County, Washington",16.6%,6680
+53049,WA,"Pacific County, Washington",18.1%,3840
+53051,WA,"Pend Oreille County, Washington",19.3%,2490
+53053,WA,"Pierce County, Washington",15.3%,119880
+53055,WA,"San Juan County, Washington",12.6%,1950
+53057,WA,"Skagit County, Washington",14.6%,16860
+53059,WA,"Skamania County, Washington",16.5%,1790
+53061,WA,"Snohomish County, Washington",14.1%,98060
+53063,WA,"Spokane County, Washington",15.5%,71440
+53065,WA,"Stevens County, Washington",17.8%,7660
+53067,WA,"Thurston County, Washington",13.4%,32690
+53069,WA,"Wahkiakum County, Washington",17.8%,710
+53071,WA,"Walla Walla County, Washington",14.1%,8120
+53073,WA,"Whatcom County, Washington",14.9%,29230
+53075,WA,"Whitman County, Washington",16.6%,7270
+53077,WA,"Yakima County, Washington",15.4%,36380
+54001,WV,"Barbour County, West Virginia",15.4%,2510
+54003,WV,"Berkeley County, West Virginia",13.1%,13220
+54005,WV,"Boone County, West Virginia",14.1%,3500
+54007,WV,"Braxton County, West Virginia",16.2%,2360
+54009,WV,"Brooke County, West Virginia",15.5%,3760
+54011,WV,"Cabell County, West Virginia",14.9%,14280
+54013,WV,"Calhoun County, West Virginia",18.9%,1430
+54015,WV,"Clay County, West Virginia",19.9%,1910
+54017,WV,"Doddridge County, West Virginia",16.2%,1300
+54019,WV,"Fayette County, West Virginia",16.5%,7620
+54021,WV,"Gilmer County, West Virginia",18.1%,1520
+54023,WV,"Grant County, West Virginia",15.4%,1840
+54025,WV,"Greenbrier County, West Virginia",15.3%,5410
+54027,WV,"Hampshire County, West Virginia",14.7%,3470
+54029,WV,"Hancock County, West Virginia",16.8%,5180
+54031,WV,"Hardy County, West Virginia",14.6%,2020
+54033,WV,"Harrison County, West Virginia",13.9%,9490
+54035,WV,"Jackson County, West Virginia",16.6%,4840
+54037,WV,"Jefferson County, West Virginia",10.8%,5640
+54039,WV,"Kanawha County, West Virginia",13%,25100
+54041,WV,"Lewis County, West Virginia",14.4%,2360
+54043,WV,"Lincoln County, West Virginia",18.1%,3960
+54045,WV,"Logan County, West Virginia",16.2%,5910
+54047,WV,"McDowell County, West Virginia",21.3%,4810
+54049,WV,"Marion County, West Virginia",13.5%,7610
+54051,WV,"Marshall County, West Virginia",15.6%,5190
+54053,WV,"Mason County, West Virginia",17.7%,4780
+54055,WV,"Mercer County, West Virginia",15.9%,9810
+54057,WV,"Mineral County, West Virginia",14%,3900
+54059,WV,"Mingo County, West Virginia",16.6%,4480
+54061,WV,"Monongalia County, West Virginia",13%,12070
+54063,WV,"Monroe County, West Virginia",12.2%,1650
+54065,WV,"Morgan County, West Virginia",14.6%,2540
+54067,WV,"Nicholas County, West Virginia",15.4%,4050
+54069,WV,"Ohio County, West Virginia",14.4%,6400
+54071,WV,"Pendleton County, West Virginia",13.7%,1060
+54073,WV,"Pleasants County, West Virginia",14.8%,1140
+54075,WV,"Pocahontas County, West Virginia",16.3%,1440
+54077,WV,"Preston County, West Virginia",13.1%,4300
+54079,WV,"Putnam County, West Virginia",11.4%,6270
+54081,WV,"Raleigh County, West Virginia",14.8%,11620
+54083,WV,"Randolph County, West Virginia",15.6%,4550
+54085,WV,"Ritchie County, West Virginia",15.1%,1590
+54087,WV,"Roane County, West Virginia",20.1%,3040
+54089,WV,"Summers County, West Virginia",16.3%,2260
+54091,WV,"Taylor County, West Virginia",13.4%,2240
+54093,WV,"Tucker County, West Virginia",17.2%,1230
+54095,WV,"Tyler County, West Virginia",16%,1490
+54097,WV,"Upshur County, West Virginia",14.8%,3550
+54099,WV,"Wayne County, West Virginia",15.3%,6540
+54101,WV,"Webster County, West Virginia",17.8%,1650
+54103,WV,"Wetzel County, West Virginia",17.3%,2890
+54105,WV,"Wirt County, West Virginia",17.3%,990
+54107,WV,"Wood County, West Virginia",14.5%,12560
+54109,WV,"Wyoming County, West Virginia",15.6%,3750
+55001,WI,"Adams County, Wisconsin",14.5%,3050
+55003,WI,"Ashland County, Wisconsin",15%,2430
+55005,WI,"Barron County, Wisconsin",12.4%,5690
+55007,WI,"Bayfield County, Wisconsin",13.7%,2070
+55009,WI,"Brown County, Wisconsin",10.9%,26630
+55011,WI,"Buffalo County, Wisconsin",10.5%,1440
+55013,WI,"Burnett County, Wisconsin",15.1%,2380
+55015,WI,"Calumet County, Wisconsin",9.1%,4370
+55017,WI,"Chippewa County, Wisconsin",11.6%,7130
+55019,WI,"Clark County, Wisconsin",13.3%,4590
+55021,WI,"Columbia County, Wisconsin",11.1%,6240
+55023,WI,"Crawford County, Wisconsin",13.4%,2250
+55025,WI,"Dane County, Wisconsin",10.3%,49270
+55027,WI,"Dodge County, Wisconsin",11.5%,10270
+55029,WI,"Door County, Wisconsin",12.2%,3420
+55031,WI,"Douglas County, Wisconsin",12.3%,5380
+55033,WI,"Dunn County, Wisconsin",11.9%,5160
+55035,WI,"Eau Claire County, Wisconsin",11.8%,11450
+55037,WI,"Florence County, Wisconsin",14%,640
+55039,WI,"Fond du Lac County, Wisconsin",11.2%,11340
+55041,WI,"Forest County, Wisconsin",15.3%,1450
+55043,WI,"Grant County, Wisconsin",11.7%,5930
+55045,WI,"Green County, Wisconsin",11.2%,4080
+55047,WI,"Green Lake County, Wisconsin",12.3%,2340
+55049,WI,"Iowa County, Wisconsin",10.4%,2450
+55051,WI,"Iron County, Wisconsin",15.3%,930
+55053,WI,"Jackson County, Wisconsin",13.9%,2820
+55055,WI,"Jefferson County, Wisconsin",11.6%,9630
+55057,WI,"Juneau County, Wisconsin",13%,3480
+55059,WI,"Kenosha County, Wisconsin",13.8%,22720
+55061,WI,"Kewaunee County, Wisconsin",10.8%,2230
+55063,WI,"La Crosse County, Wisconsin",11.2%,12670
+55065,WI,"Lafayette County, Wisconsin",10.3%,1730
+55067,WI,"Langlade County, Wisconsin",13.1%,2650
+55069,WI,"Lincoln County, Wisconsin",13.8%,4000
+55071,WI,"Manitowoc County, Wisconsin",12%,9810
+55073,WI,"Marathon County, Wisconsin",11.5%,15290
+55075,WI,"Marinette County, Wisconsin",14.2%,5950
+55077,WI,"Marquette County, Wisconsin",13.2%,2030
+55078,WI,"Menominee County, Wisconsin",21.8%,930
+55079,WI,"Milwaukee County, Wisconsin",17.3%,161960
+55081,WI,"Monroe County, Wisconsin",11.9%,5230
+55083,WI,"Oconto County, Wisconsin",13.1%,4930
+55085,WI,"Oneida County, Wisconsin",12.8%,4650
+55087,WI,"Outagamie County, Wisconsin",10.8%,18860
+55089,WI,"Ozaukee County, Wisconsin",8.9%,7660
+55091,WI,"Pepin County, Wisconsin",10.7%,800
+55093,WI,"Pierce County, Wisconsin",10.5%,4270
+55095,WI,"Polk County, Wisconsin",12.4%,5500
+55097,WI,"Portage County, Wisconsin",11.3%,7830
+55099,WI,"Price County, Wisconsin",13.3%,1920
+55101,WI,"Racine County, Wisconsin",13.7%,26750
+55103,WI,"Richland County, Wisconsin",12.1%,2200
+55105,WI,"Rock County, Wisconsin",14.3%,22870
+55107,WI,"Rusk County, Wisconsin",15.7%,2340
+55109,WI,"St. Croix County, Wisconsin",9.8%,8090
+55111,WI,"Sauk County, Wisconsin",11.2%,6830
+55113,WI,"Sawyer County, Wisconsin",15.4%,2560
+55115,WI,"Shawano County, Wisconsin",12.9%,5390
+55117,WI,"Sheboygan County, Wisconsin",11.4%,13120
+55119,WI,"Taylor County, Wisconsin",13.7%,2810
+55121,WI,"Trempealeau County, Wisconsin",11%,3130
+55123,WI,"Vernon County, Wisconsin",12.1%,3560
+55125,WI,"Vilas County, Wisconsin",13.7%,2980
+55127,WI,"Walworth County, Wisconsin",11.9%,12110
+55129,WI,"Washburn County, Wisconsin",13.4%,2150
+55131,WI,"Washington County, Wisconsin",10%,13060
+55133,WI,"Waukesha County, Wisconsin",9.2%,35480
+55135,WI,"Waupaca County, Wisconsin",12.2%,6380
+55137,WI,"Waushara County, Wisconsin",13.6%,3350
+55139,WI,"Winnebago County, Wisconsin",11%,18150
+55141,WI,"Wood County, Wisconsin",11.4%,8510
+56001,WY,"Albany County, Wyoming",14.1%,4940
+56003,WY,"Big Horn County, Wyoming",12.8%,1460
+56005,WY,"Campbell County, Wyoming",10.7%,4600
+56007,WY,"Carbon County, Wyoming",12%,1870
+56009,WY,"Converse County, Wyoming",11.1%,1490
+56011,WY,"Crook County, Wyoming",11.3%,770
+56013,WY,"Fremont County, Wyoming",14.3%,5540
+56015,WY,"Goshen County, Wyoming",12.6%,1620
+56017,WY,"Hot Springs County, Wyoming",11.6%,550
+56019,WY,"Johnson County, Wyoming",13.1%,1090
+56021,WY,"Laramie County, Wyoming",12.6%,11250
+56023,WY,"Lincoln County, Wyoming",13.5%,2350
+56025,WY,"Natrona County, Wyoming",12.3%,9020
+56027,WY,"Niobrara County, Wyoming",12%,290
+56029,WY,"Park County, Wyoming",12.3%,3390
+56031,WY,"Platte County, Wyoming",12.6%,1090
+56033,WY,"Sheridan County, Wyoming",12.8%,3630
+56035,WY,"Sublette County, Wyoming",8.8%,820
+56037,WY,"Sweetwater County, Wyoming",11.2%,4720
+56039,WY,"Teton County, Wyoming",12.2%,2540
+56041,WY,"Uinta County, Wyoming",12.8%,2620
+56043,WY,"Washakie County, Wyoming",10.8%,900
+56045,WY,"Weston County, Wyoming",11.6%,820
