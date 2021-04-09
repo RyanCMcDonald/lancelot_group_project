@@ -1,8 +1,11 @@
-# <img src="./resources/GA.png" width="25" height="25" />   <span style="color:Purple">Project 5 :  Food Insecurity Regression Study</span> 
+# <img src="./resources/GA.png" width="25" height="25" />   <span style="color:Purple">Food Insecurity Regression / Time Series Study</span> 
 ---
-## <span style="color:Green">Group 1</span>      
+#### <span style="color:Green">This was a fantastic group effort!</span>      
 
-#### Alec Edgecliffe-Johnson, Ryan McDonald, Andrew Roberts, Ira Seidman- General Assembly 
+#### [Ryan McDonald](https://github.com/RyanCMcDonald)
+#### [Alec Edgecliffe-Johnson](https://github.com/alece-j)
+#### [Andrew Roberts](https://github.com/akr2293)
+#### [Ira Seidman](https://github.com/iraseidman)
 
 ---
 ### Problem Statement
